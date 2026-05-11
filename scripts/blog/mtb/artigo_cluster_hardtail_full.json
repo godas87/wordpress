@@ -1,0 +1,50 @@
+[
+  {
+    "tipo": "cluster",
+    "cluster_pai": "Mountain Bike (MTB)",
+    "titulo": "Hardtail contra full na MTB usada onde traseira dura vira trunfo e onde vira castigo na lombada longa",
+    "slug": "hardtail-vs-full-suspension-qual-mtb-escolher",
+    "descricao_seo": "Hardtail ou full suspension: diferenças técnicas, prós e contras, e encaixe com estilo de pedal e orçamento na usada.",
+    "imagem_capa": "capa_hardtail_vs_full.jpg",
+    "taxonomias": [
+      {
+        "taxonomy": "modalidade",
+        "id": 3,
+        "slug": "mountain-bike-mtb",
+        "nome": "Mountain Bike (MTB)"
+      },
+      {
+        "taxonomy": "componente",
+        "id": 42,
+        "slug": "suspensao-dianteira",
+        "nome": "Suspensão Dianteira"
+      },
+      {
+        "taxonomy": "componente",
+        "id": 43,
+        "slug": "suspensao-traseira",
+        "nome": "Suspensão Traseira"
+      },
+      {
+        "taxonomy": "componente",
+        "id": 18,
+        "slug": "quadro",
+        "nome": "Quadro"
+      }
+    ],
+    "links_internos_sugeridos": [
+      {
+        "texto_ancora": "Guia Definitivo da MTB Usada",
+        "url_relativa": "/blog/guia-definitivo-mountain-bike-usada/"
+      },
+      {
+        "texto_ancora": "aro 29 é para mim?",
+        "url_relativa": "/blog/aro-29-e-para-mim-te-ajudamos-a-fazer-a-melhor-escolha/"
+      },
+      {
+        "texto_ancora": "freios Shimano",
+        "url_relativa": "/blog/freios-shimano-desempenho-superior-para-sua-bicicleta/"
+      }
+    ]
+  }
+]

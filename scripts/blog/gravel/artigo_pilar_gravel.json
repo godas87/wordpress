@@ -1,0 +1,27 @@
+[
+  {
+    "tag": "Gravel",
+    "blog": [
+      {
+        "titulo": "Gravel seminova pra misturar asfalto e barro: perfil certo pra não levar susto feio na segunda subida dura",
+        "descricao": "Antes de comprar gravel usada: perfis All-Road, Adventure e Race, e inspeção de quadro e componentes.",
+        "outline 1": "Entendendo o Espectro Gravel",
+        "outline 2": "O Checklist de Inspeção da Gravel Usada",
+        "outline 3": "O Fator Tubeless",
+        "outline 4": "Veredito: A Compra Inteligente",
+        "taxonomias": [
+          {
+            "id": 10,
+            "slug": "gravel",
+            "tipo": "modalidade"
+          },
+          {
+            "id": 2,
+            "slug": "quadro",
+            "tipo": "componente"
+          }
+        ]
+      }
+    ]
+  }
+]

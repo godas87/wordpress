@@ -1,0 +1,23 @@
+[
+  {
+    "tag": "Elétrica Usada",
+    "blog": [
+      {
+        "titulo": "Bateria envelhecendo rápido demais hábitos na tomada que cobram caro no seminovo quando segunda vida começa",
+        "descricao": "Boas práticas de carga e armazenamento para preservar a bateria da e-bike e reduzir custo de reposição.",
+        "outline 1": "Mito 1: \"Você deve descarregar a bateria até 0% antes de recarregar\"",
+        "outline 2": "Mito 2: \"Deixar na tomada a noite toda vicia a bateria\"",
+        "outline 3": "A Regra de Ouro do Armazenamento (Inverno/Férias)",
+        "outline 4": "O Inimigo Invisível: A Temperatura",
+        "outline 5": "O Balanceamento das Células (A Exceção à Regra dos 80%)",
+        "taxonomias": [
+          {
+            "id": 13365,
+            "slug": "eletrica",
+            "tipo": "modalidade"
+          }
+        ]
+      }
+    ]
+  }
+]

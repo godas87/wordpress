@@ -1,0 +1,59 @@
+[
+  {
+    "tipo": "cluster",
+    "cluster_pai": "mountain-bike-mtb",
+    "titulo": "Mecânico contra hidráulico na MTB segunda mão onde mão suja barata encontra confiança cara na descida apertada",
+    "slug_sugerido": "freios-mecanico-vs-hidraulico-mtb",
+    "descricao_seo": "Freios mecânicos e hidráulicos na MTB: potência, modulação, custo e manutenção. Critérios na compra de uma usada.",
+    "taxonomias": [
+      {
+        "tipo": "modalidade",
+        "id": 10,
+        "slug": "mountain-bike-mtb",
+        "nome": "Mountain Bike (MTB)"
+      },
+      {
+        "tipo": "componente",
+        "id": 52,
+        "slug": "freio-dianteiro",
+        "nome": "Freio Dianteiro"
+      },
+      {
+        "tipo": "componente",
+        "id": 53,
+        "slug": "freio-traseiro",
+        "nome": "Freio Traseiro"
+      },
+      {
+        "tipo": "componente",
+        "id": 54,
+        "slug": "disco-de-freio",
+        "nome": "Disco de Freio"
+      },
+      {
+        "tipo": "componente",
+        "id": 55,
+        "slug": "pastilha-disco",
+        "nome": "Pastilha Disco"
+      }
+    ],
+    "links_internos": [
+      {
+        "texto_ancora": "Guia Definitivo da MTB Usada",
+        "url_sugerida": "/blog/guia-definitivo-mountain-bike-usada/",
+        "contexto": "Link no parágrafo de introdução, ao mencionar a compra de bicicleta usada"
+      },
+      {
+        "texto_ancora": "freios Shimano",
+        "url_sugerida": "/blog/freios-shimano-desempenho-superior-para-sua-bicicleta/",
+        "contexto": "Link na seção de veredito, ao mencionar o Shimano MT200"
+      }
+    ],
+    "imagem_capa": {
+      "arquivo": "capa_freios_mecanico_hidraulico.jpg",
+      "dimensoes": "2752x1536px",
+      "alt_text": "Comparativo entre freio a disco mecânico (esquerda) e freio a disco hidráulico (direita) em Mountain Bikes em trilhas brasileiras",
+      "legenda": "Freio mecânico em estrada de terra (esq.) vs. freio hidráulico em trilha técnica rochosa (dir.)"
+    }
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "tag": "Conversão e-Bike",
+    "blog": [
+      {
+        "titulo": "E-bike de fábrica versus kit na conversão seminovo: nota, norma e corrente onde boa intenção pode sair caríssima",
+        "descricao": "E-bike de fábrica versus conversão com kit: diferenças de segurança, desempenho e manutenção. O que inspecionar antes de comprar.",
+        "outline 1": "A e-Bike de Fábrica (Purpose-Built)",
+        "outline 2": "A Bicicleta Convertida (Kit de Conversão)",
+        "outline 3": "O Que Verificar ao Comprar Usada",
+        "outline 4": "Conclusão fábrica versus kit na e-bike usada",
+        "taxonomias": [
+          {
+            "id": 8,
+            "slug": "eletrica",
+            "tipo": "modalidade"
+          },
+          {
+            "id": 26,
+            "slug": "quadro",
+            "tipo": "componente"
+          }
+        ]
+      }
+    ]
+  }
+]

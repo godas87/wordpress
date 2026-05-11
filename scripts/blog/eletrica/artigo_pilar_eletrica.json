@@ -1,0 +1,22 @@
+[
+  {
+    "tag": "Bicicleta Elétrica",
+    "blog": [
+      {
+        "titulo": "Seminovo elétrico bonito demais na foto: bateria, motor e chicote contando verdade antes do pagamento fechar",
+        "descricao": "Antes de comprar e-bike usada: testar bateria e motor, ler sinais de desgaste e evitar pegadinhas comuns no seminovo.",
+        "outline 1": "Entenda os Tipos de Motor (Cubo vs. Central)",
+        "outline 2": "O Coração da e-Bike: Como Testar a Bateria",
+        "outline 3": "Checklist de Inspeção Mecânica e Elétrica",
+        "outline 4": "A Regra de Ouro: Marcas Reconhecidas vs. Genéricas",
+        "taxonomias": [
+          {
+            "id": 8,
+            "slug": "eletrica",
+            "tipo": "modalidade"
+          }
+        ]
+      }
+    ]
+  }
+]

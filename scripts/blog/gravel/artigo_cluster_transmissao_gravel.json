@@ -1,0 +1,32 @@
+[
+  {
+    "tag": "Transmissão Gravel",
+    "blog": [
+      {
+        "titulo": "Transmissão na gravel entre 1x e 2x seminovo onde terreno pesado e peso da mochila ditam escolha rápida firme",
+        "descricao": "Coroa única ou dupla na gravel: vantagens, limitações e o que inspecionar na compra.",
+        "outline 1": "Transmissão 1x (Uma Coroa)",
+        "outline 2": "Transmissão 2x (Duas Coroas)",
+        "outline 3": "O Que Verificar ao Comprar Usada",
+        "outline 4": "Veredito",
+        "taxonomias": [
+          {
+            "id": 10,
+            "slug": "gravel",
+            "tipo": "modalidade"
+          },
+          {
+            "id": 24,
+            "slug": "coroa",
+            "tipo": "componente"
+          },
+          {
+            "id": 26,
+            "slug": "cambio-dianteiro",
+            "tipo": "componente"
+          }
+        ]
+      }
+    ]
+  }
+]

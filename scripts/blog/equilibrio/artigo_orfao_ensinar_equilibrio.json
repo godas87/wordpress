@@ -1,0 +1,22 @@
+[
+  {
+    "tag": "Equilíbrio Usada",
+    "blog": [
+      {
+        "titulo": "Saia do modo segurar forte demais: cinco ritmos pra criança dominar balance bike sem frustração no passeio curto",
+        "descricao": "Quatro estágios naturais para ensinar a andar de bicicleta de equilíbrio: dicas para evitar frustração e ganhar ritmo.",
+        "outline 1": "Estágio 1: Ficar em Pé e Caminhar (O \"Passeio de Pato\")",
+        "outline 2": "Estágio 2: Sentar e Caminhar",
+        "outline 3": "Estágio 3: Sentar, Correr e Frear",
+        "outline 4": "Estágio 4: O Deslize (Gliding)",
+        "taxonomias": [
+          {
+            "id": 13366,
+            "slug": "equilibrio",
+            "tipo": "modalidade"
+          }
+        ]
+      }
+    ]
+  }
+]

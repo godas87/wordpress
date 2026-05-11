@@ -1,0 +1,26 @@
+[
+  {
+    "tag": "MTB Usada",
+    "blog": [
+      {
+        "titulo": "Mercado já matou 3x fantasmas na MTB segunda mão onde 1x manda onde 2x ainda aparece e onde romance acabou",
+        "descricao": "Por que o 1x dominou a MTB moderna e por que faz sentido priorizar coroa única ao comprar usada.",
+        "outline 1": "O Sistema Tradicional (2x ou 3x)",
+        "outline 2": "A Revolução do Sistema 1x (Coroa Única)",
+        "outline 3": "O Veredito na Compra de Usadas",
+        "taxonomias": [
+          {
+            "id": 13371,
+            "slug": "mountain-bike-mtb",
+            "tipo": "modalidade"
+          },
+          {
+            "id": 23,
+            "slug": "transmissao",
+            "tipo": "componente"
+          }
+        ]
+      }
+    ]
+  }
+]

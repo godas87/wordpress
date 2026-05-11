@@ -1,0 +1,27 @@
+[
+  {
+    "tag": "Downhill Usada",
+    "blog": [
+      {
+        "titulo": "Pneu DH com carcaça dupla ou mais leve: onde proteção pesa e onde o seminovo cobra caro na primeira sorte ruim",
+        "descricao": "Pneus com carcaça dupla (DH) versus carcaça simples: por que a proteção importa no DH e como escolher no usado.",
+        "outline 1": "O Que é a Carcaça do Pneu (Casing)?",
+        "outline 2": "Carcaça Simples (Single Ply / Trail / Enduro Light)",
+        "outline 3": "Carcaça Dupla (Dual Ply / DH Casing)",
+        "outline 4": "O Dilema na Compra de Usadas",
+        "taxonomias": [
+          {
+            "id": 7,
+            "slug": "downhill",
+            "tipo": "modalidade"
+          },
+          {
+            "id": 27,
+            "slug": "pneus",
+            "tipo": "componente"
+          }
+        ]
+      }
+    ]
+  }
+]

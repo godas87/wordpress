@@ -1,0 +1,79 @@
+{
+  "marca-modelo": [
+    {
+      "id": 12260,
+      "nome": "Caloi",
+      "count": 90
+    },
+    {
+      "id": 12414,
+      "nome": "Oggi",
+      "count": 56
+    },
+    {
+      "id": 12383,
+      "nome": "Sense",
+      "count": 36
+    },
+    {
+      "id": 12172,
+      "nome": "Specialized",
+      "count": 32
+    },
+    {
+      "id": 12176,
+      "nome": "Cannondale",
+      "count": 27
+    },
+    {
+      "id": 12199,
+      "nome": "Shimano",
+      "count": 24
+    },
+    {
+      "id": 12355,
+      "nome": "Trek",
+      "count": 20
+    },
+    {
+      "id": 12555,
+      "nome": "Absolute",
+      "count": 19
+    },
+    {
+      "id": 12344,
+      "nome": "Soul",
+      "count": 17
+    },
+    {
+      "id": 12392,
+      "nome": "GTS M1",
+      "count": 15
+    },
+    {
+      "id": 12370,
+      "nome": "GT",
+      "count": 14
+    },
+    {
+      "id": 12576,
+      "nome": "RockRide",
+      "count": 13
+    },
+    {
+      "id": 12377,
+      "nome": "KSW",
+      "count": 11
+    },
+    {
+      "id": 12507,
+      "nome": "South",
+      "count": 11
+    },
+    {
+      "id": 12570,
+      "nome": "TSW",
+      "count": 11
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+[
+  {
+    "tag": "Gravel Usada",
+    "blog": [
+      {
+        "titulo": "1x contra 2x na gravel usada: guidão zen ou marcha longa na subida com buraco e mochila falando mais alto",
+        "descricao": "Transmissão 1x versus 2x no gravel: simplicidade, faixa de marchas e o que priorizar na bike usada.",
+        "outline 1": "A Transmissão 1x (Coroa Única)",
+        "outline 2": "A Transmissão 2x (Coroa Dupla)",
+        "outline 3": "O Dilema na Compra de Usadas",
+        "taxonomias": [
+          {
+            "id": 13368,
+            "slug": "gravel",
+            "tipo": "modalidade"
+          },
+          {
+            "id": 23,
+            "slug": "transmissao",
+            "tipo": "componente"
+          }
+        ]
+      }
+    ]
+  }
+]

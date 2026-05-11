@@ -1,0 +1,26 @@
+[
+  {
+    "tag": "Elétrica Usada",
+    "blog": [
+      {
+        "titulo": "E-bike integrada versus removível na segunda mão: surpresas de dono anterior que aparecem quando o anúncio bonito some",
+        "descricao": "Design com bateria embutida versus bateria removível: segurança no uso cotidiano, praticidade e custo de reposição.",
+        "outline 1": "A Bateria Externa (Removível)",
+        "outline 2": "A Bateria Integrada (Embutida)",
+        "outline 3": "O Dilema na Compra de Usadas",
+        "taxonomias": [
+          {
+            "id": 13365,
+            "slug": "eletrica",
+            "tipo": "modalidade"
+          },
+          {
+            "id": 26,
+            "slug": "quadro",
+            "tipo": "componente"
+          }
+        ]
+      }
+    ]
+  }
+]

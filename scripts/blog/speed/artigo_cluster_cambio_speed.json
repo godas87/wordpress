@@ -1,0 +1,26 @@
+[
+  {
+    "tag": "Speed Usada",
+    "blog": [
+      {
+        "titulo": "Eletrônico contra mecânico na speed segunda mão: bateria e clique dividindo casa quando amigos ficam dois lados diferentes",
+        "descricao": "Câmbio eletrônico (Di2/eTap) versus mecânico na speed usada: custo, bateria e sensação de uso.",
+        "outline 1": "O Câmbio Mecânico (A Tradição Confiável)",
+        "outline 2": "O Câmbio Eletrônico (A Precisão Cirúrgica)",
+        "outline 3": "O Veredito no XXXXXX",
+        "taxonomias": [
+          {
+            "id": 13372,
+            "slug": "speed",
+            "tipo": "modalidade"
+          },
+          {
+            "id": 23,
+            "slug": "transmissao",
+            "tipo": "componente"
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,67 @@
+{
+  "tipo": "cluster",
+  "cluster_pai": "Mountain Bike (MTB)",
+  "titulo": "Shimano contra SRAM na mountain bike segunda mão hierarquia aparecendo no desgaste e na conta de pecinha cara",
+  "slug": "shimano-vs-sram-qual-transmissao-escolher-mtb",
+  "descricao_seo": "Shimano e SRAM na MTB: diferenças de engenharia, hierarquias (Deore a XTR; NX a XX1) e leitura de desgaste na transmissão usada.",
+  "imagem_capa": "capa_shimano_vs_sram.jpg",
+  "taxonomias": [
+    {
+      "taxonomy": "modalidade",
+      "id": 3,
+      "slug": "mountain-bike-mtb",
+      "nome": "Mountain Bike (MTB)"
+    },
+    {
+      "taxonomy": "componente",
+      "id": 22,
+      "slug": "cambio-traseiro",
+      "nome": "Câmbio Traseiro"
+    },
+    {
+      "taxonomy": "componente",
+      "id": 21,
+      "slug": "cambio-dianteiro",
+      "nome": "Câmbio Dianteiro"
+    },
+    {
+      "taxonomy": "componente",
+      "id": 14,
+      "slug": "cassete",
+      "nome": "Cassete"
+    },
+    {
+      "taxonomy": "componente",
+      "id": 28,
+      "slug": "passador-rapid-fire",
+      "nome": "Passador Rapid Fire"
+    },
+    {
+      "taxonomy": "componente",
+      "id": 29,
+      "slug": "passador-trigger",
+      "nome": "Passador Trigger"
+    },
+    {
+      "taxonomy": "componente",
+      "id": 16,
+      "slug": "corrente",
+      "nome": "Corrente"
+    }
+  ],
+  "links_internos_sugeridos": [
+    {
+      "texto_ancora": "Guia Definitivo da MTB Usada",
+      "url_relativa": "/blog/guia-definitivo-mountain-bike-usada/"
+    },
+    {
+      "texto_ancora": "freios Shimano",
+      "url_relativa": "/blog/freios-shimano-desempenho-superior-para-sua-bicicleta/"
+    },
+    {
+      "texto_ancora": "Hardtail vs. Full Suspension",
+      "url_relativa": "/blog/hardtail-vs-full-suspension-qual-mtb-escolher/"
+    }
+  ],
+  "conteudo_md": "/home/ubuntu/artigo_cluster_shimano_sram.md"
+}

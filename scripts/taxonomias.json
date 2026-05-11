@@ -1,0 +1,2696 @@
+{
+  "category": [
+    {
+      "nome": "Bicicleta",
+      "icone": "/src/imgs/componentes/bike.png",
+      "ordem": 1,
+      "descricao": "Encontre bicicletas usadas e seminovas de todas as modalidades e marcas. O melhor classificado do Brasil para comprar ou vender sua bike com segurança, transparência e preço justo."
+    },
+    {
+      "nome": "Peça",
+      "icone": "/src/imgs/componentes/pedivela.png",
+      "ordem": 2,
+      "descricao": "Turbine seu pedal com peças de bicicleta selecionadas. Encontre componentes de transmissão, freios e suspensões para reposição ou upgrade com o melhor custo-benefício do mercado."
+    },
+    {
+      "nome": "Acessório",
+      "icone": "/src/imgs/componentes/capacete.png",
+      "ordem": 3,
+      "descricao": "Tudo o que você precisa para pedalar com conforto e segurança. Explore nossa seleção de capacetes, sapatilhas, GPS e iluminação nos classificados do Bazar Bikes."
+    }
+  ],
+  "cor": [
+    {
+      "nome": "Amarelo",
+      "ordem": 1
+    },
+    {
+      "nome": "Azul",
+      "ordem": 2
+    },
+    {
+      "nome": "Bege",
+      "ordem": 3
+    },
+    {
+      "nome": "Branco",
+      "ordem": 4
+    },
+    {
+      "nome": "Cinza",
+      "ordem": 5
+    },
+    {
+      "nome": "Cromado",
+      "ordem": 6
+    },
+    {
+      "nome": "Dourado",
+      "ordem": 7
+    },
+    {
+      "nome": "Laranja",
+      "ordem": 8
+    },
+    {
+      "nome": "Marrom",
+      "ordem": 9
+    },
+    {
+      "nome": "Prata",
+      "ordem": 10
+    },
+    {
+      "nome": "Preto",
+      "ordem": 11
+    },
+    {
+      "nome": "Rosa",
+      "ordem": 12
+    },
+    {
+      "nome": "Roxo",
+      "ordem": 13
+    },
+    {
+      "nome": "Verde",
+      "ordem": 14
+    },
+    {
+      "nome": "Vermelho",
+      "ordem": 15
+    }
+  ],
+  "negociacao": [
+    {
+      "nome": "A Prazo",
+      "ordem": 1
+    },
+    {
+      "nome": "À Vista",
+      "ordem": 2
+    },
+    {
+      "nome": "Aceita Troca",
+      "ordem": 3
+    },
+    {
+      "nome": "Crédito",
+      "ordem": 4
+    },
+    {
+      "nome": "Débito",
+      "ordem": 5
+    }
+  ],
+  "material": [
+    {
+      "nome": "Alumínio",
+      "ordem": 1
+    },
+    {
+      "nome": "Ar",
+      "ordem": 2
+    },
+    {
+      "nome": "Borracha",
+      "ordem": 3
+    },
+    {
+      "nome": "Carbono",
+      "ordem": 4
+    },
+    {
+      "nome": "Digital",
+      "ordem": 5
+    },
+    {
+      "nome": "Elétrico",
+      "ordem": 6
+    },
+    {
+      "nome": "Ferro",
+      "ordem": 7
+    },
+    {
+      "nome": "Hidraulico",
+      "ordem": 8
+    },
+    {
+      "nome": "Kevlar",
+      "ordem": 9
+    },
+    {
+      "nome": "Madeira",
+      "ordem": 10
+    },
+    {
+      "nome": "Metal",
+      "ordem": 11
+    },
+    {
+      "nome": "Mola",
+      "ordem": 12
+    },
+    {
+      "nome": "Nylon",
+      "ordem": 13
+    },
+    {
+      "nome": "Plástico",
+      "ordem": 14
+    },
+    {
+      "nome": "Porcelana",
+      "ordem": 15
+    },
+    {
+      "nome": "Resina",
+      "ordem": 16
+    },
+    {
+      "nome": "Silicone",
+      "ordem": 17
+    },
+    {
+      "nome": "Vinil",
+      "ordem": 18
+    }
+  ],
+  "conservacao": [
+    {
+      "nome": "Novo",
+      "ordem": 1
+    },
+    {
+      "nome": "Seminovo",
+      "ordem": 2
+    },
+    {
+      "nome": "Usado",
+      "ordem": 3
+    },
+    {
+      "nome": "Recondicionado",
+      "ordem": 4
+    },
+    {
+      "nome": "Com defeito",
+      "ordem": 5
+    }
+  ],
+  "genero": [
+    {
+      "nome": "Feminino",
+      "ordem": 1
+    },
+    {
+      "nome": "Masculino",
+      "ordem": 2
+    },
+    {
+      "nome": "Unissex",
+      "ordem": 3
+    }
+  ],
+  "idade": [
+    {
+      "nome": "Adulto",
+      "ordem": 1
+    },
+    {
+      "nome": "Infantil",
+      "ordem": 2
+    },
+    {
+      "nome": "Jovem",
+      "ordem": 3
+    }
+  ],
+  "modalidade": [
+    {
+      "nome": "BMX",
+      "ordem": 1,
+      "descricao": "Bicicletas BMX para manobras e freestyle. Encontre modelos resistentes e leves para park, street ou dirt jump, perfeitos para quem busca adrenalina e estilo sobre duas rodas."
+    },
+    {
+      "nome": "Cargueira",
+      "ordem": 2,
+      "descricao": "Soluções eficientes para transporte e logística urbana. Encontre bicicletas cargueiras robustas, ideais para entregas ou uso comercial com praticidade e economia."
+    },
+    {
+      "nome": "Chopper",
+      "ordem": 3,
+      "descricao": "Estilo único e posição de pilotagem relaxada. Explore bicicletas Chopper personalizadas para quem valoriza o design clássico e quer se destacar nos passeios urbanos."
+    },
+    {
+      "nome": "Custom",
+      "ordem": 4,
+      "descricao": "Bicicletas exclusivas e construídas artesanalmente. Se você busca uma bike com personalidade própria e montagem personalizada, confira as opções customizadas disponíveis."
+    },
+    {
+      "nome": "Dobrável",
+      "ordem": 5,
+      "descricao": "Praticidade máxima para o dia a dia. Encontre bicicletas dobráveis ideais para intermodalidade no transporte urbano, fáceis de guardar e transportar em qualquer lugar."
+    },
+    {
+      "nome": "Downhill",
+      "ordem": 6,
+      "descricao": "Performance extrema em descidas brutas. Encontre bicicletas de Downhill (DH) com suspensões de longo curso e quadros reforçados para encarar as trilhas mais técnicas."
+    },
+    {
+      "nome": "Elétrica",
+      "ordem": 7,
+      "descricao": "O futuro da mobilidade está aqui. Encontre bicicletas elétricas (e-bikes) usadas e seminovas com motores centrais ou de cubo para facilitar suas subidas e deslocamentos."
+    },
+    {
+      "nome": "Equilibrio",
+      "ordem": 8,
+      "descricao": "O primeiro passo para pequenos ciclistas. Encontre balance bikes de equilíbrio, perfeitas para crianças desenvolverem coordenação motora antes de passarem para os pedais."
+    },
+    {
+      "nome": "Freerider",
+      "ordem": 9,
+      "descricao": "Versatilidade e resistência para saltos e trilhas técnicas. Encontre bikes de Freeride prontas para aguentar o tranco em qualquer terreno com agilidade e controle."
+    },
+    {
+      "nome": "Gravel",
+      "ordem": 10,
+      "descricao": "Liberdade para pedalar no asfalto e na terra. Explore bicicletas Gravel que unem a velocidade da Speed com a resistência da MTB para suas aventuras em estradões."
+    },
+    {
+      "nome": "Infantil",
+      "ordem": 11,
+      "descricao": "Bicicletas para todas as idades. Encontre modelos infantis seguros e divertidos, do aro 12 ao 24, para incentivar o esporte desde os primeiros anos de vida."
+    },
+    {
+      "nome": "Motorizada",
+      "ordem": 12,
+      "descricao": "Economia e agilidade no transporte diário. Encontre bicicletas motorizadas prontas para o uso, combinando a praticidade da bike com a potência dos motores auxiliares."
+    },
+    {
+      "nome": "Mountain Bike (MTB)",
+      "ordem": 13,
+      "descricao": "Domine as trilhas com as melhores Mountain Bikes. Encontre modelos Hardtail e Full Suspension aro 29, seminovos e usados, para todos os níveis de ciclistas de montanha."
+    },
+    {
+      "nome": "Speed",
+      "ordem": 14,
+      "descricao": "Velocidade e aerodinâmica no asfalto. Encontre bicicletas de estrada (Speed) leves, com quadros de carbono ou alumínio, para treinos, provas e alta performance."
+    },
+    {
+      "nome": "Triathlon",
+      "ordem": 15,
+      "descricao": "Máxima performance contra o relógio. Explore bicicletas de Triathlon e Contra-Relógio (TT) com geometria aerodinâmica para ganhar cada segundo em suas competições."
+    },
+    {
+      "nome": "Urbana",
+      "ordem": 16,
+      "descricao": "Sua melhor parceira na cidade. Encontre bicicletas urbanas confortáveis e práticas para transporte diário, lazer e deslocamentos rápidos com eficiência."
+    },
+    {
+      "nome": "Vintage",
+      "ordem": 17,
+      "descricao": "O charme das clássicas de volta às ruas. Encontre bicicletas vintage e retrô restauradas ou originais de época para colecionadores e amantes do design atemporal."
+    }
+  ],
+  "componente": [
+    {
+      "nome": "Aro",
+      "icone": "/src/imgs/componentes/aro.png",
+      "default_bicicletas": true,
+      "ordem_componente": 1,
+      "descricao": "Aros para todos os perfis de ciclista. Encontre aros de alumínio ou carbono, compatíveis com tubeless, para MTB, Speed e uso urbano com resistência e leveza.",
+      "filhos": [ 
+        {
+          "nome": "12"
+        },
+        {
+          "nome": "14"
+        },                       
+        {
+          "nome": "16"
+        },
+        {
+          "nome": "18"
+        },
+        {
+          "nome": "20"
+        },
+        {
+          "nome": "24"
+        },
+        {
+          "nome": "26"
+        },
+        {
+          "nome": "27.5"
+        },
+        {
+          "nome": "29"
+        },                
+        {
+          "nome": "650c"
+        },
+        {
+          "nome": "650b"
+        },
+        {
+          "nome": "700c"
+        }
+      ]
+    },
+    {
+      "nome": "Quadro",
+      "icone": "/src/imgs/componentes/quadro.png",
+      "default_bicicletas": true,
+      "ordem_componente": 2,
+      "descricao": "A base de todas as bicicletas. Encontre quadros de bicicleta em carbono, alumínio e cromoly para montar a bike dos seus sonhos com a geometria ideal.",
+      "filhos": [
+        {
+          "nome": "11"
+        },
+        {
+          "nome": "13"
+        },
+        {
+          "nome": "15"
+        },
+        {
+          "nome": "17"
+        },
+        {
+          "nome": "19"
+        },
+        {
+          "nome": "21"
+        },
+        {
+          "nome": "23"
+        },
+        {
+          "nome": "23+"
+        }
+      ]
+    },
+    {
+      "nome": "Câmbio Dianteiro",
+      "icone": "/src/imgs/componentes/cambio-dianteiro.png",
+      "default_bicicletas": true,
+      "ordem_componente": 3,
+      "descricao": "Trocas de marcha precisas. Encontre câmbios dianteiros Shimano, SRAM e outras marcas para sistemas de 2x ou 3x velocidades com alta durabilidade.",
+      "filhos": [
+        {
+          "nome": "1v"
+        },
+        {
+          "nome": "2v"
+        },
+        {
+          "nome": "3v"
+        }
+      ]
+    },
+    {
+      "nome": "Câmbio Traseiro",
+      "icone": "/src/imgs/componentes/cambio-traseiro.png",
+      "default_bicicletas": true,
+      "ordem_componente": 4,
+      "descricao": "Precisão em qualquer terreno. Encontre câmbios traseiros com tecnologia de trava (clutch) para sistemas de 1x11, 1x12 e transmissões eletrônicas de alta gama.",
+      "filhos": [
+        {
+          "nome": "Fixa"
+        },
+        {
+          "nome": "1v"
+        },
+        {
+          "nome": "3v"
+        },
+        {
+          "nome": "4v"
+        },
+        {
+          "nome": "5v"
+        },
+        {
+          "nome": "6v"
+        },
+        {
+          "nome": "7v"
+        },
+        {
+          "nome": "8v"
+        },
+        {
+          "nome": "9v"
+        },
+        {
+          "nome": "10v"
+        },
+        {
+          "nome": "11v"
+        },
+        {
+          "nome": "12v"
+        }
+      ]
+    },
+    {
+      "nome": "Freio",
+      "icone": "/src/imgs/componentes/freio.png",
+      "default_bicicletas": true,
+      "ordem_componente": 5,
+      "descricao": "Segurança e modulação total. Explore freios a disco hidráulicos, mecânicos e v-brakes para garantir frenagens potentes e seguras em todas as condições.",
+      "filhos": [
+        {
+          "nome": "Disco Hidraulico"
+        },
+        {
+          "nome": "Disco Mecânico"
+        },        
+        {
+          "nome": "V-Brake",
+          "icone": "/src/imgs/componentes/pastilhas.png"
+        },
+        {
+          "nome": "Cantilever",
+          "icone": "/src/imgs/componentes/freio-borracha.png"
+        },
+        {
+          "nome": "Ferradura",
+          "icone": "/src/imgs/componentes/freio-ferradura.png"
+        },        
+        {
+          "nome": "Contra Pedal"
+        },
+        {
+          "nome": "Sem freios"
+        }
+      ]
+    },
+    {
+      "nome": "Suspensão",
+      "icone": "/src/imgs/componentes/suspensao.png",
+      "default_bicicletas": true,
+      "ordem_componente": 6,
+      "descricao": "Conforto e leitura de terreno. Encontre suspensões dianteiras a ar ou mola das melhores marcas para absorver impactos e melhorar o controle da sua Mountain Bike.",
+      "filhos": [
+        {
+          "nome": "Ar e Óleo"
+        },
+        {
+          "nome": "Elastômero"
+        },
+        {
+          "nome": "Hidráulica"
+        },
+        {
+          "nome": "Mola"
+        },
+        {
+          "nome": "Mola e Elastômero"
+        },
+        {
+          "nome": "Rígida",
+          "icone": "/src/imgs/componentes/suspensao-rigida.png"
+        }
+      ]
+    },
+    {
+      "nome": "Trocador",
+      "icone": "/src/imgs/componentes/passadores.png",
+      "default_bicicletas": true,
+      "ordem_componente": 7,
+      "descricao": "Confiabilidade e durabilidade. Rapid Fire, Trigger Shifters, STI, DoubleTap, Ergopower, Integrado, Giratórios, Shift-Brake, Eletrônico. Encontre trocadores para todos os tipos de bicicletas.",
+      "filhos": [
+        {
+          "nome": "Gatilho",
+          "imagem": "/src/imgs/componentes/trocador/gatilho.webp",
+          "descricao_tecnica": "Trocador tipo gatilho, alavanca rápida para subir e descer as marchas."
+        },
+        {
+          "nome": "Rapid Fire",
+          "imagem": "/src/imgs/componentes/trocador/rapid-fire.webp",
+          "descricao_tecnica": "Rapid Fire é o modelo Gatilho da marca Shimano comum em Mountain Bike."
+        },
+        {
+          "nome": "Trigger Shifters",
+          "imagem": "/src/imgs/componentes/trocador/trigger-shifters.webp",
+          "descricao_tecnica": "Trigger Shifters é um modelo da marca SRAM do tipo Gatilho voltado para MTB."
+        },
+        {
+          "nome": "STI",
+          "imagem": "/src/imgs/componentes/trocador/STI.webp",
+          "descricao_tecnica": "STI é um modelo da marca Shimano e do tipo Integrado, para Bikes Speed."
+        },
+        {
+          "nome": "DoubleTap",
+          "imagem": "/src/imgs/componentes/trocador/doubleTap.webp",
+          "descricao_tecnica": "DoubleTap é um trocador Integrado da marca SRAM e voltado para bicicletas de estrada."
+        },
+        {
+          "nome": "Ergopower",
+          "imagem": "/src/imgs/componentes/trocador/ergopower.webp",
+          "descricao_tecnica": "Ergopower é um modelo Integrado da marca Campagnolo e equipa bicicletas de estrada."
+        },
+        {
+          "nome": "Integrado",
+          "imagem": "/src/imgs/componentes/trocador/STI.webp",
+          "descricao_tecnica": "Trocador integrado ao guidão ou manete, comum em bicicletas de estrada."
+        },
+        {
+          "nome": "Giratórios",
+          "imagem": "/src/imgs/componentes/trocador/giratorios.webp",
+          "descricao_tecnica": "Trocador tipo giratório, integrado ao manete e acionado com a rotação do punho."
+        },
+        {
+          "nome": "Grip-Shift",
+          "imagem": "/src/imgs/componentes/trocador/grip-shift.webp",
+          "descricao_tecnica": "Trocador Giratório integrado ao manete de freio da marca SRAM."
+        },        
+        {
+          "nome": "Thumb Shifters",
+          "imagem": "/src/imgs/componentes/trocador/thumb-shifters.webp",
+          "descricao_tecnica": "Trocador tipo Thumb Shifters, funciona por rotação, sem gatilho."
+        },
+        {
+          "nome": "Shift-Brake",
+          "imagem": "/src/imgs/componentes/trocador/shift-brake.webp",
+          "descricao_tecnica": "Trocador de Gatilho integrado ao manete de freio em uma única peça."
+        },        
+        {
+          "nome": "Eletrônico",
+          "imagem": "/src/imgs/componentes/trocador/eletronico.webp",
+          "descricao_tecnica": "Trocador tipo Eletrônico de botões, sem fios e sem alavancas."
+        }
+      ]
+    },
+    {
+      "nome": "Pneu",
+      "icone": "/src/imgs/componentes/pneu.png",
+      "default_bicicletas": true,
+      "ordem_componente": 8,
+      "descricao": "Tração e performance garantidas. Tubeless, Com câmara, Dobrável, Rígido, Slick, Cravudo, Clincher. Encontre pneus para MTB, Speed, Gravel, para todas as modalidades.",
+      "filhos": [
+        {
+          "nome": "Com câmara",
+          "imagem": "",
+          "descricao_tecnica": "Sistema tradicional onde o pneu utiliza uma câmara de ar interna para manter a pressão."
+        },
+        {
+          "nome": "Tubeless",
+          "imagem": "",
+          "descricao_tecnica": "Tecnologia que elimina a câmara de ar, utilizando líquido selante e aros específicos para vedação."
+        },        
+        {
+          "nome": "Dobrável",
+          "imagem": "",
+          "descricao_tecnica": "Kevlar - Pneu que utiliza fibras de aramida (Kevlar) nas bordas em vez de arame; mais leve e fácil de transportar."
+        },
+        {
+          "nome": "Rígido",
+          "imagem": "",
+          "descricao_tecnica": "Arame - Pneu com bordas de arame de aço; modelo mais econômico e pesado, que não permite ser dobrado."
+        },
+        {
+          "nome": "Slick",
+          "imagem": "",
+          "descricao_tecnica": "Pneu com banda de rodagem lisa ou quase sem desenhos, otimizado para velocidade em asfalto."
+        },
+        {
+          "nome": "Cravudo",
+          "imagem": "",
+          "descricao_tecnica": "Pneu com blocos (cravos) salientes, projetado para tração em terrenos de terra, lama ou pedras."
+        },
+        {
+          "nome": "Clincher",
+          "imagem": "",
+          "descricao_tecnica": "Termo técnico para pneus que possuem bordas que se encaixam (prendem) nas paredes do aro."
+        },
+        {
+          "nome": "Tubular",
+          "imagem": "",
+          "descricao_tecnica": "Pneu de peça única com a câmara costurada internamente, colado diretamente em aros especiais (comum em competição)."
+        }
+      ]
+    },
+    {
+      "nome": "Canote",
+      "icone": "/src/imgs/componentes/canote.png",
+      "default_bicicletas": false,
+      "ordem_componente": 9,
+      "descricao": "",
+      "filhos": [
+        {
+          "nome": "Aerodinâmico"
+        },
+        {
+          "nome": "Rígido"
+        },
+        {
+          "nome": "Amortecedor"
+        },
+        {
+          "nome": "Offset"
+        },
+        {
+          "nome": "Retrátil"
+        },
+        {
+          "nome": "Dropper Seatpost"
+        }
+      ]
+    },
+    {
+      "nome": "Cubo",
+      "icone": "/src/imgs/componentes/cubo.png",
+      "default_bicicletas": false,
+      "ordem_componente": 10,
+      "descricao": "",
+      "filhos": [
+        {
+          "nome": "Quick Release"
+        },
+        {
+          "nome": "Thru-Axle"
+        },
+        {
+          "nome": "Eixo de Rosca"
+        },
+        {
+          "nome": "Dinamo"
+        }
+      ]
+    },
+    {
+      "nome": "Cassete",
+      "icone": "/src/imgs/componentes/k7.png",
+      "default_bicicletas": false,
+      "ordem_componente": 11,
+      "descricao": "",
+      "filhos": [
+        {
+          "nome": "4V"
+        },
+        {
+          "nome": "5V"
+        },
+        {
+          "nome": "6V"
+        },
+        {
+          "nome": "7V"
+        },
+        {
+          "nome": "8v"
+        },
+        {
+          "nome": "9v"
+        },
+        {
+          "nome": "10v"
+        },
+        {
+          "nome": "11v"
+        },
+        {
+          "nome": "12v"
+        },
+        {
+          "nome": "10-36"
+        },
+        {
+          "nome": "10-38"
+        },
+        {
+          "nome": "10-45"
+        },
+        {
+          "nome": "10-50"
+        },
+        {
+          "nome": "10-51"
+        },
+        {
+          "nome": "10-52"
+        },
+        {
+          "nome": "10-54"
+        },
+        {
+          "nome": "11-28"
+        },
+        {
+          "nome": "11-32"
+        },
+        {
+          "nome": "11-34"
+        },
+        {
+          "nome": "11-36"
+        },
+        {
+          "nome": "11-38"
+        },
+        {
+          "nome": "11-40"
+        },
+        {
+          "nome": "11-42"
+        },
+        {
+          "nome": "11-50"
+        },
+        {
+          "nome": "11-52"
+        },
+        {
+          "nome": "12-36"
+        },
+        {
+          "nome": "12-38"
+        },
+        {
+          "nome": "12-40"
+        },
+        {
+          "nome": "12-28"
+        },
+        {
+          "nome": "12-50"
+        },
+        {
+          "nome": "12-32"
+        },
+        {
+          "nome": "12-52"
+        },
+        {
+          "nome": "14-28"
+        },
+        {
+          "nome": "14-34"
+        }
+      ]
+    },
+    {
+      "nome": "Coroa",
+      "icone": "/src/imgs/componentes/coroa.png",
+      "default_bicicletas": false,
+      "ordem_componente": 12,
+      "descricao": "",
+      "filhos": [
+        {
+          "nome": "BCD 26-32"
+        },
+        {
+          "nome": "38"
+        },
+        {
+          "nome": "BCD 26-36"
+        },
+        {
+          "nome": "40"
+        },
+        {
+          "nome": "BCD 26-38"
+        },
+        {
+          "nome": "42"
+        },
+        {
+          "nome": "BCD 28"
+        },
+        {
+          "nome": "BCD 42-44"
+        },
+        {
+          "nome": "BCD 28-36"
+        },
+        {
+          "nome": "44"
+        },
+        {
+          "nome": "BCD 28-38"
+        },
+        {
+          "nome": "BCD 42-24"
+        },
+        {
+          "nome": "BCD 28-40"
+        },
+        {
+          "nome": "BCD 42-36"
+        },
+        {
+          "nome": "BCD 32"
+        },
+        {
+          "nome": "BCD 32-36"
+        },
+        {
+          "nome": "BCD 32-38"
+        },
+        {
+          "nome": "BCD 32-40"
+        },
+        {
+          "nome": "BCD 32-42"
+        },
+        {
+          "nome": "BCD 34"
+        },
+        {
+          "nome": "Direct Mount"
+        },
+        {
+          "nome": "BCD 34-36"
+        },
+        {
+          "nome": "BCD"
+        },
+        {
+          "nome": "BCD 34-38"
+        },
+        {
+          "nome": "BCD 26"
+        },
+        {
+          "nome": "36"
+        }
+      ]
+    },
+    {
+      "nome": "Corrente",
+      "icone": "/src/imgs/componentes/corrente.png",
+      "default_bicicletas": false,
+      "ordem_componente": 13,
+      "descricao": "",      
+      "filhos": [
+        {
+          "nome": "91 Links"
+        },
+        {
+          "nome": "111 Links"
+        },
+        {
+          "nome": "114 Links"
+        },
+        {
+          "nome": "116 Links"
+        },
+        {
+          "nome": "117 Links"
+        },
+        {
+          "nome": "118 Links"
+        },
+        {
+          "nome": "121 Links"
+        },
+        {
+          "nome": "124 Links"
+        },
+        {
+          "nome": "126 Links"
+        },
+        {
+          "nome": "138 Links"
+        }
+      ]
+    },
+    {
+      "nome": "Cubo Traseiro",
+      "icone": "/src/imgs/componentes/cubo.png",
+      "default_bicicletas": false,
+      "ordem_componente": 14,
+      "descricao": "",
+      "filhos": [
+        {
+          "nome": "Eixo de Rosca",
+          "slug": "eixo-rosca"
+        },
+        {
+          "nome": "Cassete (Freehub)",
+          "slug": "cassete-freehub"
+        },
+        {
+          "nome": "Catraca (Rosca)",
+          "slug": "catraca-rosca"
+        },
+        {
+          "nome": "Single Speed (Roda Livre ou Fixo)",
+          "slug": "roda-livre-fixa"
+        },
+        {
+          "nome": "Eixo de Blocagem Rápida (Quick Release)",
+          "slug": "blocagem-quick-release"
+        },
+        {
+          "nome": "Eixo Passante (Thru-Axle)",
+          "slug": "eixo-passante-thru-axle"
+        }
+      ]
+    },
+    {
+      "nome": "Freio Traseiro",
+      "icone": "/src/imgs/componentes/freio.png",
+      "default_bicicletas": false,
+      "ordem_componente": 15,
+      "descricao": "",
+      "filhos": [
+        {
+          "nome": "Contra Pedal"
+        },
+        {
+          "nome": "Cantilever"
+        },
+        {
+          "nome": "Ferradura"
+        },
+        {
+          "nome": "Disco Hidraulico"
+        },
+        {
+          "nome": "Disco Mecânico"
+        },
+        {
+          "nome": "Sem freios"
+        },
+        {
+          "nome": "V-Brake"
+        }
+      ]
+    },
+    {
+      "nome": "Guidão",
+      "icone": "/src/imgs/componentes/guidon-freestyle.png",
+      "default_bicicletas": false,
+      "ordem_componente": 16,
+      "descricao": "",
+      "filhos": [
+        {
+          "nome": "Freestyle"
+        },
+        {
+          "nome": "Downhill"
+        },
+        {
+          "nome": "Drop Bar"
+        },
+        {
+          "nome": "Rise Bar"
+        },
+        {
+          "nome": "Flat Bar",
+          "icone": "/src/imgs/componentes/guidon-ftat.png"
+        },
+        {
+          "nome": "Mustache",
+          "icone": "/src/imgs/componentes/guidon-estrada.png"
+        },
+        {
+          "nome": "Butterfly Bar",
+          "icone": "/src/imgs/componentes/guidon-tritlhon.png"
+        },
+        {
+          "nome": "Clip-On"
+        }
+      ]
+    },
+    {
+      "nome": "Mesa",
+      "icone": "/src/imgs/componentes/mesa.png",
+      "default_bicicletas": false,
+      "ordem_componente": 17,
+      "descricao": "",
+      "filhos": [
+        {
+          "nome": "Double-Crown"
+        },
+        {
+          "nome": "Aheadset"
+        },
+        {
+          "nome": "Rosca"
+        },
+        {
+          "nome": "Integrada"
+        }
+      ]
+    },
+    {
+      "nome": "Pedal",
+      "icone": "/src/imgs/componentes/pedal.png",
+      "default_bicicletas": false,
+      "ordem_componente": 18,
+      "descricao": "",
+      "filhos": [
+        {
+          "nome": "Encaixe Clip"
+        },
+        {
+          "nome": "Plataforma"
+        },
+        {
+          "nome": "Dobrável"
+        },
+        {
+          "nome": "Firma Pé"
+        }
+      ]
+    },
+    {
+      "nome": "Pedivela",
+      "icone": "/src/imgs/componentes/pedivela.png",
+      "default_bicicletas": false,
+      "ordem_componente": 19,
+      "descricao": "",
+      "filhos": [
+        {
+          "nome": "Coroa Única"
+        },
+        {
+          "nome": "Coroa Dupla"
+        },
+        {
+          "nome": "Coroa Tripla"
+        },
+        {
+          "nome": "Eixo Quadrado"
+        },
+        {
+          "nome": "Octalink/ISIS"
+        },
+        {
+          "nome": "Single"
+        },
+        {
+          "nome": "Hollowtech II"
+        },
+        {
+          "nome": "GXP"
+        },
+        {
+          "nome": "BB30"
+        },
+        {
+          "nome": "Pressfit"
+        }
+      ]
+    },
+    {
+      "nome": "Roda",
+      "icone": "/src/imgs/componentes/roda.png",
+      "default_bicicletas": false,
+      "ordem_componente": 20,
+      "descricao": "Rodas leves e resistentes para seu upgrade. Encontre pares de rodas montadas de fábrica ou artesanais para melhorar a aceleração e rigidez da sua bicicleta.",
+      "filhos": [
+        {
+          "nome": "16 furos"
+        },
+        {
+          "nome": "20 furos"
+        },
+        {
+          "nome": "24 furos"
+        },
+        {
+          "nome": "28 furos"
+        },
+        {
+          "nome": "32 furos"
+        },
+        {
+          "nome": "36 furos"
+        },
+        {
+          "nome": "48 furos"
+        }
+      ]
+    },
+    {
+      "nome": "Selim",
+      "icone": "/src/imgs/componentes/selim.png",
+      "default_bicicletas": false,
+      "ordem_componente": 21,
+      "descricao": "Conforto para longas pedaladas. Encontre selins ergonômicos, vazados e com diferentes larguras para garantir o apoio ideal aos ossos do quadril.",
+      "filhos": [
+        {
+          "nome": "Capa de Gel"
+        },
+        {
+          "nome": "Canal Central"
+        },
+        {
+          "nome": "Sem Nariz"
+        },
+        {
+          "nome": "Esportivo"
+        },
+        {
+          "nome": "Com Molas"
+        }
+      ]
+    },
+    {
+      "nome": "Suspensão Traseira",
+      "icone": "/src/imgs/componentes/quadro-full.png",
+      "ordem_componente": 22,
+      "filhos": [
+        {
+          "nome": "Link"
+        },
+        {
+          "nome": "Pivô Único"
+        }
+      ]
+    }
+  ],
+  "medidas": [
+    {
+      "nome": "Altura",
+      "ordem": 1,
+      "filhos": [
+        {
+          "nome": "1.10"
+        },
+        {
+          "nome": "1.40"
+        },
+        {
+          "nome": "1.50"
+        },
+        {
+          "nome": "1.75"
+        },
+        {
+          "nome": "1.85"
+        },
+        {
+          "nome": "2.00"
+        },
+        {
+          "nome": "2.10"
+        },
+        {
+          "nome": "2.25"
+        },
+        {
+          "nome": "2.35"
+        },
+        {
+          "nome": "2.40"
+        },
+        {
+          "nome": "2.60"
+        },
+        {
+          "nome": "2.80"
+        },
+        {
+          "nome": "20C"
+        },
+        {
+          "nome": "23C"
+        },
+        {
+          "nome": "25C"
+        },
+        {
+          "nome": "28C"
+        },
+        {
+          "nome": "32C"
+        },
+        {
+          "nome": "33C"
+        },
+        {
+          "nome": "35A"
+        },
+        {
+          "nome": "35C"
+        },
+        {
+          "nome": "38C"
+        },
+        {
+          "nome": "40C"
+        },
+        {
+          "nome": "47C"
+        },
+        {
+          "nome": "Outro"
+        }
+      ]
+    },
+    {
+      "nome": "Aro",
+      "ordem": 2,
+      "filhos": [
+        {
+          "nome": "12"
+        },
+        {
+          "nome": "14"
+        },
+        {
+          "nome": "16"
+        },
+        {
+          "nome": "18"
+        },
+        {
+          "nome": "20"
+        },
+        {
+          "nome": "24"
+        },
+        {
+          "nome": "26"
+        },
+        {
+          "nome": "27.5"
+        },
+        {
+          "nome": "29"
+        },
+        {
+          "nome": "600C"
+        },
+        {
+          "nome": "650B"
+        },
+        {
+          "nome": "650C"
+        },
+        {
+          "nome": "700C"
+        }
+      ]
+    },
+    {
+      "nome": "Comprimento",
+      "ordem": 3,
+      "filhos": [
+        {
+          "nome": "100mm"
+        },
+        {
+          "nome": "10mm"
+        },
+        {
+          "nome": "110mm"
+        },
+        {
+          "nome": "115mm"
+        },
+        {
+          "nome": "120mm"
+        },
+        {
+          "nome": "125mm"
+        },
+        {
+          "nome": "130mm"
+        },
+        {
+          "nome": "135mm"
+        },
+        {
+          "nome": "140mm"
+        },
+        {
+          "nome": "145mm"
+        },
+        {
+          "nome": "146mm"
+        },
+        {
+          "nome": "148mm"
+        },
+        {
+          "nome": "150mm"
+        },
+        {
+          "nome": "151mm"
+        },
+        {
+          "nome": "156mm"
+        },
+        {
+          "nome": "160mm"
+        },
+        {
+          "nome": "161mm"
+        },
+        {
+          "nome": "162mm"
+        },
+        {
+          "nome": "163mm"
+        },
+        {
+          "nome": "165mm"
+        },
+        {
+          "nome": "166mm"
+        },
+        {
+          "nome": "170mm"
+        },
+        {
+          "nome": "180mm"
+        },
+        {
+          "nome": "182mm"
+        },
+        {
+          "nome": "184mm"
+        },
+        {
+          "nome": "186mm"
+        },
+        {
+          "nome": "188mm"
+        },
+        {
+          "nome": "190mm"
+        },
+        {
+          "nome": "194mm"
+        },
+        {
+          "nome": "1m"
+        },
+        {
+          "nome": "200mm"
+        },
+        {
+          "nome": "20mm"
+        },
+        {
+          "nome": "210mm"
+        },
+        {
+          "nome": "220mm"
+        },
+        {
+          "nome": "230mm"
+        },
+        {
+          "nome": "240mm"
+        },
+        {
+          "nome": "250mm"
+        },
+        {
+          "nome": "260mm"
+        },
+        {
+          "nome": "270mm"
+        },
+        {
+          "nome": "280mm"
+        },
+        {
+          "nome": "290mm"
+        },
+        {
+          "nome": "2m"
+        },
+        {
+          "nome": "300mm"
+        },
+        {
+          "nome": "30mm"
+        },
+        {
+          "nome": "310mm"
+        },
+        {
+          "nome": "320mm"
+        },
+        {
+          "nome": "32mm"
+        },
+        {
+          "nome": "330mm"
+        },
+        {
+          "nome": "340mm"
+        },
+        {
+          "nome": "34mm"
+        },
+        {
+          "nome": "350mm"
+        },
+        {
+          "nome": "360mm"
+        },
+        {
+          "nome": "36mm"
+        },
+        {
+          "nome": "370mm"
+        },
+        {
+          "nome": "380mm"
+        },
+        {
+          "nome": "38mm"
+        },
+        {
+          "nome": "390mm"
+        },
+        {
+          "nome": "3m"
+        },
+        {
+          "nome": "400mm"
+        },
+        {
+          "nome": "40mm"
+        },
+        {
+          "nome": "410mm"
+        },
+        {
+          "nome": "420mm"
+        },
+        {
+          "nome": "42mm"
+        },
+        {
+          "nome": "430mm"
+        },
+        {
+          "nome": "440mm"
+        },
+        {
+          "nome": "44mm"
+        },
+        {
+          "nome": "450mm"
+        },
+        {
+          "nome": "45mm"
+        },
+        {
+          "nome": "460mm"
+        },
+        {
+          "nome": "46mm"
+        },
+        {
+          "nome": "470mm"
+        },
+        {
+          "nome": "480mm"
+        },
+        {
+          "nome": "48mm"
+        },
+        {
+          "nome": "490mm"
+        },
+        {
+          "nome": "500mm"
+        },
+        {
+          "nome": "50mm"
+        },
+        {
+          "nome": "510mm"
+        },
+        {
+          "nome": "520mm"
+        },
+        {
+          "nome": "52mm"
+        },
+        {
+          "nome": "530mm"
+        },
+        {
+          "nome": "540mm"
+        },
+        {
+          "nome": "54mm"
+        },
+        {
+          "nome": "550mm"
+        },
+        {
+          "nome": "55mm"
+        },
+        {
+          "nome": "560mm"
+        },
+        {
+          "nome": "56mm"
+        },
+        {
+          "nome": "570mm"
+        },
+        {
+          "nome": "580mm"
+        },
+        {
+          "nome": "58mm"
+        },
+        {
+          "nome": "590mm"
+        },
+        {
+          "nome": "600mm"
+        },
+        {
+          "nome": "60mm"
+        },
+        {
+          "nome": "610mm"
+        },
+        {
+          "nome": "620mm"
+        },
+        {
+          "nome": "62mm"
+        },
+        {
+          "nome": "630mm"
+        },
+        {
+          "nome": "640mm"
+        },
+        {
+          "nome": "64mm"
+        },
+        {
+          "nome": "650mm"
+        },
+        {
+          "nome": "660mm"
+        },
+        {
+          "nome": "66mm"
+        },
+        {
+          "nome": "670mm"
+        },
+        {
+          "nome": "680mm"
+        },
+        {
+          "nome": "68mm"
+        },
+        {
+          "nome": "690mm"
+        },
+        {
+          "nome": "700mm"
+        },
+        {
+          "nome": "70mm"
+        },
+        {
+          "nome": "710mm"
+        },
+        {
+          "nome": "720mm"
+        },
+        {
+          "nome": "730mm"
+        },
+        {
+          "nome": "740mm"
+        },
+        {
+          "nome": "750mm"
+        },
+        {
+          "nome": "760mm"
+        },
+        {
+          "nome": "770mm"
+        },
+        {
+          "nome": "780mm"
+        },
+        {
+          "nome": "790mm"
+        },
+        {
+          "nome": "800mm"
+        },
+        {
+          "nome": "80mm"
+        },
+        {
+          "nome": "810mm"
+        },
+        {
+          "nome": "820mm"
+        },
+        {
+          "nome": "830mm"
+        },
+        {
+          "nome": "840mm"
+        },
+        {
+          "nome": "850mm"
+        },
+        {
+          "nome": "860mm"
+        },
+        {
+          "nome": "870mm"
+        },
+        {
+          "nome": "880mm"
+        },
+        {
+          "nome": "890mm"
+        },
+        {
+          "nome": "900mm"
+        },
+        {
+          "nome": "90mm"
+        },
+        {
+          "nome": "910mm"
+        },
+        {
+          "nome": "920mm"
+        },
+        {
+          "nome": "930mm"
+        },
+        {
+          "nome": "940mm"
+        },
+        {
+          "nome": "950mm"
+        },
+        {
+          "nome": "960mm"
+        },
+        {
+          "nome": "970mm"
+        },
+        {
+          "nome": "980mm"
+        },
+        {
+          "nome": "990mm"
+        }
+      ]
+    },
+    {
+      "nome": "Curso",
+      "ordem": 4,
+      "filhos": [
+        {
+          "nome": "100mm"
+        },
+        {
+          "nome": "110mm"
+        },
+        {
+          "nome": "120mm"
+        },
+        {
+          "nome": "130mm"
+        },
+        {
+          "nome": "140mm"
+        },
+        {
+          "nome": "150mm"
+        },
+        {
+          "nome": "152mm"
+        },
+        {
+          "nome": "160mm"
+        },
+        {
+          "nome": "165mm"
+        },
+        {
+          "nome": "170mm"
+        },
+        {
+          "nome": "180mm"
+        },
+        {
+          "nome": "184mm"
+        },
+        {
+          "nome": "185mm"
+        },
+        {
+          "nome": "200mm"
+        },
+        {
+          "nome": "210mm"
+        },
+        {
+          "nome": "215mm"
+        },
+        {
+          "nome": "216mm"
+        },
+        {
+          "nome": "222mm"
+        },
+        {
+          "nome": "230mm"
+        },
+        {
+          "nome": "240mm"
+        },
+        {
+          "nome": "241mm"
+        },
+        {
+          "nome": "40mm"
+        },
+        {
+          "nome": "45mm"
+        },
+        {
+          "nome": "50mm"
+        },
+        {
+          "nome": "55mm"
+        },
+        {
+          "nome": "60mm"
+        },
+        {
+          "nome": "65mm"
+        },
+        {
+          "nome": "70mm"
+        },
+        {
+          "nome": "75mm"
+        },
+        {
+          "nome": "80mm"
+        },
+        {
+          "nome": "85mm"
+        },
+        {
+          "nome": "90mm"
+        },
+        {
+          "nome": "95mm"
+        }
+      ]
+    },
+    {
+      "nome": "Encaixe",
+      "ordem": 5,
+      "filhos": [
+        {
+          "nome": "Clip"
+        },
+        {
+          "nome": "Plataforma"
+        },
+        {
+          "nome": "Taquinho"
+        }
+      ]
+    },
+    {
+      "nome": "Diâmentro",
+      "ordem": 6,
+      "filhos": [
+        {
+          "nome": "27.2mm"
+        },
+        {
+          "nome": "28.6mm"
+        },
+        {
+          "nome": "30.9mm"
+        },
+        {
+          "nome": "31.6mm"
+        },
+        {
+          "nome": "31.8mm"
+        },
+        {
+          "nome": "34.9mm"
+        },
+        {
+          "nome": "35mm"
+        },
+        {
+          "nome": "38.2mm"
+        }
+      ]
+    },
+    {
+      "nome": "Eixo",
+      "ordem": 7,
+      "filhos": [
+        {
+          "nome": "Blocagem Rápida"
+        },
+        {
+          "nome": "Eixo Passante"
+        },
+        {
+          "nome": "Eixo de Rosca"
+        },
+        {
+          "nome": "Eixo Maciço"
+        }
+      ]
+    },
+    {
+      "nome": "Encaixe do Cassete",
+      "ordem": 8,
+      "filhos": [
+        {
+          "nome": "Padrão HG"
+        },
+        {
+          "nome": "SRAM XD"
+        },
+        {
+          "nome": "SRAM XDR"
+        },
+        {
+          "nome": "Shimano Microspline"
+        },
+        {
+          "nome": "Campagnolo"
+        },
+        {
+          "nome": "Rosca"
+        }
+      ]
+    },
+    {
+      "nome": "Furos",
+      "ordem": 9,
+      "filhos": [
+        {
+          "nome": "10"
+        },
+        {
+          "nome": "12"
+        },
+        {
+          "nome": "16"
+        },
+        {
+          "nome": "18"
+        },
+        {
+          "nome": "20"
+        },
+        {
+          "nome": "22"
+        },
+        {
+          "nome": "24"
+        },
+        {
+          "nome": "26"
+        },
+        {
+          "nome": "28"
+        },
+        {
+          "nome": "32"
+        },
+        {
+          "nome": "36"
+        },
+        {
+          "nome": "6"
+        },
+        {
+          "nome": "8"
+        },
+        {
+          "nome": "Center Lock"
+        }
+      ]
+    },
+    {
+      "nome": "Fixação do Disco",
+      "ordem": 10,
+      "filhos": [
+        {
+          "nome": "6 Furos"
+        },
+        {
+          "nome": "Center Lock"
+        }
+      ]
+    },
+    {
+      "nome": "Largura",
+      "ordem": 11,
+      "filhos": [
+        {
+          "nome": "0.9"
+        },
+        {
+          "nome": "1"
+        },
+        {
+          "nome": "1.0"
+        },
+        {
+          "nome": "1.1"
+        },
+        {
+          "nome": "1.1/2"
+        },
+        {
+          "nome": "1.1/4"
+        },
+        {
+          "nome": "1.1/8"
+        },
+        {
+          "nome": "1.2"
+        },
+        {
+          "nome": "1.25'"
+        },
+        {
+          "nome": "1.3"
+        },
+        {
+          "nome": "1.3/8"
+        },
+        {
+          "nome": "1.35"
+        },
+        {
+          "nome": "1.4"
+        },
+        {
+          "nome": "1.5"
+        },
+        {
+          "nome": "1.6"
+        },
+        {
+          "nome": "1.7"
+        },
+        {
+          "nome": "1.75"
+        },
+        {
+          "nome": "1.8"
+        },
+        {
+          "nome": "1.85"
+        },
+        {
+          "nome": "1.9"
+        },
+        {
+          "nome": "1.95"
+        },
+        {
+          "nome": "19C"
+        },
+        {
+          "nome": "2.0"
+        },
+        {
+          "nome": "2.1"
+        },
+        {
+          "nome": "2.125"
+        },
+        {
+          "nome": "2.15"
+        },
+        {
+          "nome": "2.2"
+        },
+        {
+          "nome": "2.25"
+        },
+        {
+          "nome": "2.3"
+        },
+        {
+          "nome": "2.35"
+        },
+        {
+          "nome": "2.4"
+        },
+        {
+          "nome": "2.5"
+        },
+        {
+          "nome": "2.6"
+        },
+        {
+          "nome": "2.7"
+        },
+        {
+          "nome": "2.8"
+        },
+        {
+          "nome": "20C"
+        },
+        {
+          "nome": "21C"
+        },
+        {
+          "nome": "22C"
+        },
+        {
+          "nome": "23C"
+        },
+        {
+          "nome": "24C"
+        },
+        {
+          "nome": "25C"
+        },
+        {
+          "nome": "26C"
+        },
+        {
+          "nome": "27C"
+        },
+        {
+          "nome": "28C"
+        },
+        {
+          "nome": "3.0"
+        },
+        {
+          "nome": "30C"
+        },
+        {
+          "nome": "31C"
+        },
+        {
+          "nome": "32C"
+        },
+        {
+          "nome": "33C"
+        },
+        {
+          "nome": "34C"
+        },
+        {
+          "nome": "35B"
+        },
+        {
+          "nome": "35C"
+        },
+        {
+          "nome": "37C"
+        },
+        {
+          "nome": "38C"
+        },
+        {
+          "nome": "4.0"
+        },
+        {
+          "nome": "4.8C"
+        },
+        {
+          "nome": "40C"
+        },
+        {
+          "nome": "42C"
+        },
+        {
+          "nome": "45C"
+        },
+        {
+          "nome": "47C"
+        },
+        {
+          "nome": "50C"
+        }
+      ]
+    },
+    {
+      "nome": "Largura de Pneu",
+      "ordem": 12,
+      "filhos": [
+        {
+          "nome": "23c"
+        },
+        {
+          "nome": "25c"
+        },
+        {
+          "nome": "28c"
+        },
+        {
+          "nome": "2.0"
+        },
+        {
+          "nome": "2.1"
+        },
+        {
+          "nome": "2.2"
+        },
+        {
+          "nome": "2.25"
+        },
+        {
+          "nome": "2.35"
+        },
+        {
+          "nome": "2.4"
+        }
+      ]
+    },
+    {
+      "nome": "Links",
+      "ordem": 13,
+      "filhos": [
+        {
+          "nome": "111"
+        },
+        {
+          "nome": "114"
+        },
+        {
+          "nome": "116"
+        },
+        {
+          "nome": "117"
+        },
+        {
+          "nome": "118"
+        },
+        {
+          "nome": "121"
+        },
+        {
+          "nome": "124"
+        },
+        {
+          "nome": "126"
+        },
+        {
+          "nome": "138"
+        },
+        {
+          "nome": "91"
+        }
+      ]
+    },
+    {
+      "nome": "Relação",
+      "ordem": 14,
+      "filhos": [
+        {
+          "nome": "Single Speed (1v)"
+        },
+        {
+          "nome": "12 Marchas (1x12)"
+        },
+        {
+          "nome": "11 Marchas (1x11)"
+        },
+        {
+          "nome": "10 Marchas (1x10)"
+        },
+        {
+          "nome": "18 Marchas (2x9)"
+        },
+        {
+          "nome": "20 Marchas (2x10)"
+        },
+        {
+          "nome": "22 Marchas (2x11)"
+        },
+        {
+          "nome": "21 Marchas (3x7)"
+        },
+        {
+          "nome": "24 Marchas (3x8)"
+        },
+        {
+          "nome": "27 Marchas (3x9)"
+        },
+        {
+          "nome": "30 Marchas (3x10)"
+        },
+        {
+          "nome": "10"
+        },
+        {
+          "nome": "11"
+        },
+        {
+          "nome": "12"
+        },
+        {
+          "nome": "26"
+        },
+        {
+          "nome": "28"
+        },
+        {
+          "nome": "32"
+        },
+        {
+          "nome": "34"
+        },
+        {
+          "nome": "36"
+        },
+        {
+          "nome": "38"
+        },
+        {
+          "nome": "40"
+        },
+        {
+          "nome": "42"
+        },
+        {
+          "nome": "44"
+        },
+        {
+          "nome": "10-44"
+        },
+        {
+          "nome": "10-45"
+        },
+        {
+          "nome": "10-50"
+        },
+        {
+          "nome": "10-51"
+        },
+        {
+          "nome": "10-52"
+        },
+        {
+          "nome": "11-25"
+        },
+        {
+          "nome": "11-28"
+        },
+        {
+          "nome": "11-30"
+        },
+        {
+          "nome": "11-32"
+        },
+        {
+          "nome": "11-34"
+        },
+        {
+          "nome": "11-36"
+        },
+        {
+          "nome": "11-38"
+        },
+        {
+          "nome": "11-40"
+        },
+        {
+          "nome": "11-42"
+        },
+        {
+          "nome": "11-46"
+        },
+        {
+          "nome": "11-50"
+        },
+        {
+          "nome": "11-52"
+        },
+        {
+          "nome": "26-32"
+        },
+        {
+          "nome": "26-36"
+        },
+        {
+          "nome": "26-38"
+        },
+        {
+          "nome": "28-36"
+        },
+        {
+          "nome": "28-38"
+        },
+        {
+          "nome": "28-40"
+        },
+        {
+          "nome": "32-36"
+        },
+        {
+          "nome": "32-38"
+        },
+        {
+          "nome": "32-40"
+        },
+        {
+          "nome": "32-42"
+        },
+        {
+          "nome": "34-36"
+        },
+        {
+          "nome": "34-38"
+        },
+        {
+          "nome": "42-44"
+        }
+      ]
+    },
+    {
+      "nome": "Tamanho",
+      "ordem": 15,
+      "filhos": [
+        {
+          "nome": "G"
+        },
+        {
+          "nome": "GG"
+        },
+        {
+          "nome": "M"
+        },
+        {
+          "nome": "P"
+        },
+        {
+          "nome": "PP"
+        },
+        {
+          "nome": "XL"
+        },
+        {
+          "nome": "XXL"
+        },
+        {
+          "nome": "XXXL"
+        }
+      ]
+    },
+    {
+      "nome": "Valvula",
+      "ordem": 16,
+      "filhos": [
+        {
+          "nome": "Dunlop"
+        },
+        {
+          "nome": "Presta"
+        },
+        {
+          "nome": "Presta / Schrader"
+        },
+        {
+          "nome": "Presta / Schrader / Dunlop"
+        },
+        {
+          "nome": "Schrader"
+        }
+      ]
+    },
+    {
+      "nome": "Velocidade",
+      "ordem": 17,
+      "filhos": [
+        {
+          "nome": "10V"
+        },
+        {
+          "nome": "11V"
+        },
+        {
+          "nome": "12V"
+        },
+        {
+          "nome": "18V"
+        },
+        {
+          "nome": "1V"
+        },
+        {
+          "nome": "21V"
+        },
+        {
+          "nome": "22V"
+        },
+        {
+          "nome": "24V"
+        },
+        {
+          "nome": "27V"
+        },
+        {
+          "nome": "2V"
+        },
+        {
+          "nome": "30V"
+        },
+        {
+          "nome": "3V"
+        },
+        {
+          "nome": "5V"
+        },
+        {
+          "nome": "7V"
+        },
+        {
+          "nome": "8V"
+        },
+        {
+          "nome": "9V"
+        }
+      ]
+    }
+  ],
+  "acessorio": [
+    {
+      "nome": "Capacete",
+      "ordem": 1,
+      "descricao": "Proteção vital para todo ciclista. Encontre capacetes com tecnologia MIPS, designs aerodinâmicos e máxima ventilação para MTB, Estrada e Urbano.",
+      "filhos": [
+        {
+          "nome": "MTB / Lazer (Aberto)"
+        },
+        {
+          "nome": "Com queicheira"
+        },
+        {
+          "nome": "Speed"
+        },
+        {
+          "nome": "Infantil"
+        },
+        {
+          "nome": "Fechado"
+        },
+        {
+          "nome": "Full Face"
+        }
+      ]
+    },
+    {
+      "nome": "Luvas",
+      "ordem": 2,
+      "filhos": [
+        {
+          "nome": "Dedo Curto"
+        },
+        {
+          "nome": "Dedo Longo"
+        },
+        {
+          "nome": "Térmica"
+        }
+      ]
+    },
+    {
+      "nome": "Ciclocomputador e GPS",
+      "ordem": 3,
+      "descricao": "Monitore seu desempenho em tempo real. Encontre GPS Garmin, Wahoo e ciclocomputadores para registrar suas rotas, altimetria e sincronizar com o Strava.",
+      "filhos": [
+        {
+          "nome": "GPS"
+        },
+        {
+          "nome": "Sem Fio"
+        },
+        {
+          "nome": "Com Fio"
+        },
+        {
+          "nome": "Sensor de Cadência / Velocidade"
+        }
+      ]
+    },
+    {
+      "nome": "Iluminação",
+      "ordem": 4,
+      "filhos": [
+        {
+          "nome": "Farol Dianteiro"
+        },
+        {
+          "nome": "Sinalizador Traseiro"
+        },
+        {
+          "nome": "Kit Farol + Lanterna"
+        }
+      ]
+    },
+    {
+      "nome": "Bolsas e Mochilas",
+      "ordem": 5,
+      "filhos": [
+        {
+          "nome": "Bolsa de Selim"
+        },
+        {
+          "nome": "Bolsa de Quadro"
+        },
+        {
+          "nome": "Mochila de Hidratação"
+        },
+        {
+          "nome": "Alforge"
+        }
+      ]
+    },
+    {
+      "nome": "Bombas de Ar",
+      "ordem": 6,
+      "filhos": [
+        {
+          "nome": "Bomba de Mão"
+        },
+        {
+          "nome": "Bomba de Pé"
+        },
+        {
+          "nome": "Gatilho CO2"
+        }
+      ]
+    },
+    {
+      "nome": "Rolo de Treino",
+      "ordem": 9,
+      "filhos": [
+        {
+          "nome": "Fixo"
+        },
+        {
+          "nome": "Livre"
+        },
+        {
+          "nome": "Roldana"
+        },
+        {
+          "nome": "Magnético"
+        },
+        {
+          "nome": "Fluido"
+        },
+        {
+          "nome": "Direct Mount"
+        },
+        {
+          "nome": "Smart"
+        },
+        {
+          "nome": "Interativo"
+        }
+      ]
+    },
+    {
+      "nome": "Segurança",
+      "ordem": 7,
+      "filhos": [
+        {
+          "nome": "Cadeado de Cabo"
+        },
+        {
+          "nome": "Cadeado U-Lock"
+        },
+        {
+          "nome": "Cadeado de Corrente"
+        },
+        {
+          "nome": "Cadeado de Espiral"
+        }
+      ]
+    },    
+    {
+      "nome": "Transbike",
+      "ordem": 8,
+      "descricao": "Leve suas bikes para qualquer lugar. Encontre suportes transbike de teto, porta-malas ou ventosa para transportar suas bicicletas no carro com total segurança.",
+      "filhos": [
+        {
+          "nome": "Suporte de Teto"
+        },
+        {
+          "nome": "Suporte de Engate Bola"
+        },
+        {
+          "nome": "Suporte de Porta-Malas"
+        },
+        {
+          "nome": "Suporte de Ventosa"
+        }
+      ]
+    },
+    {
+      "nome": "Vestuário",
+      "ordem": 9,
+      "filhos": [
+        {
+          "nome": "Bermuda"
+        },
+        {
+          "nome": "Bretelle"
+        },
+        {
+          "nome": "Camisa de Ciclismo"
+        },
+        {
+          "nome": "Sapatilha MTB"
+        },
+        {
+          "nome": "Sapatilha Speed"
+        },
+        {
+          "nome": "Corta-Vento"
+        }
+      ]
+    }
+  ]
+}

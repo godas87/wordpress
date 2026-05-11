@@ -1,0 +1,26 @@
+[
+  {
+    "tag": "Infantil Usada",
+    "blog": [
+      {
+        "titulo": "Aro 16 apertando na criança sinais claros de que aro 20 era pra estar na garagem desde semana passada atrasada",
+        "descricao": "Quando sair do aro 16 para o 20: marchas, freios de mão e impacto no aprendizado.",
+        "outline 1": "A Bicicleta Aro 16\": A Primeira Pedalada",
+        "outline 2": "A Bicicleta Aro 20\": O Mundo se Expande",
+        "outline 3": "Como Saber se é a Hora Certa?",
+        "taxonomias": [
+          {
+            "id": 13369,
+            "slug": "infantil",
+            "tipo": "modalidade"
+          },
+          {
+            "id": 28,
+            "slug": "roda",
+            "tipo": "componente"
+          }
+        ]
+      }
+    ]
+  }
+]

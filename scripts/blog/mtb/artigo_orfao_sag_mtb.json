@@ -1,0 +1,27 @@
+[
+  {
+    "tag": "MTB Usada",
+    "blog": [
+      {
+        "titulo": "Suspensão mole demais ou travada demais: SAG certo como primeiro passo honesto de controle na MTB",
+        "descricao": "Ajuste de SAG passo a passo na mountain bike: conforto e tração nas trilhas.",
+        "outline 1": "Por que o SAG é tão importante?",
+        "outline 2": "O que você vai precisar",
+        "outline 3": "Passo a Passo: Ajustando o SAG",
+        "outline 4": "Dicas Finais",
+        "taxonomias": [
+          {
+            "id": 13371,
+            "slug": "mountain-bike-mtb",
+            "tipo": "modalidade"
+          },
+          {
+            "id": 22,
+            "slug": "suspensao",
+            "tipo": "componente"
+          }
+        ]
+      }
+    ]
+  }
+]

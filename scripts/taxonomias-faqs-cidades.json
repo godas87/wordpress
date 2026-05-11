@@ -1,0 +1,350 @@
+[
+  {
+    "nome": "Belo Horizonte",
+    "faq": [
+      {
+        "pergunta": "Posso levar minha bicicleta no metrô ou ônibus em Belo Horizonte?",
+        "resposta": "Sim, é possível transportar bicicletas dobráveis nos ônibus e no BRT MOVE, desde que tenham aro 20\\\" ou menor e estejam dobradas. Bicicletas não dobráveis são permitidas no BRT MOVE com suportes internos em horários específicos, como após as 20:30h em dias úteis e durante todo o dia aos domingos e feriados."
+      },
+      {
+        "pergunta": "Quais são as melhores ciclovias para pedalar em Belo Horizonte?",
+        "resposta": "Belo Horizonte oferece diversas ciclovias para lazer e deslocamento. A ciclovia da Lagoa da Pampulha é muito popular para passeios recreativos. Outras opções incluem trechos nas avenidas José Cândido da Silveira e dos Andradas, além de rotas em regiões como Centro-Sul e Venda Nova."
+      },
+      {
+        "pergunta": "Existem trilhas de Mountain Bike recomendadas perto de Belo Horizonte?",
+        "resposta": "Sim, a região metropolitana de Belo Horizonte é rica em trilhas para Mountain Bike. A Serra da Calçada e a região da trilha \\\"Perdidas\\\" em Nova Lima são bastante conhecidas e recebem manejo da Associação Mountain Bike BH. Há também trilhas como Aguinha e Pitangueiras, adequadas para diferentes níveis de ciclistas."
+      },
+      {
+        "pergunta": "Como posso encontrar grupos de pedal em Belo Horizonte para pedalar com mais segurança?",
+        "resposta": "Belo Horizonte possui uma comunidade ciclística ativa com diversos grupos de pedal. Você pode encontrar grupos através de associações como a BH em Ciclo e a Mountain Bike BH, que organizam eventos e passeios. Redes sociais e plataformas como o Strava também são ótimos lugares para descobrir e se juntar a grupos locais."
+      },
+      {
+        "pergunta": "Qual tipo de bicicleta é mais indicada para pedalar em Belo Horizonte, considerando o relevo da cidade?",
+        "resposta": "Devido ao relevo variado de Belo Horizonte, com muitas subidas e descidas, bicicletas com marchas e bom sistema de freios são ideais. Para o uso urbano diário, uma bicicleta híbrida ou de estrada com boa relação de marchas pode ser confortável. Para as trilhas, uma mountain bike com suspensão adequada é a melhor escolha."
+      },
+      {
+        "pergunta": "Onde posso comprar bicicletas usadas de forma segura em Belo Horizonte?",
+        "resposta": "Para comprar bicicletas usadas em Belo Horizonte de forma segura, você pode procurar em lojas especializadas que oferecem garantia ou em plataformas online. O XXXXXX é uma opção fácil e rápida para encontrar bicicletas de ciclista para ciclista, com anúncio grátis e sem comissões, garantindo uma transação segura."
+      }
+    ]
+  },
+  {
+    "nome": "Brasília",
+    "faq": [
+      {
+        "pergunta": "Quais são os melhores lugares para pedalar em Brasília, considerando ciclovias e parques?",
+        "resposta": "Brasília oferece diversas opções para pedalar. O Eixo Monumental é popular para passeios urbanos, e o Parque da Cidade Sarah Kubitschek possui uma extensa ciclovia. O Jardim Botânico também é uma ótima opção, com trilhas para caminhada e ciclismo."
+      },
+      {
+        "pergunta": "Onde posso encontrar boas trilhas de mountain bike perto de Brasília?",
+        "resposta": "Para os amantes de mountain bike, Brasília tem opções como a Fazenda Taboquinha, conhecida por seus desafios. A Trilha da Igrejinha oferece descidas emocionantes, e o Circuito FLONA (Floresta Nacional de Brasília) é uma alternativa com segurança e diversão."
+      },
+      {
+        "pergunta": "Existem grupos de pedal em Brasília para diferentes níveis de ciclistas?",
+        "resposta": "Sim, Brasília tem uma comunidade ciclística ativa com vários grupos. O Pedal Brasília e o Pedala Recanto (@pedalarecanto_) organizam pedais para iniciantes, intermediários e avançados. Há também grupos liderados por mulheres, como os mencionados pela Rodas da Paz."
+      },
+      {
+        "pergunta": "Qual a melhor forma de comprar uma bicicleta usada em Brasília?",
+        "resposta": "Para comprar uma bicicleta usada em Brasília, você pode procurar em plataformas online como OLX, Mercado Livre e Facebook Marketplace. O XXXXXX é uma opção fácil e rápida para encontrar anúncios de ciclistas para ciclistas, com anúncio grátis e sem comissões."
+      },
+      {
+        "pergunta": "Posso levar minha bicicleta no metrô de Brasília?",
+        "resposta": "Sim, é permitido transportar bicicletas no metrô de Brasília, mas com algumas restrições de horário. Geralmente, é liberado nos fins de semana e feriados, e em horários de menor movimento durante a semana. Verifique as regras específicas da Companhia do Metropolitano do Distrito Federal (Metrô-DF) para evitar imprevistos."
+      },
+      {
+        "pergunta": "Como posso me envolver na cultura de bike de Brasília e encontrar eventos?",
+        "resposta": "Para se envolver na cultura de bike de Brasília, participe dos grupos de pedal locais, que frequentemente organizam eventos e passeios. A SETUR-DF lançou a Rota do Cicloturismo, e o Camelo Bike Tour oferece passeios guiados. Fique atento às redes sociais e sites de grupos para descobrir os próximos encontros e celebrações do ciclismo na cidade."
+      }
+    ]
+  },
+  {
+    "nome": "Campinas",
+    "faq": [
+      {
+        "pergunta": "Quais são as melhores ciclovias para pedalar em Campinas?",
+        "resposta": "Campinas possui mais de 120km de rotas cicloviárias. Dentre as opções, destacam-se as ciclovias do Parque Taquaral, que é um circuito fechado e seguro, e as que interligam os sistemas Campo Grande e Ouro Verde, oferecendo percursos mais longos e conectados a diversos bairros da cidade."
+      },
+      {
+        "pergunta": "Existem grupos de pedal em Campinas para iniciantes?",
+        "resposta": "Sim, Campinas conta com diversos grupos de pedal que acolhem ciclistas de todos os níveis. O Campinas Bike Clube e o Pangas Bikers são exemplos de grupos ativos que organizam passeios noturnos, trilhas e viagens, sendo ótimas opções para quem busca companhia e segurança para pedalar."
+      },
+      {
+        "pergunta": "Onde posso encontrar trilhas de MTB perto de Campinas?",
+        "resposta": "Para os amantes de Mountain Bike, os distritos de Sousas e Joaquim Egídio são excelentes opções, com diversas trilhas que variam em dificuldade. A região oferece paisagens naturais e infraestrutura para ciclistas, como o Bike Hotel em Joaquim Egídio, ponto de partida para muitas aventuras."
+      },
+      {
+        "pergunta": "É permitido levar bicicletas no transporte público de Campinas?",
+        "resposta": "Atualmente, o transporte de bicicletas no sistema de ônibus urbano de Campinas é restrito. No entanto, a cidade tem investido em infraestrutura cicloviária para facilitar o deslocamento de bicicleta, incentivando o uso da bike como meio de transporte sustentável."
+      },
+      {
+        "pergunta": "Como posso comprar uma bicicleta usada de forma segura em Campinas?",
+        "resposta": "Para comprar uma bicicleta usada em Campinas, é importante verificar a procedência e o estado de conservação do equipamento. O XXXXXX é uma plataforma fácil, rápida e segura para encontrar bicicletas de ciclista para ciclista, com anúncio grátis e sem comissões, facilitando a negociação direta."
+      },
+      {
+        "pergunta": "Quais eventos de ciclismo acontecem em Campinas?",
+        "resposta": "Campinas sedia diversos eventos de ciclismo ao longo do ano, desde passeios ciclísticos recreativos até competições. O GP Campinas de Ciclismo é um evento tradicional que atrai muitos participantes, e grupos como o Pangas Bikers frequentemente organizam eventos e cicloturismo pela região."
+      }
+    ]
+  },
+  {
+    "nome": "Campo Grande",
+    "faq": [
+      {
+        "pergunta": "Quais são as melhores trilhas de MTB em Campo Grande?",
+        "resposta": "Em Campo Grande, você encontra trilhas como as do Parque Ayrton Senna (pista de XCC), Morro do Ernesto e Pedreira Hard. A região do Céuzinho, conhecida como Vale Perdido, também oferece opções. Grupos como a 3CG Trekking organizam passeios guiados para explorar essas áreas."
+      },
+      {
+        "pergunta": "Existem grupos de pedal em Campo Grande para iniciantes?",
+        "resposta": "Sim, Campo Grande possui diversos grupos de pedal que acolhem iniciantes. Alguns exemplos são o 'Nosso Pedal Campo Grande' (@nossopedalcg) e o 'Bora no Pedal' (@boranopedal) no Instagram, além do Grupo 8G da Gilmar Bicicletas. Eles organizam passeios com diferentes níveis de dificuldade."
+      },
+      {
+        "pergunta": "Qual tipo de bicicleta é mais indicada para pedalar em Campo Grande?",
+        "resposta": "Para as trilhas de MTB e as áreas rurais próximas, uma mountain bike é a mais indicada. Já para o uso urbano, como nas ciclovias e ruas da cidade, uma bicicleta de passeio ou híbrida oferece mais conforto e eficiência."
+      },
+      {
+        "pergunta": "É seguro comprar bicicletas usadas em Campo Grande?",
+        "resposta": "Sim, é seguro comprar bicicletas usadas em Campo Grande, desde que você tome algumas precauções. Verifique a bicicleta pessoalmente e, se possível, peça a um mecânico para avaliá-la. Para encontrar boas opções, o XXXXXX é uma plataforma fácil, rápida e segura para anunciar e encontrar bicicletas usadas de ciclista para ciclista, sem comissões."
+      },
+      {
+        "pergunta": "Onde posso encontrar eventos e competições de ciclismo em Campo Grande?",
+        "resposta": "Para encontrar eventos e competições de ciclismo em Campo Grande, você pode consultar a Federação de MS de Ciclismo (@fmsc_fmsc) e o site Sport Radical. Muitos grupos de pedal locais também divulgam seus próprios eventos e participações em competições na região."
+      },
+      {
+        "pergunta": "Campo Grande possui ciclovias ou ciclofaixas para pedalar com segurança?",
+        "resposta": "Sim, Campo Grande oferece ciclovias e ciclofaixas para pedalar com mais segurança. Exemplos incluem a ciclovia da Duque de Caxias - Córrego Lagoa e a da Orla Morena, que são ótimas opções para passeios urbanos e deslocamentos de bicicleta."
+      }
+    ]
+  },
+  {
+    "nome": "Contagem",
+    "faq": [
+      {
+        "pergunta": "Quais são os melhores lugares para pedalar em Contagem para quem está começando?",
+        "resposta": "Para iniciantes, a ciclovia da Via Expressa, que liga Contagem a Igarapé, pode ser uma boa opção para pedais mais longos e planos. Dentro da cidade, o Parque Ecológico do Eldorado oferece um ambiente mais tranquilo para passeios leves."
+      },
+      {
+        "pergunta": "Existem grupos de pedal em Contagem que aceitam novos membros?",
+        "resposta": "Sim, Contagem possui grupos ativos como o \"Unidos pela Bike Contagem MG\" e o \"MTB Contagem\", que organizam pedais urbanos e de cicloturismo. A \"Associação Ciclistas de Contagem\" também é uma boa referência para encontrar companheiros de pedal."
+      },
+      {
+        "pergunta": "Onde posso encontrar trilhas de mountain bike mais desafiadoras perto de Contagem?",
+        "resposta": "Para trilhas mais desafiadoras, o Parque Estadual da Serra do Rola Moça, que fica próximo a Contagem, oferece diversas opções para mountain bike. Em Contagem, a trilha Sapucaias é uma das mencionadas para ciclismo."
+      },
+      {
+        "pergunta": "Qual tipo de bicicleta é mais indicada para pedalar em Contagem, considerando as opções de vias e trilhas?",
+        "resposta": "Para pedais urbanos e ciclovias, uma bicicleta de passeio ou híbrida é confortável e eficiente. Se o interesse for explorar as trilhas próximas, como as da Serra do Rola Moça, uma mountain bike será mais adequada para o terreno."
+      },
+      {
+        "pergunta": "Como posso comprar uma bicicleta usada de forma segura em Contagem?",
+        "resposta": "Para comprar uma bicicleta usada em Contagem, você pode procurar em grupos de ciclismo locais ou plataformas online. O XXXXXX é uma ótima opção, pois é fácil, rápido e seguro para encontrar bicicletas de ciclista para ciclista, com anúncio grátis e sem comissões."
+      },
+      {
+        "pergunta": "Há algum evento ou encontro de ciclistas regular em Contagem?",
+        "resposta": "Os grupos de pedal como \"Unidos pela Bike Contagem MG\" e \"MTB Contagem\" frequentemente organizam encontros e pedais coletivos. Fique atento às redes sociais desses grupos para participar de eventos e conhecer a cultura de bike local."
+      }
+    ]
+  },
+  {
+    "nome": "Curitiba",
+    "faq": [
+      {
+        "pergunta": "Posso levar minha bicicleta no transporte público de Curitiba?",
+        "resposta": "Em Curitiba, é permitido o transporte de bicicletas nos ônibus biarticulados e ligeirinhos aos domingos e feriados, em horários específicos. Nos dias úteis, o transporte é restrito a ônibus com bagageiro externo ou em horários de menor movimento, conforme regulamentação da URBS."
+      },
+      {
+        "pergunta": "Quais são as melhores ciclovias e parques para pedalar em Curitiba?",
+        "resposta": "Curitiba oferece uma boa infraestrutura cicloviária. Destacam-se a ciclovia da Avenida Sete de Setembro, que conecta o centro a bairros importantes, e os parques Barigui e Tingui, que possuem pistas dedicadas e são ótimos para passeios em família."
+      },
+      {
+        "pergunta": "Onde posso encontrar grupos de pedal em Curitiba para iniciantes?",
+        "resposta": "Existem diversos grupos de pedal em Curitiba que acolhem iniciantes. Muitos se organizam via redes sociais e aplicativos, com saídas regulares de parques como o Barigui ou a Praça Nossa Senhora de Salete. É uma ótima forma de conhecer a cidade e fazer amigos."
+      },
+      {
+        "pergunta": "Qual tipo de bicicleta é mais indicada para pedalar em Curitiba, considerando o relevo e as ruas?",
+        "resposta": "Para o dia a dia em Curitiba, uma bicicleta urbana ou híbrida é ideal, devido ao relevo variado e às ruas com paralelepípedos em algumas regiões. Para quem busca trilhas, uma mountain bike é mais adequada para as áreas rurais próximas."
+      },
+      {
+        "pergunta": "Quais são as dicas para comprar uma bicicleta usada em Curitiba de forma segura?",
+        "resposta": "Ao comprar uma bicicleta usada em Curitiba, verifique sempre a procedência e o estado geral da bike. Procure por plataformas como o XXXXXX, onde é fácil e rápido encontrar anúncios de ciclista para ciclista, garantindo uma compra segura e sem comissões."
+      },
+      {
+        "pergunta": "Existem eventos ou feiras de ciclismo importantes em Curitiba?",
+        "resposta": "Curitiba sedia anualmente eventos como o Ciclo Sesc e diversas provas de ciclismo de estrada e mountain bike na região metropolitana. Fique atento aos calendários de clubes e associações locais para participar de passeios e competições."
+      }
+    ]
+  },
+  {
+    "nome": "Goiânia",
+    "faq": [
+      {
+        "pergunta": "Quais são as principais ciclovias e rotas seguras para pedalar em Goiânia?",
+        "resposta": "Goiânia oferece ciclovias em avenidas como a T-63 e a Ricardo Paranhos, além de ciclofaixas em outras regiões. O Parque Flamboyant e o Parque Vaca Brava também são ótimos para pedalar com mais tranquilidade e segurança."
+      },
+      {
+        "pergunta": "Existem boas trilhas de mountain bike perto de Goiânia para iniciantes?",
+        "resposta": "Sim, para iniciantes, a região do Autódromo de Goiânia e algumas áreas próximas ao Morro do Além oferecem trilhas mais leves. Grupos de pedal locais costumam organizar saídas para esses locais, proporcionando uma experiência guiada."
+      },
+      {
+        "pergunta": "Como posso encontrar grupos de pedal e eventos de ciclismo em Goiânia?",
+        "resposta": "Muitos grupos de pedal se organizam pelas redes sociais e aplicativos de mensagens, como WhatsApp. Eventos como o Passeio Ciclístico de Goiânia são anuais e divulgados pela prefeitura e clubes locais, sendo uma ótima oportunidade para participar."
+      },
+      {
+        "pergunta": "Posso levar minha bicicleta no transporte público de Goiânia?",
+        "resposta": "Atualmente, o transporte público coletivo de Goiânia (ônibus) não permite o transporte de bicicletas. Para distâncias maiores, muitos ciclistas utilizam racks automotivos ou serviços de transporte por aplicativo com veículos adaptados para bikes."
+      },
+      {
+        "pergunta": "Onde posso comprar bicicletas usadas de forma segura em Goiânia?",
+        "resposta": "Para comprar bicicletas usadas com segurança em Goiânia, você pode procurar em lojas especializadas que oferecem seminovas ou plataformas online. O XXXXXX é uma opção fácil, rápida e segura para encontrar anúncios de ciclista para ciclista, sem comissões."
+      },
+      {
+        "pergunta": "Qual tipo de bicicleta é mais indicada para pedalar no dia a dia em Goiânia?",
+        "resposta": "Para o dia a dia em Goiânia, uma bicicleta urbana ou híbrida é geralmente a mais indicada, devido ao conforto e versatilidade para ciclovias e ruas. Se você planeja explorar parques e trilhas leves, uma mountain bike de entrada também pode ser uma boa escolha."
+      }
+    ]
+  },
+  {
+    "nome": "Osasco",
+    "faq": [
+      {
+        "pergunta": "Quais são as principais ciclovias e rotas para pedalar em Osasco?",
+        "resposta": "Osasco oferece algumas opções para ciclistas, como a Ciclofaixa Osasco e a Ciclovia Faria Lima, que são boas para passeios urbanos. Há também a Rota Circular Osasco via Avenida Martin Luther King, ideal para quem busca um percurso mais definido."
+      },
+      {
+        "pergunta": "Existem trilhas de mountain bike (MTB) perto de Osasco?",
+        "resposta": "Sim, para os amantes de MTB, há trilhas populares na região, como as próximas ao Parque Jequitibá e a trilha do Parque Tizo. A comunidade Wikiloc também lista percursos de mountain bike e cicloturismo na área."
+      },
+      {
+        "pergunta": "Como posso encontrar grupos de pedal em Osasco para pedalar com mais pessoas?",
+        "resposta": "Você pode encontrar grupos de pedal em Osasco através de redes sociais como Instagram e Facebook. Páginas como @ciclismoemosasco, @pedalcarismaoficial e o grupo 'CICLISMO OSASCO' no Facebook são ótimos pontos de partida para se conectar com outros ciclistas."
+      },
+      {
+        "pergunta": "Qual tipo de bicicleta é mais indicada para pedalar em Osasco?",
+        "resposta": "Para o ciclismo urbano em Osasco, bicicletas de passeio ou híbridas são ideais para as ciclovias e ruas da cidade. Se você pretende explorar as trilhas da região, uma mountain bike será mais adequada para o terreno."
+      },
+      {
+        "pergunta": "Onde posso comprar bicicletas usadas de forma segura em Osasco?",
+        "resposta": "Para comprar bicicletas usadas em Osasco, você pode verificar plataformas online como OLX, Mercado Livre e Facebook Marketplace. O XXXXXX é uma opção fácil, rápida e segura para encontrar anúncios de ciclista para ciclista."
+      },
+      {
+        "pergunta": "Como posso vender minha bicicleta usada em Osasco?",
+        "resposta": "Para vender sua bicicleta usada em Osasco, você pode utilizar plataformas como OLX, Mercado Livre e Facebook Marketplace. O XXXXXX permite anúncio grátis e sem comissões, facilitando a venda de ciclista para ciclista de forma segura."
+      }
+    ]
+  },
+  {
+    "nome": "Porto Alegre",
+    "faq": [
+      {
+        "pergunta": "Quais são as principais ciclovias para pedalar em Porto Alegre?",
+        "resposta": "Porto Alegre conta com uma malha cicloviária de aproximadamente 95,33 km, que inclui ciclovias, ciclofaixas e ciclorrotas. Trechos importantes podem ser encontrados na Zona Sul e em outras áreas da cidade, que fazem parte do Plano Diretor Cicloviário Integrado (PDCI). A prefeitura está em processo de revisão e expansão dessa infraestrutura para incentivar o uso da bicicleta."
+      },
+      {
+        "pergunta": "É permitido levar a bicicleta no transporte público de Porto Alegre?",
+        "resposta": "Sim, é possível transportar bicicletas no metrô (Trensurb) de Porto Alegre. Aos sábados, domingos e feriados, o transporte é liberado durante todo o horário de funcionamento. Nos dias úteis, há restrições de horário, sendo geralmente permitido fora dos horários de pico, como das 9h às 16h e após as 19h. Para ônibus, há um projeto de lei para instalação de bike racks."
+      },
+      {
+        "pergunta": "Onde posso encontrar grupos de pedal em Porto Alegre para pedalar em companhia?",
+        "resposta": "Porto Alegre possui uma cultura de ciclismo vibrante com diversos grupos de pedal para todos os níveis. Alguns exemplos incluem o Pedal das Gurias, Pedalegre e BoraLiga, que organizam saídas regulares por diferentes regiões da cidade. É comum encontrar informações sobre esses grupos em redes sociais e fóruns locais de ciclismo."
+      },
+      {
+        "pergunta": "Quais são as melhores trilhas de MTB perto de Porto Alegre?",
+        "resposta": "Para os amantes de Mountain Bike, a região metropolitana de Porto Alegre oferece diversas opções de trilhas. Áreas como a Zona Sul da capital e cidades próximas como Dois Irmãos e Igrejinha, no interior do estado, são conhecidas por suas estradas de terra e percursos desafiadores. Muitos grupos de pedal organizam saídas para essas localidades."
+      },
+      {
+        "pergunta": "Qual tipo de bicicleta é mais indicada para pedalar em Porto Alegre?",
+        "resposta": "Para pedalar em Porto Alegre, a escolha da bicicleta depende do seu objetivo. Para o uso urbano e ciclovias, bicicletas de passeio ou híbridas são confortáveis e eficientes. Se o interesse for em trilhas e estradas de terra nos arredores, uma mountain bike será mais adequada. Para deslocamentos mais rápidos, bicicletas de estrada podem ser uma boa opção nas vias pavimentadas."
+      },
+      {
+        "pergunta": "Onde posso comprar ou vender bicicletas usadas em Porto Alegre de forma segura?",
+        "resposta": "Para comprar ou vender bicicletas usadas em Porto Alegre, o XXXXXX é uma plataforma fácil e rápida. Você pode anunciar grátis e encontrar bicicletas de ciclista para ciclista, sem comissões. É uma forma segura de negociar, conectando diretamente compradores e vendedores na comunidade ciclística local."
+      }
+    ]
+  },
+  {
+    "nome": "São Bernardo do Campo",
+    "faq": [
+      {
+        "pergunta": "Quais são as melhores ciclovias e parques para pedalar em São Bernardo do Campo?",
+        "resposta": "São Bernardo do Campo oferece diversas opções para ciclistas. A Ciclovia Kennedy é uma das mais conhecidas, e parques como o Parque da Juventude Città de Marostica e o Parque Raphael Lazzuri são ótimos para passeios em família. A cidade também conta com mais de 12 quilômetros de ciclovias e ciclofaixas."
+      },
+      {
+        "pergunta": "Existem grupos de pedal em São Bernardo do Campo para iniciantes?",
+        "resposta": "Sim, há vários grupos de pedal ativos em São Bernardo do Campo que acolhem iniciantes. O grupo Pedal São Bernardo, por exemplo, organiza passeios ciclísticos gratuitos e é conhecido por sua comunidade acolhedora. Outro grupo que se reúne é o Pedal Noturno São Bernardo do Campo Poliesportivo, com saídas semanais do Ginásio Poliesportivo."
+      },
+      {
+        "pergunta": "Onde posso encontrar trilhas de Mountain Bike (MTB) em São Bernardo do Campo?",
+        "resposta": "Para os amantes de MTB, a região “pós-balsa” de São Bernardo do Campo é um destaque. A Rota Cicloturística Caminhos do Capivari oferece estradas de terra com vegetação de Mata Atlântica, proporcionando uma experiência imersiva na natureza."
+      },
+      {
+        "pergunta": "É possível levar a bicicleta em transportes públicos em São Bernardo do Campo?",
+        "resposta": "Atualmente, a cidade de São Bernardo do Campo não possui metrô. Para informações sobre o transporte de bicicletas em ônibus municipais ou intermunicipais que atendem a região, é recomendável consultar as empresas operadoras, pois as regras podem variar."
+      },
+      {
+        "pergunta": "Qual a melhor forma de comprar uma bicicleta usada de forma segura em São Bernardo do Campo?",
+        "resposta": "Para comprar uma bicicleta usada em São Bernardo do Campo, você pode procurar em lojas especializadas que oferecem garantia ou plataformas online. O XXXXXX é uma opção fácil, rápida e segura para encontrar bicicletas de ciclista para ciclista, com anúncio grátis e sem comissões."
+      },
+      {
+        "pergunta": "Há algum evento ou iniciativa de cultura de bike em São Bernardo do Campo?",
+        "resposta": "São Bernardo do Campo promove iniciativas como passeios ciclísticos gratuitos, como os organizados pelo Pedal São Bernardo. A cidade também se conecta à Rota Márcia Prado, um percurso cicloviário que liga São Paulo ao litoral, passando por São Bernardo, contribuindo para a cultura de bike local."
+      }
+    ]
+  },
+  {
+    "nome": "São José dos Campos",
+    "faq": [
+      {
+        "pergunta": "Quais são as principais ciclovias e ciclofaixas para pedalar em São José dos Campos?",
+        "resposta": "São José dos Campos conta com uma extensa malha cicloviária de 271,43 km, distribuída por todas as regiões da cidade. Destaques incluem a ciclovia do Parque da Cidade Roberto Burle Marx, ideal para passeios em meio à natureza, e trechos da Avenida Jorge Zarur, que oferecem percursos agradáveis e seguros para os ciclistas."
+      },
+      {
+        "pergunta": "São José dos Campos possui trilhas de MTB para ciclistas mais aventureiros?",
+        "resposta": "Sim, São José dos Campos e seus arredores oferecem diversas opções de trilhas para Mountain Bike. A região de São Francisco Xavier é conhecida por suas trilhas desafiadoras, como a Travessia São Francisco Xavier - Monte Verde. O Mobai Bike Land também é uma excelente opção, com mais de 6 pistas e trilhas para diferentes níveis de habilidade."
+      },
+      {
+        "pergunta": "É possível levar minha bicicleta pessoal no transporte público de São José dos Campos?",
+        "resposta": "Atualmente, não há informações claras sobre a permissão para transportar bicicletas pessoais em ônibus, trens ou metrôs dentro de São José dos Campos. A cidade foca na integração do transporte público com o sistema de bicicletas compartilhadas Bike SJC, que permite o uso de bikes por meio de créditos do Bilhete Único."
+      },
+      {
+        "pergunta": "Como funciona o sistema de bicicletas compartilhadas Bike SJC?",
+        "resposta": "O Bike SJC é um projeto da Prefeitura que disponibiliza bicicletas em estações virtuais pela cidade. Usuários do transporte público acumulam créditos no Bilhete Único para usar as bikes gratuitamente. Para os demais, há planos de uso por tempo, diário ou mensal, incentivando a mobilidade ativa e sustentável."
+      },
+      {
+        "pergunta": "Existem grupos de pedal em São José dos Campos para quem busca companhia?",
+        "resposta": "Sim, São José dos Campos possui uma comunidade ciclística ativa com diversos grupos de pedal para todos os gostos e níveis. Grupos como Só Pedal SJC, Turma do Pedal-SJC-SP e Pedalentos SJC organizam saídas regulares, proporcionando companhia e segurança para explorar a cidade e suas trilhas."
+      },
+      {
+        "pergunta": "Onde posso encontrar bicicletas usadas de qualidade em São José dos Campos?",
+        "resposta": "Para encontrar bicicletas usadas de qualidade em São José dos Campos, o XXXXXX é uma ótima opção. Lá você pode anunciar sua bicicleta ou encontrar a bike ideal de forma fácil, rápida e segura. É uma plataforma de ciclista para ciclista, com anúncio grátis e sem comissões."
+      }
+    ]
+  },
+  {
+    "nome": "São Paulo",
+    "faq": [
+      {
+        "pergunta": "Posso levar minha bicicleta no metrô ou trem em São Paulo?",
+        "resposta": "Sim, é permitido transportar bicicletas comuns no metrô e nos trens da CPTM em horários específicos, geralmente aos sábados a partir das 14h, domingos e feriados o dia todo. Bicicletas dobráveis são aceitas em qualquer horário, desde que estejam embaladas em capa. Há um limite de 4 bicicletas por trem, sempre no último vagão."
+      },
+      {
+        "pergunta": "Quais são as melhores trilhas de MTB perto de São Paulo para iniciantes e avançados?",
+        "resposta": "Para iniciantes, o Cemucam Bike Park em Cotia oferece 8km de trilhas públicas. Ciclistas mais experientes podem explorar a Estrada dos Romeiros, que liga Santana de Parnaíba a Itu, ou as trilhas na região da Represa de Nazaré Paulista. A Trilha do Bonete também é uma opção desafiadora para quem busca aventura."
+      },
+      {
+        "pergunta": "Onde posso encontrar grupos de pedal e eventos de ciclismo em São Paulo?",
+        "resposta": "São Paulo possui uma vibrante cultura de bike, com diversos grupos de pedal que se reúnem em parques como o Ibirapuera e o Villa-Lobos. Eventos como o Bike Tour SP oferecem passeios guiados pela cidade, explorando pontos turísticos e a arte de rua. As redes sociais e aplicativos de ciclismo são ótimos para encontrar comunidades e calendários de eventos."
+      },
+      {
+        "pergunta": "Qual tipo de bicicleta é mais indicada para pedalar no dia a dia em São Paulo?",
+        "resposta": "Para o deslocamento urbano em São Paulo, uma bicicleta urbana ou híbrida é geralmente a mais indicada, devido à sua versatilidade para ciclovias, ciclofaixas e ruas. Modelos com marchas facilitam a superação das subidas e descidas da cidade. Pneus mais largos oferecem maior conforto e segurança em diferentes tipos de pavimento."
+      },
+      {
+        "pergunta": "Quais são as principais ciclovias e ciclofaixas para pedalar com segurança em São Paulo?",
+        "resposta": "São Paulo tem expandido sua malha cicloviária, com destaque para a Ciclovia Rio Pinheiros, que oferece um longo percurso ao longo do rio. Outras opções populares incluem as ciclovias dos parques Ibirapuera e Villa-Lobos, além de diversas ciclofaixas espalhadas pela cidade que conectam diferentes bairros. É importante sempre verificar o trajeto e as condições antes de sair."
+      },
+      {
+        "pergunta": "Como posso comprar uma bicicleta usada de forma segura em São Paulo?",
+        "resposta": "Para comprar uma bicicleta usada de forma segura em São Paulo, é recomendável verificar a procedência e o estado geral da bicicleta. Plataformas como o XXXXXX são uma excelente opção, pois permitem um anúncio grátis e conectam ciclistas diretamente, tornando o processo fácil, rápido e seguro. É uma forma de comprar de ciclista para ciclista, sem comissões."
+      }
+    ]
+  }
+]

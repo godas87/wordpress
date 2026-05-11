@@ -1,0 +1,1860 @@
+{
+  "versao": 2,
+  "gerado_em": "2026-05-06T04:09:30Z",
+  "descricao": "Fila editorial: ordem sugere datas de publicação (primeiro = mais antigo). Verticais intercaladas para evitar sequências do mesmo tema. O conteúdo dos artigos está todo em arquivos Markdown, portanto é preciso fazer a conversão de tags .md para HTML",
+  "total": 64,
+  "itens": [
+    {
+      "id": "eletrica/artigo_cluster_motor_eletrica",
+      "vertical": "eletrica",
+      "titulo": "Motor central ou de cubo na e-bike com diferenças que pesam na usada",
+      "slug": "motor-central-ou-de-cubo-na-e-bike-com-diferenças-que-pesam-na-usada",
+      "tipo_artigo": "Cluster",
+      "meta_description": "Motores de cubo e mid-drive: como cada um entrega torque e o que checar ao comprar e-bike usada.",
+      "outlines": [
+        "Motor de Cubo (Hub Motor): Vantagens e Desvantagens",
+        "Motor Central (Mid-Drive): Vantagens e Desvantagens",
+        "O Que Verificar ao Comprar Usada",
+        "Conclusão o que pesar ao fechar na usada"
+      ],
+      "markdown": "scripts/blog/eletrica/artigo_cluster_motor_eletrica.md",
+      "capa": "scripts/blog/eletrica/artigo_cluster_motor_eletrica.webp",
+      "taxonomias": [
+        {
+          "tipo": "modalidade",
+          "slug": "eletrica",
+          "id": 8
+        },
+        {
+          "tipo": "componente",
+          "slug": "roda",
+          "id": 16
+        },
+        {
+          "tipo": "componente",
+          "slug": "quadro",
+          "id": 26
+        }
+      ]
+    },
+    {
+      "id": "gravel/artigo_cluster_rodas_gravel",
+      "vertical": "gravel",
+      "titulo": "700c ou 650b na gravel pensando em conforto rolagem e terreno",
+      "slug": "700c-ou-650b-na-gravel-pensando-em-conforto-rolagem-e-terreno",
+      "tipo_artigo": "Cluster",
+      "meta_description": "Rodas 700c e 650b no gravel: velocidade rolante, conforto e tração — critérios para combinar com o seu terreno.",
+      "outlines": [
+        "O Básico: O que são 700c e 650b?",
+        "Rodas 700c: A Escolha da Velocidade",
+        "Rodas 650b: A Escolha da Aventura",
+        "O Que Verificar ao Comprar Usada"
+      ],
+      "markdown": "scripts/blog/gravel/artigo_cluster_rodas_gravel.md",
+      "capa": "scripts/blog/gravel/artigo_cluster_rodas_gravel.webp",
+      "taxonomias": [
+        {
+          "tipo": "modalidade",
+          "slug": "gravel",
+          "id": 10
+        },
+        {
+          "tipo": "componente",
+          "slug": "roda",
+          "id": 16
+        },
+        {
+          "tipo": "componente",
+          "slug": "pneu",
+          "id": 17
+        }
+      ]
+    },
+    {
+      "id": "mtb/artigo_cluster_geometria",
+      "vertical": "mtb",
+      "titulo": "Reach stack e ângulos de geometria de MTB na ficha sem confusão",
+      "slug": "geometria-mtb-o-que-os-numeros-do-quadro-dizem",
+      "tipo_artigo": "Cluster",
+      "meta_description": "Reach, stack, ângulo de direção, chainstay e outras medidas: como usar a ficha técnica na escolha de uma MTB usada.",
+      "outlines": [
+        "1. Reach (Alcance) e Stack (Altura)",
+        "2. Head Tube Angle (Ângulo de Direção)",
+        "3. Seat Tube Angle (Ângulo do Tubo do Selim)",
+        "4. Chainstay Length (Comprimento do Chainstay)",
+        "5. Wheelbase (Distância Entre Eixos)",
+        "Como Usar a Geometria na Hora de Comprar uma Usada"
+      ],
+      "markdown": "scripts/blog/mtb/artigo_cluster_geometria.md",
+      "capa": "scripts/blog/mtb/artigo_cluster_geometria.webp",
+      "taxonomias": [
+        {
+          "tipo": "modalidade",
+          "slug": "mountain-bike-mtb",
+          "id": 7
+        },
+        {
+          "tipo": "componente",
+          "slug": "quadro",
+          "id": 52
+        },
+        {
+          "tipo": "componente",
+          "slug": "suspensao-dianteira",
+          "id": 46
+        }
+      ]
+    },
+    {
+      "id": "speed/artigo_cluster_carbono_aluminio_speed",
+      "vertical": "speed",
+      "titulo": "Speed usada em carbono ou alumínio e onde o investimento aparece",
+      "slug": "speed-usada-em-carbono-ou-alumínio-e-onde-o-investimento-aparece",
+      "tipo_artigo": "Cluster",
+      "meta_description": "Quadros de carbono e alumínio na estrada: custo-benefício, conforto e o que buscar no usado.",
+      "outlines": [
+        "O Quadro de Alumínio",
+        "O Quadro de Fibra de Carbono",
+        "O Veredito no XXXXXX"
+      ],
+      "markdown": "scripts/blog/speed/artigo_cluster_carbono_aluminio_speed.md",
+      "capa": "scripts/blog/speed/artigo_cluster_carbono_aluminio_speed.png",
+      "taxonomias": [
+        {
+          "tipo": "modalidade",
+          "slug": "speed",
+          "id": 13372
+        },
+        {
+          "tipo": "componente",
+          "slug": "quadro",
+          "id": 2
+        }
+      ]
+    },
+    {
+      "id": "bmx/artigo_orfao_manutencao_freecoaster_bmx",
+      "vertical": "bmx",
+      "titulo": "Manutenção do cubo freecoaster na BMX do slack à lubrificação",
+      "slug": "manutenção-do-cubo-freecoaster-na-bmx-do-slack-à-lubrificação",
+      "tipo_artigo": "Orfão",
+      "meta_description": "Passo a passo para desmontar, limpar, ajustar o slack e lubrificar o freecoaster da BMX usada, evitando falhas nas manobras.",
+      "outlines": [
+        "Ferramentas Necessárias",
+        "Passo 1: Desmontagem e Acesso ao Coração do Cubo",
+        "Passo 2: Limpeza Extrema",
+        "Passo 3: Ajuste do Slack (Folga)",
+        "Passo 4: Lubrificação (O Segredo do Sucesso)",
+        "Passo 5: Remontagem"
+      ],
+      "markdown": "scripts/blog/bmx/artigo_orfao_manutencao_freecoaster_bmx.md",
+      "capa": "scripts/blog/bmx/artigo_orfao_manutencao_freecoaster_bmx.webp",
+      "taxonomias": [
+        {
+          "tipo": "modalidade",
+          "slug": "bmx",
+          "id": 13359
+        },
+        {
+          "tipo": "componente",
+          "slug": "rodas",
+          "id": 28
+        }
+      ]
+    },
+    {
+      "id": "dobravel/artigo_orfao_transporte_dobravel",
+      "vertical": "dobravel",
+      "titulo": "Bicicleta dobrável no metrô e no trem com regras de etiqueta e boas práticas",
+      "slug": "bicicleta-dobrável-no-metrô-e-no-trem-com-regras-de-etiqueta-e-boas-práticas",
+      "tipo_artigo": "Orfão",
+      "meta_description": "Dicas e etiqueta para levar o dobrável no transporte público sem sujeira nem transtorno aos outros passageiros.",
+      "outlines": [
+        "A Regra de Ouro: Dobre ANTES da Catraca",
+        "Como Carregar nas Escadas",
+        "O \"Modo Carrinho\" (Trolley Mode)",
+        "Etiqueta Dentro do Vagão",
+        "O Desembarque"
+      ],
+      "markdown": "scripts/blog/dobravel/artigo_orfao_transporte_dobravel.md",
+      "capa": "scripts/blog/dobravel/artigo_orfao_transporte_dobravel.webp",
+      "taxonomias": [
+        {
+          "tipo": "modalidade",
+          "slug": "dobravel",
+          "id": 13363
+        }
+      ]
+    },
+    {
+      "id": "downhill/artigo_orfao_regulagem_suspensao_downhill",
+      "vertical": "downhill",
+      "titulo": "Compressão e rebound na suspensão de downhill no ajuste certo",
+      "slug": "compressão-e-rebound-na-suspensão-de-downhill-no-ajuste-certo",
+      "tipo_artigo": "Orfão",
+      "meta_description": "SAG, rebound e compressão (alta e baixa velocidade) na suspensão de DH: ajustes para extrair performance da bike usada.",
+      "outlines": [
+        "Passo 1: O Ponto de Partida (SAG)",
+        "Passo 2: Entendendo o Retorno (Rebound)",
+        "Passo 3: Entendendo a Compressão (Compression)",
+        "A Regra de Ouro do Setup"
+      ],
+      "markdown": "scripts/blog/downhill/artigo_orfao_regulagem_suspensao_downhill.md",
+      "capa": "scripts/blog/downhill/artigo_orfao_regulagem_suspensao_downhill.webp",
+      "taxonomias": [
+        {
+          "tipo": "modalidade",
+          "slug": "downhill",
+          "id": 7
+        },
+        {
+          "tipo": "componente",
+          "slug": "suspensao-dianteira",
+          "id": 29
+        },
+        {
+          "tipo": "componente",
+          "slug": "suspensao-traseira",
+          "id": 30
+        }
+      ]
+    },
+    {
+      "id": "equilibrio/artigo_cluster_quadro_madeira_aluminio_aco_equilibrio",
+      "vertical": "equilibrio",
+      "titulo": "Quadro de balance bike em madeira alumínio ou aço",
+      "slug": "quadro-de-balance-bike-em-madeira-alumínio-ou-aço",
+      "tipo_artigo": "Cluster",
+      "meta_description": "Madeira, alumínio ou aço no quadro da balance bike: durabilidade, peso e ajuste ao tamanho da criança.",
+      "outlines": [
+        "Quadros de Madeira",
+        "Quadros de Aço (Aço Carbono)",
+        "Quadros de Alumínio",
+        "O Dilema na Compra de Usadas"
+      ],
+      "markdown": "scripts/blog/equilibrio/artigo_cluster_quadro_madeira_aluminio_aco_equilibrio.md",
+      "capa": "scripts/blog/equilibrio/artigo_cluster_quadro_madeira_aluminio_aco_equilibrio.png",
+      "taxonomias": [
+        {
+          "tipo": "modalidade",
+          "slug": "equilibrio",
+          "id": 13366
+        },
+        {
+          "tipo": "componente",
+          "slug": "quadro",
+          "id": 26
+        }
+      ]
+    },
+    {
+      "id": "freerider/artigo_cluster_rodas_26_275_mullet_freeride",
+      "vertical": "freerider",
+      "titulo": "Roda 26 27,5 ou setup mullet no freeride",
+      "slug": "roda-26-275-ou-setup-mullet-no-freeride",
+      "tipo_artigo": "Cluster",
+      "meta_description": "Aro 26 no freeride e setup mullet (27,5 na frente, 26 atrás): por que a combinação ainda faz sentido em saltos e manobras.",
+      "outlines": [
+        "A Resistência do Aro 26\" no Freeride",
+        "O Padrão Atual: Aro 27.5\"",
+        "O Setup \"Mullet\" (27.5\" na Frente, 26\" Atrás)",
+        "O Dilema na Compra de Usadas"
+      ],
+      "markdown": "scripts/blog/freerider/artigo_cluster_rodas_26_275_mullet_freeride.md",
+      "capa": "scripts/blog/freerider/artigo_cluster_rodas_26_275_mullet_freeride.png",
+      "taxonomias": [
+        {
+          "tipo": "modalidade",
+          "slug": "freerider",
+          "id": 13367
+        },
+        {
+          "tipo": "componente",
+          "slug": "roda",
+          "id": 28
+        }
+      ]
+    },
+    {
+      "id": "infantil/artigo_orfao_ensinar_sem_rodinhas_infantil",
+      "vertical": "infantil",
+      "titulo": "Pedalar sem rodinhas com seu filho em passo a passo prático",
+      "slug": "pedalar-sem-rodinhas-com-seu-filho-em-passo-a-passo-prático",
+      "tipo_artigo": "Orfão",
+      "meta_description": "Sem rodinhas: método com balance bike — retirar pedais e trabalhar equilíbrio em sessões curtas.",
+      "outlines": [
+        "O Segredo: Transforme a Bicicleta em uma Balance Bike",
+        "O Processo de Aprendizado (Passo a Passo)",
+        "A Hora da Verdade: Recolocando os Pedais",
+        "Conclusão"
+      ],
+      "markdown": "scripts/blog/infantil/artigo_orfao_ensinar_sem_rodinhas_infantil.md",
+      "capa": "scripts/blog/infantil/artigo_orfao_ensinar_sem_rodinhas_infantil.png",
+      "taxonomias": [
+        {
+          "tipo": "modalidade",
+          "slug": "infantil",
+          "id": 13369
+        }
+      ]
+    },
+    {
+      "id": "eletrica/artigo_cluster_emtb_urbana",
+      "vertical": "eletrica",
+      "titulo": "E-MTB no asfalto ou e-bike urbana e quando faz sentido trocar uma pela outra",
+      "slug": "e-mtb-no-asfalto-ou-e-bike-urbana-e-quando-faz-sentido-trocar-uma-pela-outra",
+      "tipo_artigo": "Cluster",
+      "meta_description": "Usar e-MTB no asfalto frente a uma e-bike urbana: geometria, pneus e autonomia no dia a dia.",
+      "outlines": [
+        "A e-Bike Urbana (Commuter)",
+        "A e-MTB (Mountain Bike Elétrica)",
+        "O Custo de Usar uma e-MTB na Cidade",
+        "O Que Verificar ao Comprar Usada"
+      ],
+      "markdown": "scripts/blog/eletrica/artigo_cluster_emtb_urbana.md",
+      "capa": "scripts/blog/eletrica/artigo_cluster_emtb_urbana.webp",
+      "taxonomias": [
+        {
+          "tipo": "modalidade",
+          "slug": "eletrica",
+          "id": 8
+        },
+        {
+          "tipo": "modalidade",
+          "slug": "mountain-bike-mtb",
+          "id": 11
+        },
+        {
+          "tipo": "modalidade",
+          "slug": "urbana",
+          "id": 13
+        }
+      ]
+    },
+    {
+      "id": "gravel/artigo_cluster_materiais_gravel",
+      "vertical": "gravel",
+      "titulo": "Gravel usada com quadro em alumínio carbono ou aço",
+      "slug": "gravel-usada-com-quadro-em-alumínio-carbono-ou-aço",
+      "tipo_artigo": "Cluster",
+      "meta_description": "Alumínio, carbono e aço em quadros gravel: prós, contras e inspeção no usado.",
+      "outlines": [
+        "Alumínio: O Custo-Benefício Imbatível",
+        "Fibra de Carbono: A Máquina de Performance",
+        "Aço (Cromo-Molibdênio): A Alma da Aventura",
+        "Conclusão material do quadro na gravel usada"
+      ],
+      "markdown": "scripts/blog/gravel/artigo_cluster_materiais_gravel.md",
+      "capa": "scripts/blog/gravel/artigo_cluster_materiais_gravel.webp",
+      "taxonomias": [
+        {
+          "tipo": "modalidade",
+          "slug": "gravel",
+          "id": 10
+        },
+        {
+          "tipo": "componente",
+          "slug": "quadro",
+          "id": 2
+        }
+      ]
+    },
+    {
+      "id": "mtb/artigo_orfao_tubeless",
+      "vertical": "mtb",
+      "titulo": "Converter a MTB para tubeless com passo a passo completo",
+      "slug": "como-converter-mtb-tubeless-passo-a-passo",
+      "tipo_artigo": "Orfão",
+      "meta_description": "Tubeless na mountain bike em sete etapas: materiais, quantidade de selante e manutenção.",
+      "outlines": [
+        "O Que Você Vai Precisar (Checklist de Materiais)",
+        "Passo 1: Preparação e Limpeza do Aro",
+        "Passo 2: Aplicação da Fita Tubeless",
+        "Passo 3: Instalação da Válvula",
+        "Passo 4: Montagem do Pneu",
+        "Passo 5: Assentando o Pneu (O \"Estalo\")",
+        "Passo 6: Adicionando o Selante",
+        "Passo 7: Inflação Final e Distribuição do Selante",
+        "Manutenção do Sistema Tubeless"
+      ],
+      "markdown": "scripts/blog/mtb/artigo_orfao_tubeless.md",
+      "capa": "scripts/blog/mtb/artigo_orfao_tubeless.webp",
+      "taxonomias": [
+        {
+          "tipo": "modalidade",
+          "slug": "mountain-bike-mtb",
+          "id": 3
+        },
+        {
+          "tipo": "componente",
+          "slug": "pneu-tubeless-mtb",
+          "id": 119
+        },
+        {
+          "tipo": "componente",
+          "slug": "selante",
+          "id": 120
+        },
+        {
+          "tipo": "componente",
+          "slug": "roda",
+          "id": 97
+        }
+      ]
+    },
+    {
+      "id": "speed/artigo_pilar_speed",
+      "vertical": "speed",
+      "titulo": "Comprar speed usada em segurança sem pagar demais",
+      "slug": "comprar-speed-usada-em-segurança-sem-pagar-demais",
+      "tipo_artigo": "Pilar",
+      "meta_description": "Comprar speed usada: inspeção de carbono, estado do grupo e encaixe do modelo ao seu treino.",
+      "outlines": [
+        "Entenda os Perfis de Bicicleta Speed (Aero, Climbing, Endurance)",
+        "O Checklist de Inspeção da Speed Usada (Quadro, Transmissão, Rodas, Freios)",
+        "Tamanho do Quadro: O Detalhe que Não Pode Ser Ignorado",
+        "Onde Comprar sua Speed Usada com Segurança (XXXXXX)"
+      ],
+      "markdown": "scripts/blog/speed/artigo_pilar_speed.md",
+      "capa": "scripts/blog/speed/artigo_pilar_speed.webp",
+      "taxonomias": [
+        {
+          "tipo": "modalidade",
+          "slug": "speed",
+          "id": 14
+        },
+        {
+          "tipo": "category",
+          "slug": "bicicleta",
+          "id": 1
+        }
+      ]
+    },
+    {
+      "id": "bmx/artigo_cluster_freestyle_race_bmx",
+      "vertical": "bmx",
+      "titulo": "BMX freestyle ou BMX race com diferenças e perfil de cada estilo",
+      "slug": "bmx-freestyle-ou-bmx-race-com-diferenças-e-perfil-de-cada-estilo",
+      "tipo_artigo": "Cluster",
+      "meta_description": "Freestyle (manobras) e Race (pista) exigem conjuntos diferentes. O que observar ao fechar uma BMX usada em cada linha.",
+      "outlines": [
+        "BMX Race: A Fórmula 1 da Terra",
+        "BMX Freestyle: O Tanque de Guerra Urbano",
+        "O Dilema na Compra de Usadas",
+        "Conclusão estilo de pista e evolução no BMX"
+      ],
+      "markdown": "scripts/blog/bmx/artigo_cluster_freestyle_race_bmx.md",
+      "capa": "scripts/blog/bmx/artigo_cluster_freestyle_race_bmx.webp",
+      "taxonomias": [
+        {
+          "tipo": "modalidade",
+          "slug": "bmx",
+          "id": 13359
+        }
+      ]
+    },
+    {
+      "id": "dobravel/artigo_cluster_tamanho_roda_dobravel",
+      "vertical": "dobravel",
+      "titulo": "Dobrável com aro 16 20 ou 24 conforme altura da criança ou do adulto e uso real",
+      "slug": "dobrável-com-aro-16-20-ou-24-conforme-altura-da-criança-ou-do-adulto-e-uso-real",
+      "tipo_artigo": "Cluster",
+      "meta_description": "Rodas menores e maiores em bicicletas dobráveis: impacto em conforto, bagagem e trechos longos. Critérios para alinhar roda ao percurso.",
+      "outlines": [
+        "Aro 16\": A Campeã da Portabilidade (O Padrão Brompton)",
+        "Aro 20\": O Padrão da Indústria (O Meio-Termo Perfeito)",
+        "Aro 24\" (e 26\"): As Dobráveis \"Full Size\"",
+        "Conclusão fechar com segurança no XXXXXX"
+      ],
+      "markdown": "scripts/blog/dobravel/artigo_cluster_tamanho_roda_dobravel.md",
+      "capa": "scripts/blog/dobravel/artigo_cluster_tamanho_roda_dobravel.webp",
+      "taxonomias": [
+        {
+          "tipo": "modalidade",
+          "slug": "dobravel",
+          "id": 13363
+        },
+        {
+          "tipo": "componente",
+          "slug": "rodas",
+          "id": 28
+        }
+      ]
+    },
+    {
+      "id": "downhill/artigo_cluster_double_single_crown_downhill",
+      "vertical": "downhill",
+      "titulo": "Garfo double crown ou single crown na bike usada de downhill",
+      "slug": "garfo-double-crown-ou-single-crown-na-bike-usada-de-downhill",
+      "tipo_artigo": "Cluster",
+      "meta_description": "Garfos double crown e single crown para DH e Enduro: prós, contras e compra de suspensão usada com segurança.",
+      "outlines": [
+        "O Que é um Garfo Double Crown?",
+        "O Que é um Garfo Single Crown?",
+        "O Dilema na Compra de Usadas",
+        "Conclusão garfo na bike usada de DH"
+      ],
+      "markdown": "scripts/blog/downhill/artigo_cluster_double_single_crown_downhill.md",
+      "capa": "scripts/blog/downhill/artigo_cluster_double_single_crown_downhill.webp",
+      "taxonomias": [
+        {
+          "tipo": "modalidade",
+          "slug": "downhill",
+          "id": 7
+        },
+        {
+          "tipo": "componente",
+          "slug": "suspensao-dianteira",
+          "id": 29
+        }
+      ]
+    },
+    {
+      "id": "equilibrio/artigo_cluster_pneus_eva_ar_equilibrio",
+      "vertical": "equilibrio",
+      "titulo": "Pneu EVA ou pneumático na balance bike e o que muda na prática",
+      "slug": "pneu-eva-ou-pneumático-na-balance-bike-e-o-que-muda-na-prática",
+      "tipo_artigo": "Cluster",
+      "meta_description": "Pneu de espuma sólida versus pneumático na bike de equilíbrio: tração, peso e conforto para a criança.",
+      "outlines": [
+        "Pneus de EVA (Espuma Sólida)",
+        "Pneus de Ar (Pneumáticos)",
+        "O Dilema na Compra de Usadas"
+      ],
+      "markdown": "scripts/blog/equilibrio/artigo_cluster_pneus_eva_ar_equilibrio.md",
+      "capa": "scripts/blog/equilibrio/artigo_cluster_pneus_eva_ar_equilibrio.webp",
+      "taxonomias": [
+        {
+          "tipo": "modalidade",
+          "slug": "equilibrio",
+          "id": 13366
+        }
+      ]
+    },
+    {
+      "id": "freerider/artigo_orfao_pressao_pneus_saltos_freeride",
+      "vertical": "freerider",
+      "titulo": "Pressão de pneu no freeride e dirt jump para saltos com estabilidade",
+      "slug": "pressão-de-pneu-no-freeride-e-dirt-jump-para-saltos-com-estabilidade",
+      "tipo_artigo": "Orfão",
+      "meta_description": "Por que pneus mais calibrados sustentam salto e aterrissagem segura: guia de PSI para terra e bike park.",
+      "outlines": [
+        "A Física do Salto: Por que Pneus Duros são Melhores?",
+        "O Ponto de Partida: Quantos PSI Usar?",
+        "Como Encontrar a Sua Pressão Perfeita",
+        "Dica Extra para Compradores de Usadas"
+      ],
+      "markdown": "scripts/blog/freerider/artigo_orfao_pressao_pneus_saltos_freeride.md",
+      "capa": "scripts/blog/freerider/artigo_orfao_pressao_pneus_saltos_freeride.png",
+      "taxonomias": [
+        {
+          "tipo": "modalidade",
+          "slug": "freerider",
+          "id": 13367
+        }
+      ]
+    },
+    {
+      "id": "infantil/artigo_cluster_marchas_infantil",
+      "vertical": "infantil",
+      "titulo": "Bicicleta infantil com marchas ou single speed",
+      "slug": "bicicleta-infantil-com-marchas-ou-single-speed",
+      "tipo_artigo": "Cluster",
+      "meta_description": "Momento de introduzir marchas: single speed simples versus câmbio traseiro — trade-offs para a criança.",
+      "outlines": [
+        "A Bicicleta Sem Marchas (Single Speed)",
+        "A Bicicleta Com Marchas (Geared)",
+        "O Dilema na Compra de Usadas"
+      ],
+      "markdown": "scripts/blog/infantil/artigo_cluster_marchas_infantil.md",
+      "capa": "scripts/blog/infantil/artigo_cluster_marchas_infantil.png",
+      "taxonomias": [
+        {
+          "tipo": "modalidade",
+          "slug": "infantil",
+          "id": 13369
+        },
+        {
+          "tipo": "componente",
+          "slug": "transmissao",
+          "id": 23
+        }
+      ]
+    },
+    {
+      "id": "eletrica/artigo_cluster_conversao_eletrica",
+      "vertical": "eletrica",
+      "titulo": "E-bike de fábrica ou com kit de conversão e o que compensa na usada",
+      "slug": "e-bike-de-fábrica-ou-com-kit-de-conversão-e-o-que-compensa-na-usada",
+      "tipo_artigo": "Cluster",
+      "meta_description": "E-bike de fábrica versus conversão com kit: diferenças de segurança, desempenho e manutenção. O que inspecionar antes de comprar.",
+      "outlines": [
+        "A e-Bike de Fábrica (Purpose-Built)",
+        "A Bicicleta Convertida (Kit de Conversão)",
+        "O Que Verificar ao Comprar Usada",
+        "Conclusão fábrica versus kit na e-bike usada"
+      ],
+      "markdown": "scripts/blog/eletrica/artigo_cluster_conversao_eletrica.md",
+      "capa": "scripts/blog/eletrica/artigo_cluster_conversao_eletrica.webp",
+      "taxonomias": [
+        {
+          "tipo": "modalidade",
+          "slug": "eletrica",
+          "id": 8
+        },
+        {
+          "tipo": "componente",
+          "slug": "quadro",
+          "id": 26
+        }
+      ]
+    },
+    {
+      "id": "gravel/artigo_cluster_1x_2x_gravel",
+      "vertical": "gravel",
+      "titulo": "Transmissão 1x ou 2x na gravel usada",
+      "slug": "transmissão-1x-ou-2x-na-gravel-usada",
+      "tipo_artigo": "Cluster",
+      "meta_description": "Transmissão 1x versus 2x no gravel: simplicidade, faixa de marchas e o que priorizar na bike usada.",
+      "outlines": [
+        "A Transmissão 1x (Coroa Única)",
+        "A Transmissão 2x (Coroa Dupla)",
+        "O Dilema na Compra de Usadas"
+      ],
+      "markdown": "scripts/blog/gravel/artigo_cluster_1x_2x_gravel.md",
+      "capa": "scripts/blog/gravel/artigo_cluster_1x_2x_gravel.png",
+      "taxonomias": [
+        {
+          "tipo": "modalidade",
+          "slug": "gravel",
+          "id": 13368
+        },
+        {
+          "tipo": "componente",
+          "slug": "transmissao",
+          "id": 23
+        }
+      ]
+    },
+    {
+      "id": "mtb/artigo_pilar_mtb",
+      "vertical": "mtb",
+      "titulo": "Comprar vender e equipar mountain bike usada com segurança",
+      "slug": "comprar-vender-e-equipar-mountain-bike-usada-com-segurança",
+      "tipo_artigo": "Pilar",
+      "meta_description": "Mountain bike no Brasil: modalidades (XC, trail, enduro, DH), hardtail versus full, materiais de quadro e checklist de compra segura no usado.",
+      "outlines": [
+        "O que é Mountain Bike e suas principais vertentes",
+        "Anatomia de uma MTB: Geometria, Suspensões e Materiais",
+        "Como escolher sua primeira MTB usada: Checklist de Inspeção",
+        "O mercado de MTB no Brasil e onde encontrar as melhores oportunidades"
+      ],
+      "markdown": "scripts/blog/mtb/artigo_pilar_mtb.md",
+      "capa": "scripts/blog/mtb/artigo_pilar_mtb.jpg",
+      "taxonomias": [
+        {
+          "tipo": "modalidade",
+          "slug": "mountain-bike-mtb",
+          "id": 13371
+        },
+        {
+          "tipo": "category",
+          "slug": "bicicleta",
+          "id": 12170
+        }
+      ]
+    },
+    {
+      "id": "speed/artigo_cluster_geometria_speed",
+      "vertical": "speed",
+      "titulo": "Geometria de speed entre aero climbing e endurance",
+      "slug": "geometria-de-speed-entre-aero-climbing-e-endurance",
+      "tipo_artigo": "Cluster",
+      "meta_description": "Geometrias aero, climbing e endurance na speed usada: o que muda na postura e na inspeção do quadro.",
+      "outlines": [
+        "Speed Endurance (Gran Fondo)",
+        "Speed Climbing (Lightweight / Race)",
+        "Speed Aero",
+        "O Dilema na Compra de Usadas"
+      ],
+      "markdown": "scripts/blog/speed/artigo_cluster_geometria_speed.md",
+      "capa": "scripts/blog/speed/artigo_cluster_geometria_speed.webp",
+      "taxonomias": [
+        {
+          "tipo": "modalidade",
+          "slug": "speed",
+          "id": 14
+        },
+        {
+          "tipo": "componente",
+          "slug": "quadro",
+          "id": 2
+        }
+      ]
+    },
+    {
+      "id": "bmx/artigo_cluster_hiten_chromoly_bmx",
+      "vertical": "bmx",
+      "titulo": "Quadro Hi-Ten ou Chromoly na BMX com diferenças que pesam no uso",
+      "slug": "quadro-hi-ten-ou-chromoly-na-bmx-com-diferenças-que-pesam-no-uso",
+      "tipo_artigo": "Cluster",
+      "meta_description": "Numa BMX usada, o quadro pesa na decisão. Comparativo entre aço Hi-Ten e Chromoly 4130 e pontos de inspeção.",
+      "outlines": [
+        "Aço Hi-Ten (High Tensile Steel)",
+        "Aço Chromoly (4130 CrMo)",
+        "A Armadilha do \"Triângulo Principal\" (Tri-Moly)",
+        "O Dilema na Compra de Usadas"
+      ],
+      "markdown": "scripts/blog/bmx/artigo_cluster_hiten_chromoly_bmx.md",
+      "capa": "scripts/blog/bmx/artigo_cluster_hiten_chromoly_bmx.webp",
+      "taxonomias": [
+        {
+          "tipo": "modalidade",
+          "slug": "bmx",
+          "id": 13359
+        },
+        {
+          "tipo": "componente",
+          "slug": "quadro",
+          "id": 26
+        }
+      ]
+    },
+    {
+      "id": "dobravel/artigo_cluster_aco_aluminio_dobravel",
+      "vertical": "dobravel",
+      "titulo": "Aço ou alumínio na dobrável com peso custo e durabilidade na usada",
+      "slug": "aço-ou-alumínio-na-dobrável-com-peso-custo-e-durabilidade-na-usada",
+      "tipo_artigo": "Cluster",
+      "meta_description": "Aço ou alumínio no dobrável: conforto, peso e desgaste no dia a dia. Comparativo prático para decidir com calma.",
+      "outlines": [
+        "O Quadro de Alumínio (A Escolha Moderna)",
+        "O Quadro de Aço (A Escolha Clássica)",
+        "O Dilema na Compra de Usadas",
+        "Veredito"
+      ],
+      "markdown": "scripts/blog/dobravel/artigo_cluster_aco_aluminio_dobravel.md",
+      "capa": "scripts/blog/dobravel/artigo_cluster_aco_aluminio_dobravel.webp",
+      "taxonomias": [
+        {
+          "tipo": "modalidade",
+          "slug": "dobravel",
+          "id": 13363
+        },
+        {
+          "tipo": "componente",
+          "slug": "quadro",
+          "id": 26
+        }
+      ]
+    },
+    {
+      "id": "downhill/artigo_cluster_pneus_downhill",
+      "vertical": "downhill",
+      "titulo": "Pneus de downhill com carcaça dupla ou simples",
+      "slug": "pneus-de-downhill-com-carcaça-dupla-ou-simples",
+      "tipo_artigo": "Cluster",
+      "meta_description": "Pneus com carcaça dupla (DH) versus carcaça simples: por que a proteção importa no DH e como escolher no usado.",
+      "outlines": [
+        "O Que é a Carcaça do Pneu (Casing)?",
+        "Carcaça Simples (Single Ply / Trail / Enduro Light)",
+        "Carcaça Dupla (Dual Ply / DH Casing)",
+        "O Dilema na Compra de Usadas"
+      ],
+      "markdown": "scripts/blog/downhill/artigo_cluster_pneus_downhill.md",
+      "capa": "scripts/blog/downhill/artigo_cluster_pneus_downhill.webp",
+      "taxonomias": [
+        {
+          "tipo": "modalidade",
+          "slug": "downhill",
+          "id": 7
+        },
+        {
+          "tipo": "componente",
+          "slug": "pneus",
+          "id": 27
+        }
+      ]
+    },
+    {
+      "id": "equilibrio/artigo_cluster_freio_equilibrio",
+      "vertical": "equilibrio",
+      "titulo": "Balance bike com ou sem freio para segurança e praticidade no dia a dia",
+      "slug": "balance-bike-com-ou-sem-freio-para-segurança-e-praticidade-no-dia-a-dia",
+      "tipo_artigo": "Cluster",
+      "meta_description": "A bike de equilíbrio precisa de freio manual? Momento para introduzir e como isso ajuda na passagem para o pedal.",
+      "outlines": [
+        "A Natureza da Balance Bike: Freando com os Pés",
+        "Quando o Freio Manual se Torna Útil?",
+        "O Dilema na Compra de Usadas"
+      ],
+      "markdown": "scripts/blog/equilibrio/artigo_cluster_freio_equilibrio.md",
+      "capa": "scripts/blog/equilibrio/artigo_cluster_freio_equilibrio.png",
+      "taxonomias": [
+        {
+          "tipo": "modalidade",
+          "slug": "equilibrio",
+          "id": 13366
+        },
+        {
+          "tipo": "componente",
+          "slug": "freio",
+          "id": 24
+        }
+      ]
+    },
+    {
+      "id": "freerider/artigo_cluster_freeride_vs_downhill",
+      "vertical": "freerider",
+      "titulo": "Freeride e downhill separados pela bike geometria e linha na trilha",
+      "slug": "freeride-e-downhill-separados-pela-bike-geometria-e-linha-na-trilha",
+      "tipo_artigo": "Cluster",
+      "meta_description": "Freeride e Downhill: geometria, suspensão e intenção de uso em saltos versus pista íngreme. Leitura prática das diferenças.",
+      "outlines": [
+        "O Propósito: Velocidade vs. Estilo",
+        "A Geometria do Quadro",
+        "A Suspensão: Curso e Ajuste",
+        "O Dilema na Compra de Usadas"
+      ],
+      "markdown": "scripts/blog/freerider/artigo_cluster_freeride_vs_downhill.md",
+      "capa": "scripts/blog/freerider/artigo_cluster_freeride_vs_downhill.png",
+      "taxonomias": [
+        {
+          "tipo": "modalidade",
+          "slug": "freerider",
+          "id": 13367
+        },
+        {
+          "tipo": "modalidade",
+          "slug": "downhill",
+          "id": 13364
+        }
+      ]
+    },
+    {
+      "id": "infantil/artigo_cluster_aro_16_20_infantil",
+      "vertical": "infantil",
+      "titulo": "Quando trocar a bike infantil do aro 16 para o aro 20",
+      "slug": "quando-trocar-a-bike-infantil-do-aro-16-para-o-aro-20",
+      "tipo_artigo": "Cluster",
+      "meta_description": "Quando sair do aro 16 para o 20: marchas, freios de mão e impacto no aprendizado.",
+      "outlines": [
+        "A Bicicleta Aro 16\": A Primeira Pedalada",
+        "A Bicicleta Aro 20\": O Mundo se Expande",
+        "Como Saber se é a Hora Certa?"
+      ],
+      "markdown": "scripts/blog/infantil/artigo_cluster_aro_16_20_infantil.md",
+      "capa": "scripts/blog/infantil/artigo_cluster_aro_16_20_infantil.png",
+      "taxonomias": [
+        {
+          "tipo": "modalidade",
+          "slug": "infantil",
+          "id": 13369
+        },
+        {
+          "tipo": "componente",
+          "slug": "roda",
+          "id": 28
+        }
+      ]
+    },
+    {
+      "id": "eletrica/artigo_orfao_vida_util_bateria_eletrica",
+      "vertical": "eletrica",
+      "titulo": "Vida útil da bateria da e-bike além dos mitos de carga e armazenamento",
+      "slug": "vida-útil-da-bateria-da-e-bike-além-dos-mitos-de-carga-e-armazenamento",
+      "tipo_artigo": "Orfão",
+      "meta_description": "Boas práticas de carga e armazenamento para preservar a bateria da e-bike e reduzir custo de reposição.",
+      "outlines": [
+        "Mito 1: \"Você deve descarregar a bateria até 0% antes de recarregar\"",
+        "Mito 2: \"Deixar na tomada a noite toda vicia a bateria\"",
+        "A Regra de Ouro do Armazenamento (Inverno/Férias)",
+        "O Inimigo Invisível: A Temperatura",
+        "O Balanceamento das Células (A Exceção à Regra dos 80%)"
+      ],
+      "markdown": "scripts/blog/eletrica/artigo_orfao_vida_util_bateria_eletrica.md",
+      "capa": "scripts/blog/eletrica/artigo_orfao_vida_util_bateria_eletrica.webp",
+      "taxonomias": [
+        {
+          "tipo": "modalidade",
+          "slug": "eletrica",
+          "id": 13365
+        }
+      ]
+    },
+    {
+      "id": "gravel/artigo_pilar_gravel",
+      "vertical": "gravel",
+      "titulo": "Gravel usada para misturar asfalto e terra e por onde começar",
+      "slug": "gravel-usada-para-misturar-asfalto-e-terra-e-por-onde-começar",
+      "tipo_artigo": "Pilar",
+      "meta_description": "Antes de comprar gravel usada: perfis All-Road, Adventure e Race, e inspeção de quadro e componentes.",
+      "outlines": [
+        "Entendendo o Espectro Gravel",
+        "O Checklist de Inspeção da Gravel Usada",
+        "O Fator Tubeless",
+        "Veredito: A Compra Inteligente"
+      ],
+      "markdown": "scripts/blog/gravel/artigo_pilar_gravel.md",
+      "capa": "scripts/blog/gravel/artigo_pilar_gravel.webp",
+      "taxonomias": [
+        {
+          "tipo": "modalidade",
+          "slug": "gravel",
+          "id": 10
+        },
+        {
+          "tipo": "componente",
+          "slug": "quadro",
+          "id": 2
+        }
+      ]
+    },
+    {
+      "id": "mtb/artigo_cluster_shimano_sram",
+      "vertical": "mtb",
+      "titulo": "Shimano ou SRAM na MTB comparando grupos em bikes usadas",
+      "slug": "shimano-vs-sram-qual-transmissao-escolher-mtb",
+      "tipo_artigo": "Cluster",
+      "meta_description": "Shimano e SRAM na MTB: diferenças de engenharia, hierarquias (Deore a XTR; NX a XX1) e leitura de desgaste na transmissão usada.",
+      "outlines": [
+        "A Filosofia das Marcas: Suavidade vs. Precisão Mecânica",
+        "Hierarquia de Grupos: Entendendo as Linhas",
+        "Diferenças Técnicas Importantes na Hora da Compra",
+        "Veredito: Qual Escolher no Mercado de Usadas?"
+      ],
+      "markdown": "scripts/blog/mtb/artigo_cluster_shimano_sram.md",
+      "capa": "scripts/blog/mtb/artigo_cluster_shimano_sram.webp",
+      "taxonomias": [
+        {
+          "tipo": "modalidade",
+          "slug": "mountain-bike-mtb",
+          "id": 3
+        },
+        {
+          "tipo": "componente",
+          "slug": "cambio-traseiro",
+          "id": 22
+        },
+        {
+          "tipo": "componente",
+          "slug": "cambio-dianteiro",
+          "id": 21
+        },
+        {
+          "tipo": "componente",
+          "slug": "cassete",
+          "id": 14
+        },
+        {
+          "tipo": "componente",
+          "slug": "passador-rapid-fire",
+          "id": 28
+        },
+        {
+          "tipo": "componente",
+          "slug": "passador-trigger",
+          "id": 29
+        },
+        {
+          "tipo": "componente",
+          "slug": "corrente",
+          "id": 16
+        }
+      ]
+    },
+    {
+      "id": "speed/artigo_cluster_shimano_sram_speed",
+      "vertical": "speed",
+      "titulo": "Shimano ou SRAM na speed comparando grupos no asfalto",
+      "slug": "shimano-ou-sram-na-speed-comparando-grupos-no-asfalto",
+      "tipo_artigo": "Cluster",
+      "meta_description": "Grupos Di2 (Shimano) e eTap AXS (SRAM) na speed usada: ergonomia, baterias e checklist de desgaste.",
+      "outlines": [
+        "A Filosofia das Marcas: Suavidade vs. Inovação",
+        "A Batalha do Custo-Benefício: 105 Di2 vs. Rival AXS",
+        "O Que Verificar ao Comprar uma Usada",
+        "Conclusão perfil de pedal e rota na speed"
+      ],
+      "markdown": "scripts/blog/speed/artigo_cluster_shimano_sram_speed.md",
+      "capa": "scripts/blog/speed/artigo_cluster_shimano_sram_speed.webp",
+      "taxonomias": [
+        {
+          "tipo": "modalidade",
+          "slug": "speed",
+          "id": 14
+        },
+        {
+          "tipo": "componente",
+          "slug": "cambio-traseiro",
+          "id": 11
+        },
+        {
+          "tipo": "componente",
+          "slug": "cambio-dianteiro",
+          "id": 10
+        },
+        {
+          "tipo": "componente",
+          "slug": "cassete",
+          "id": 12
+        },
+        {
+          "tipo": "componente",
+          "slug": "corrente",
+          "id": 13
+        }
+      ]
+    },
+    {
+      "id": "bmx/artigo_pilar_bmx",
+      "vertical": "bmx",
+      "titulo": "Checklist prático para comprar BMX usada sem erro",
+      "slug": "checklist-prático-para-comprar-bmx-usada-sem-erro",
+      "tipo_artigo": "Pilar",
+      "meta_description": "Checklist para comprar BMX usada com segurança: quadro Chromoly, garfo, rodas e rolamentos.",
+      "outlines": [
+        "O Coração da BMX: O Quadro",
+        "O Garfo e o Guidão",
+        "Rodas: O Ponto Crítico",
+        "Rolamentos e Transmissão"
+      ],
+      "markdown": "scripts/blog/bmx/artigo_pilar_bmx.md",
+      "capa": "scripts/blog/bmx/artigo_pilar_bmx.webp",
+      "taxonomias": [
+        {
+          "tipo": "modalidade",
+          "slug": "bmx",
+          "id": 13359
+        }
+      ]
+    },
+    {
+      "id": "dobravel/artigo_pilar_dobravel",
+      "vertical": "dobravel",
+      "titulo": "Dobrável usada escolhendo tamanho tipo de dobra e componentes certos",
+      "slug": "dobrável-usada-escolhendo-tamanho-tipo-de-dobra-e-componentes-certos",
+      "tipo_artigo": "Pilar",
+      "meta_description": "Checklist para dobrável usada: dobradiças, travas, canote e transmissão em ordem.",
+      "outlines": [
+        "O Coração da Dobrável: As Dobradiças (Hinges)",
+        "O Canote do Selim e a Blocagem",
+        "O Sistema de Dobra e os Ímãs",
+        "Transmissão e Marchas",
+        "Pneus e Rodas"
+      ],
+      "markdown": "scripts/blog/dobravel/artigo_pilar_dobravel.md",
+      "capa": "scripts/blog/dobravel/artigo_pilar_dobravel.webp",
+      "taxonomias": [
+        {
+          "tipo": "modalidade",
+          "slug": "dobravel",
+          "id": 13363
+        }
+      ]
+    },
+    {
+      "id": "downhill/artigo_cluster_ar_mola_downhill",
+      "vertical": "downhill",
+      "titulo": "Downhill com suspensão a ar ou mola e o que muda na pista e na manutenção",
+      "slug": "downhill-com-suspensão-a-ar-ou-mola-e-o-que-muda-na-pista-e-na-manutenção",
+      "tipo_artigo": "Cluster",
+      "meta_description": "Amortecedores a ar e de mola (coil) no Downhill: prós, contras e o que validar numa suspensão usada.",
+      "outlines": [
+        "Amortecedor de Mola (Coil Shock)",
+        "Amortecedor a Ar (Air Shock)",
+        "O Dilema na Compra de Usadas",
+        "Conclusão desempenho sensorial ou manutenção na descida"
+      ],
+      "markdown": "scripts/blog/downhill/artigo_cluster_ar_mola_downhill.md",
+      "capa": "scripts/blog/downhill/artigo_cluster_ar_mola_downhill.webp",
+      "taxonomias": [
+        {
+          "tipo": "modalidade",
+          "slug": "downhill",
+          "id": 7
+        },
+        {
+          "tipo": "componente",
+          "slug": "suspensao-traseira",
+          "id": 30
+        }
+      ]
+    },
+    {
+      "id": "equilibrio/artigo_orfao_ensinar_equilibrio",
+      "vertical": "equilibrio",
+      "titulo": "Ensinar o filho na balance bike em cinco etapas",
+      "slug": "ensinar-o-filho-na-balance-bike-em-cinco-etapas",
+      "tipo_artigo": "Orfão",
+      "meta_description": "Quatro estágios naturais para ensinar a andar de bicicleta de equilíbrio: dicas para evitar frustração e ganhar ritmo.",
+      "outlines": [
+        "Estágio 1: Ficar em Pé e Caminhar (O \"Passeio de Pato\")",
+        "Estágio 2: Sentar e Caminhar",
+        "Estágio 3: Sentar, Correr e Frear",
+        "Estágio 4: O Deslize (Gliding)"
+      ],
+      "markdown": "scripts/blog/equilibrio/artigo_orfao_ensinar_equilibrio.md",
+      "capa": "scripts/blog/equilibrio/artigo_orfao_ensinar_equilibrio.png",
+      "taxonomias": [
+        {
+          "tipo": "modalidade",
+          "slug": "equilibrio",
+          "id": 13366
+        }
+      ]
+    },
+    {
+      "id": "freerider/artigo_cluster_single_double_crown_freeride",
+      "vertical": "freerider",
+      "titulo": "Garfo single crown ou double crown no freeride",
+      "slug": "garfo-single-crown-ou-double-crown-no-freeride",
+      "tipo_artigo": "Cluster",
+      "meta_description": "Suspensão de coroa simples ou dupla no freeride: rigidez, agilidade e o que buscar na usada conforme o estilo.",
+      "outlines": [
+        "O Garfo Double Crown (Coroa Dupla)",
+        "O Garfo Single Crown (Coroa Simples)",
+        "O Dilema na Compra de Usadas"
+      ],
+      "markdown": "scripts/blog/freerider/artigo_cluster_single_double_crown_freeride.md",
+      "capa": "scripts/blog/freerider/artigo_cluster_single_double_crown_freeride.jpg",
+      "taxonomias": [
+        {
+          "tipo": "modalidade",
+          "slug": "freerider",
+          "id": 13367
+        },
+        {
+          "tipo": "componente",
+          "slug": "garfo",
+          "id": 25
+        }
+      ]
+    },
+    {
+      "id": "infantil/artigo_pilar_infantil",
+      "vertical": "infantil",
+      "titulo": "Bike infantil usada com tamanho e segurança na medida da criança",
+      "slug": "bike-infantil-usada-com-tamanho-e-segurança-na-medida-da-criança",
+      "tipo_artigo": "Pilar",
+      "meta_description": "Checklist para bike infantil usada: peso, freios, transmissão e pontos de contato.",
+      "outlines": [
+        "O Fator Mais Importante: O Peso",
+        "Inspeção de Segurança: Freios",
+        "Transmissão e Movimento Central",
+        "Rodas e Pneus",
+        "Pontos de Contato e Ajustes"
+      ],
+      "markdown": "scripts/blog/infantil/artigo_pilar_infantil.md",
+      "capa": "scripts/blog/infantil/artigo_pilar_infantil.jpg",
+      "taxonomias": [
+        {
+          "tipo": "modalidade",
+          "slug": "infantil",
+          "id": 13369
+        }
+      ]
+    },
+    {
+      "id": "eletrica/artigo_cluster_motor_cubo_central_eletrica",
+      "vertical": "eletrica",
+      "titulo": "Motor de cubo ou central na e-bike em pedal manutenção e vida útil",
+      "slug": "motor-de-cubo-ou-central-na-e-bike-em-pedal-manutenção-e-vida-útil",
+      "tipo_artigo": "Cluster",
+      "meta_description": "Motor no cubo versus motor central: desempenho em subida, consumo e manutenção numa e-bike usada.",
+      "outlines": [
+        "O Motor de Cubo (Hub Motor)",
+        "O Motor Central (Mid-Drive)",
+        "O Dilema na Compra de Usadas"
+      ],
+      "markdown": "scripts/blog/eletrica/artigo_cluster_motor_cubo_central_eletrica.md",
+      "capa": "scripts/blog/eletrica/artigo_cluster_motor_cubo_central_eletrica.webp",
+      "taxonomias": [
+        {
+          "tipo": "modalidade",
+          "slug": "eletrica",
+          "id": 13365
+        },
+        {
+          "tipo": "componente",
+          "slug": "quadro",
+          "id": 26
+        }
+      ]
+    },
+    {
+      "id": "gravel/artigo_orfao_tubeless_gravel",
+      "vertical": "gravel",
+      "titulo": "Gravel em tubeless sem falha desde fita selante e teste de vedação",
+      "slug": "gravel-em-tubeless-sem-falha-desde-fita-selante-e-teste-de-vedação",
+      "tipo_artigo": "Orfão",
+      "meta_description": "Converter rodas gravel para tubeless: materiais, passo a passo resumido e manutenção do selante.",
+      "outlines": [
+        "O Que Você Vai Precisar (Checklist)",
+        "Passo a Passo da Conversão",
+        "Manutenção do Sistema"
+      ],
+      "markdown": "scripts/blog/gravel/artigo_orfao_tubeless_gravel.md",
+      "capa": "scripts/blog/gravel/artigo_orfao_tubeless_gravel.webp",
+      "taxonomias": [
+        {
+          "tipo": "modalidade",
+          "slug": "gravel",
+          "id": 10
+        },
+        {
+          "tipo": "componente",
+          "slug": "roda",
+          "id": 16
+        },
+        {
+          "tipo": "componente",
+          "slug": "pneu",
+          "id": 17
+        }
+      ]
+    },
+    {
+      "id": "mtb/artigo_cluster_freios",
+      "vertical": "mtb",
+      "titulo": "Freio mecânico ou hidráulico na MTB e o que checar na usada",
+      "slug": "freios-mecanico-vs-hidraulico-mtb",
+      "tipo_artigo": "Cluster",
+      "meta_description": "Freios mecânicos e hidráulicos na MTB: potência, modulação, custo e manutenção. Critérios na compra de uma usada.",
+      "outlines": [
+        "Como Funciona o Freio a Disco Mecânico?",
+        "Como Funciona o Freio a Disco Hidráulico?",
+        "O Veredito: Qual Escolher no Mercado de Usadas?"
+      ],
+      "markdown": "scripts/blog/mtb/artigo_cluster_freios.md",
+      "capa": "scripts/blog/mtb/artigo_cluster_freios.webp",
+      "taxonomias": [
+        {
+          "tipo": "modalidade",
+          "slug": "mountain-bike-mtb",
+          "id": 10
+        },
+        {
+          "tipo": "componente",
+          "slug": "freio-dianteiro",
+          "id": 52
+        },
+        {
+          "tipo": "componente",
+          "slug": "freio-traseiro",
+          "id": 53
+        },
+        {
+          "tipo": "componente",
+          "slug": "disco-de-freio",
+          "id": 54
+        },
+        {
+          "tipo": "componente",
+          "slug": "pastilha-disco",
+          "id": 55
+        }
+      ]
+    },
+    {
+      "id": "speed/artigo_cluster_freios_speed",
+      "vertical": "speed",
+      "titulo": "Freio a disco ou freio de pinça no aro na speed usada",
+      "slug": "freio-a-disco-ou-freio-de-pinça-no-aro-na-speed-usada",
+      "tipo_artigo": "Cluster",
+      "meta_description": "Freio a disco versus freio no aro na speed usada: manutenção, modulação e compatibilidade com o quadro.",
+      "outlines": [
+        "Freio a Disco: O Novo Padrão da Indústria",
+        "Freio no Aro (Rim Brake): O Clássico Leve e Simples",
+        "O Que Verificar ao Comprar uma Usada",
+        "Conclusão freios na speed usada"
+      ],
+      "markdown": "scripts/blog/speed/artigo_cluster_freios_speed.md",
+      "capa": "scripts/blog/speed/artigo_cluster_freios_speed.webp",
+      "taxonomias": [
+        {
+          "tipo": "modalidade",
+          "slug": "speed",
+          "id": 14
+        },
+        {
+          "tipo": "componente",
+          "slug": "freio-dianteiro",
+          "id": 20
+        },
+        {
+          "tipo": "componente",
+          "slug": "freio-traseiro",
+          "id": 21
+        },
+        {
+          "tipo": "componente",
+          "slug": "disco-de-freio",
+          "id": 22
+        },
+        {
+          "tipo": "componente",
+          "slug": "pastilha-disco",
+          "id": 23
+        }
+      ]
+    },
+    {
+      "id": "bmx/artigo_cluster_20_24_bmx",
+      "vertical": "bmx",
+      "titulo": "BMX roda 20 ou cruiser 24 e como acertar o tamanho certo",
+      "slug": "bmx-roda-20-ou-cruiser-24-e-como-acertar-o-tamanho-certo",
+      "tipo_artigo": "Cluster",
+      "meta_description": "BMX aro 20 e Cruiser aro 24: diferenças de geometria e uso. Como alinhar o tamanho da roda a manobras, pista ou cidade.",
+      "outlines": [
+        "A Clássica BMX Aro 20\"",
+        "A BMX Cruiser Aro 24\"",
+        "O Dilema na Compra de Usadas",
+        "Veredito"
+      ],
+      "markdown": "scripts/blog/bmx/artigo_cluster_20_24_bmx.md",
+      "capa": "scripts/blog/bmx/artigo_cluster_20_24_bmx.webp",
+      "taxonomias": [
+        {
+          "tipo": "modalidade",
+          "slug": "bmx",
+          "id": 13359
+        },
+        {
+          "tipo": "componente",
+          "slug": "rodas",
+          "id": 28
+        }
+      ]
+    },
+    {
+      "id": "dobravel/artigo_cluster_dobra_meio_vertical_dobravel",
+      "vertical": "dobravel",
+      "titulo": "Bike dobrável bi-fold ou tri-fold em transporte e rotina de uso",
+      "slug": "bike-dobrável-bi-fold-ou-tri-fold-em-transporte-e-rotina-de-uso",
+      "tipo_artigo": "Cluster",
+      "meta_description": "Dobra ao meio (Dahon/Tern) versus dobra vertical (Brompton): portabilidade, espaço em casa e encaixe no transporte.",
+      "outlines": [
+        "A Dobra ao Meio (Bi-Fold / Mid-Fold)",
+        "A Dobra Vertical (Tri-Fold / Estilo Brompton)",
+        "O Dilema na Compra de Usadas"
+      ],
+      "markdown": "scripts/blog/dobravel/artigo_cluster_dobra_meio_vertical_dobravel.md",
+      "capa": "scripts/blog/dobravel/artigo_cluster_dobra_meio_vertical_dobravel.webp",
+      "taxonomias": [
+        {
+          "tipo": "modalidade",
+          "slug": "dobravel",
+          "id": 13363
+        },
+        {
+          "tipo": "componente",
+          "slug": "quadro",
+          "id": 26
+        }
+      ]
+    },
+    {
+      "id": "downhill/artigo_pilar_downhill",
+      "vertical": "downhill",
+      "titulo": "Bike de downhill usada e o que avaliar antes de fechar negócio",
+      "slug": "bike-de-downhill-usada-e-o-que-avaliar-antes-de-fechar-negócio",
+      "tipo_artigo": "Pilar",
+      "meta_description": "Checklist para comprar bike de Downhill usada com segurança: quadro, suspensão double crown e freios de quatro pistões.",
+      "outlines": [
+        "Entendendo a Máquina de Downhill",
+        "O Checklist de Inspeção do Quadro",
+        "Inspeção das Suspensões (O Coração do DH)",
+        "Rodas, Pneus e Freios"
+      ],
+      "markdown": "scripts/blog/downhill/artigo_pilar_downhill.md",
+      "capa": "scripts/blog/downhill/artigo_pilar_downhill.webp",
+      "taxonomias": [
+        {
+          "tipo": "modalidade",
+          "slug": "downhill",
+          "id": 7
+        },
+        {
+          "tipo": "componente",
+          "slug": "quadro",
+          "id": 26
+        },
+        {
+          "tipo": "componente",
+          "slug": "suspensao-dianteira",
+          "id": 29
+        },
+        {
+          "tipo": "componente",
+          "slug": "suspensao-traseira",
+          "id": 30
+        }
+      ]
+    },
+    {
+      "id": "equilibrio/artigo_pilar_equilibrio",
+      "vertical": "equilibrio",
+      "titulo": "Balance bike usada no tamanho e equipamento certos para o seu filho",
+      "slug": "balance-bike-usada-no-tamanho-e-equipamento-certos-para-o-seu-filho",
+      "tipo_artigo": "Pilar",
+      "meta_description": "Checklist para a primeira bike do seu filho: tamanho, peso, pneus e itens de segurança.",
+      "outlines": [
+        "O Tamanho e a Altura do Selim",
+        "O Peso da Bicicleta",
+        "Pneus: EVA (Espuma) vs. Ar (Pneumáticos)",
+        "O Limitador de Giro do Guidão",
+        "Parafusos e Eixos Expostos"
+      ],
+      "markdown": "scripts/blog/equilibrio/artigo_pilar_equilibrio.md",
+      "capa": "scripts/blog/equilibrio/artigo_pilar_equilibrio.webp",
+      "taxonomias": [
+        {
+          "tipo": "modalidade",
+          "slug": "equilibrio",
+          "id": 13366
+        }
+      ]
+    },
+    {
+      "id": "freerider/artigo_pilar_freeride",
+      "vertical": "freerider",
+      "titulo": "Freeride usada com fechamento seguro na compra",
+      "slug": "freeride-usada-com-fechamento-seguro-na-compra",
+      "tipo_artigo": "Pilar",
+      "meta_description": "Checklist para freeride usada: trinca no quadro, estado da suspensão e sinais de sobrecarga.",
+      "outlines": [
+        "Inspeção do Quadro: A Busca por Trincas",
+        "A Suspensão: O Coração do Freeride",
+        "Rodas e Pneus: A Linha de Frente",
+        "Freios: O Poder de Parada",
+        "Transmissão e Rolamentos"
+      ],
+      "markdown": "scripts/blog/freerider/artigo_pilar_freeride.md",
+      "capa": "scripts/blog/freerider/artigo_pilar_freeride.jpg",
+      "taxonomias": [
+        {
+          "tipo": "modalidade",
+          "slug": "freerider",
+          "id": 13367
+        }
+      ]
+    },
+    {
+      "id": "eletrica/artigo_cluster_sensor_cadencia_torque_eletrica",
+      "vertical": "eletrica",
+      "titulo": "Sensor de cadência ou de torque na e-bike e a diferença no pedal",
+      "slug": "sensor-de-cadência-ou-de-torque-na-e-bike-e-a-diferença-no-pedal",
+      "tipo_artigo": "Cluster",
+      "meta_description": "Sensores de cadência e de torque mudam a entrega de potência. Perfil de pedal e sensação em cada sistema.",
+      "outlines": [
+        "O Sensor de Cadência (O Sistema \"Liga/Desliga\")",
+        "O Sensor de Torque (A Sensação Biônica)",
+        "O Dilema na Compra de Usadas"
+      ],
+      "markdown": "scripts/blog/eletrica/artigo_cluster_sensor_cadencia_torque_eletrica.md",
+      "capa": "scripts/blog/eletrica/artigo_cluster_sensor_cadencia_torque_eletrica.png",
+      "taxonomias": [
+        {
+          "tipo": "modalidade",
+          "slug": "eletrica",
+          "id": 13365
+        },
+        {
+          "tipo": "componente",
+          "slug": "quadro",
+          "id": 26
+        }
+      ]
+    },
+    {
+      "id": "gravel/artigo_cluster_carbono_aluminio_gravel",
+      "vertical": "gravel",
+      "titulo": "Carbono ou alumínio no quadro da gravel usada",
+      "slug": "carbono-ou-alumínio-no-quadro-da-gravel-usada",
+      "tipo_artigo": "Cluster",
+      "meta_description": "Carbono e alumínio no gravel: conforto, peso e preço frente à robustez do alumínio no mercado de usadas.",
+      "outlines": [
+        "O Quadro de Alumínio: O Cavalo de Batalha",
+        "O Quadro de Fibra de Carbono: O Tapete Voador",
+        "O Fator \"Pneu\": O Grande Equalizador",
+        "O Dilema na Compra de Usadas"
+      ],
+      "markdown": "scripts/blog/gravel/artigo_cluster_carbono_aluminio_gravel.md",
+      "capa": "scripts/blog/gravel/artigo_cluster_carbono_aluminio_gravel.png",
+      "taxonomias": [
+        {
+          "tipo": "modalidade",
+          "slug": "gravel",
+          "id": 13368
+        },
+        {
+          "tipo": "componente",
+          "slug": "quadro",
+          "id": 2
+        }
+      ]
+    },
+    {
+      "id": "mtb/artigo_cluster_hardtail_full",
+      "vertical": "mtb",
+      "titulo": "Hardtail ou full suspension e quando cada tipo de MTB faz sentido",
+      "slug": "hardtail-vs-full-suspension-qual-mtb-escolher",
+      "tipo_artigo": "Cluster",
+      "meta_description": "Hardtail ou full suspension: diferenças técnicas, prós e contras, e encaixe com estilo de pedal e orçamento na usada.",
+      "outlines": [
+        "O que é uma MTB Hardtail?",
+        "O que é uma MTB Full Suspension?",
+        "O Dilema do Mercado de Usadas: Hardtail Top ou Full de Entrada?",
+        "Veredito: Qual é a certa para você?"
+      ],
+      "markdown": "scripts/blog/mtb/artigo_cluster_hardtail_full.md",
+      "capa": "scripts/blog/mtb/artigo_cluster_hardtail_full.webp",
+      "taxonomias": [
+        {
+          "tipo": "modalidade",
+          "slug": "mountain-bike-mtb",
+          "id": 3
+        },
+        {
+          "tipo": "componente",
+          "slug": "suspensao-dianteira",
+          "id": 42
+        },
+        {
+          "tipo": "componente",
+          "slug": "suspensao-traseira",
+          "id": 43
+        },
+        {
+          "tipo": "componente",
+          "slug": "quadro",
+          "id": 18
+        }
+      ]
+    },
+    {
+      "id": "speed/artigo_cluster_rodas_speed",
+      "vertical": "speed",
+      "titulo": "Rodas em carbono ou alumínio na speed",
+      "slug": "rodas-em-carbono-ou-alumínio-na-speed",
+      "tipo_artigo": "Cluster",
+      "meta_description": "Rodas de carbono ou alumínio na speed: quando o investimento compensa e o que inspecionar no par usado.",
+      "outlines": [
+        "Rodas de Alumínio: O Padrão Confiável",
+        "Rodas de Carbono: Performance Pura",
+        "O Que Verificar ao Comprar Rodas Usadas",
+        "Veredito"
+      ],
+      "markdown": "scripts/blog/speed/artigo_cluster_rodas_speed.md",
+      "capa": "scripts/blog/speed/artigo_cluster_rodas_speed.webp",
+      "taxonomias": [
+        {
+          "tipo": "modalidade",
+          "slug": "speed",
+          "id": 14
+        },
+        {
+          "tipo": "componente",
+          "slug": "roda",
+          "id": 20
+        }
+      ]
+    },
+    {
+      "id": "eletrica/artigo_orfao_lavar_eletrica",
+      "vertical": "eletrica",
+      "titulo": "Lavagem da e-bike em segurança sem arriscar motor nem bateria",
+      "slug": "lavagem-da-e-bike-em-segurança-sem-arriscar-motor-nem-bateria",
+      "tipo_artigo": "Orfão",
+      "meta_description": "Lavar a bicicleta elétrica sem arriscar motor e bateria: sequência segura para quem acabou de comprar uma e-bike usada.",
+      "outlines": [
+        "O Que Você NUNCA Deve Fazer",
+        "Passo a Passo: Como Lavar sua e-Bike",
+        "Limpeza dos Contatos Elétricos",
+        "Resumo para Compradores de Usadas"
+      ],
+      "markdown": "scripts/blog/eletrica/artigo_orfao_lavar_eletrica.md",
+      "capa": "scripts/blog/eletrica/artigo_orfao_lavar_eletrica.webp",
+      "taxonomias": [
+        {
+          "tipo": "modalidade",
+          "slug": "eletrica",
+          "id": 8
+        }
+      ]
+    },
+    {
+      "id": "gravel/artigo_cluster_guidao_gravel",
+      "vertical": "gravel",
+      "titulo": "Guidão flare na gravel e por que esse ângulo faz diferença",
+      "slug": "guidão-flare-na-gravel-e-por-que-esse-ângulo-faz-diferença",
+      "tipo_artigo": "Cluster",
+      "meta_description": "Guidão flare no gravel: função, largura e ângulo, com olho no usado.",
+      "outlines": [
+        "O Que é o 'Flare'?",
+        "Por Que Abrir as Pontas? As 3 Vantagens do Flare",
+        "Os Diferentes Ângulos de Flare",
+        "O Que Verificar ao Comprar Usada"
+      ],
+      "markdown": "scripts/blog/gravel/artigo_cluster_guidao_gravel.md",
+      "capa": "scripts/blog/gravel/artigo_cluster_guidao_gravel.webp",
+      "taxonomias": [
+        {
+          "tipo": "modalidade",
+          "slug": "gravel",
+          "id": 10
+        },
+        {
+          "tipo": "componente",
+          "slug": "guidao",
+          "id": 4
+        }
+      ]
+    },
+    {
+      "id": "mtb/artigo_cluster_transmissao_mtb",
+      "vertical": "mtb",
+      "titulo": "Transmissão 1x ou 2x ou 3x na MTB usada e o que vale na prática",
+      "slug": "transmissão-1x-ou-2x-ou-3x-na-mtb-usada-e-o-que-vale-na-prática",
+      "tipo_artigo": "Cluster",
+      "meta_description": "Por que o 1x dominou a MTB moderna e por que faz sentido priorizar coroa única ao comprar usada.",
+      "outlines": [
+        "O Sistema Tradicional (2x ou 3x)",
+        "A Revolução do Sistema 1x (Coroa Única)",
+        "O Veredito na Compra de Usadas"
+      ],
+      "markdown": "scripts/blog/mtb/artigo_cluster_transmissao_mtb.md",
+      "capa": "scripts/blog/mtb/artigo_cluster_transmissao_mtb.png",
+      "taxonomias": [
+        {
+          "tipo": "modalidade",
+          "slug": "mountain-bike-mtb",
+          "id": 13371
+        },
+        {
+          "tipo": "componente",
+          "slug": "transmissao",
+          "id": 23
+        }
+      ]
+    },
+    {
+      "id": "speed/artigo_cluster_cambio_speed",
+      "vertical": "speed",
+      "titulo": "Câmbio eletrônico ou mecânico na speed usada",
+      "slug": "câmbio-eletrônico-ou-mecânico-na-speed-usada",
+      "tipo_artigo": "Cluster",
+      "meta_description": "Câmbio eletrônico (Di2/eTap) versus mecânico na speed usada: custo, bateria e sensação de uso.",
+      "outlines": [
+        "O Câmbio Mecânico (A Tradição Confiável)",
+        "O Câmbio Eletrônico (A Precisão Cirúrgica)",
+        "O Veredito no XXXXXX"
+      ],
+      "markdown": "scripts/blog/speed/artigo_cluster_cambio_speed.md",
+      "capa": "scripts/blog/speed/artigo_cluster_cambio_speed.png",
+      "taxonomias": [
+        {
+          "tipo": "modalidade",
+          "slug": "speed",
+          "id": 13372
+        },
+        {
+          "tipo": "componente",
+          "slug": "transmissao",
+          "id": 23
+        }
+      ]
+    },
+    {
+      "id": "eletrica/artigo_cluster_bateria_integrada_externa_eletrica",
+      "vertical": "eletrica",
+      "titulo": "Bateria integrada ou externa na e-bike usada em uso real",
+      "slug": "bateria-integrada-ou-externa-na-e-bike-usada-em-uso-real",
+      "tipo_artigo": "Cluster",
+      "meta_description": "Design com bateria embutida versus bateria removível: segurança no uso cotidiano, praticidade e custo de reposição.",
+      "outlines": [
+        "A Bateria Externa (Removível)",
+        "A Bateria Integrada (Embutida)",
+        "O Dilema na Compra de Usadas"
+      ],
+      "markdown": "scripts/blog/eletrica/artigo_cluster_bateria_integrada_externa_eletrica.md",
+      "capa": "scripts/blog/eletrica/artigo_cluster_bateria_integrada_externa_eletrica.webp",
+      "taxonomias": [
+        {
+          "tipo": "modalidade",
+          "slug": "eletrica",
+          "id": 13365
+        },
+        {
+          "tipo": "componente",
+          "slug": "quadro",
+          "id": 26
+        }
+      ]
+    },
+    {
+      "id": "gravel/artigo_cluster_transmissao_gravel",
+      "vertical": "gravel",
+      "titulo": "Transmissão 1x ou 2x na gravel usada alinhada ao seu terreno",
+      "slug": "transmissão-1x-ou-2x-na-gravel-usada-alinhada-ao-seu-terreno",
+      "tipo_artigo": "Cluster",
+      "meta_description": "Coroa única ou dupla na gravel: vantagens, limitações e o que inspecionar na compra.",
+      "outlines": [
+        "Transmissão 1x (Uma Coroa)",
+        "Transmissão 2x (Duas Coroas)",
+        "O Que Verificar ao Comprar Usada",
+        "Veredito"
+      ],
+      "markdown": "scripts/blog/gravel/artigo_cluster_transmissao_gravel.md",
+      "capa": "scripts/blog/gravel/artigo_cluster_transmissao_gravel.webp",
+      "taxonomias": [
+        {
+          "tipo": "modalidade",
+          "slug": "gravel",
+          "id": 10
+        },
+        {
+          "tipo": "componente",
+          "slug": "coroa",
+          "id": 24
+        },
+        {
+          "tipo": "componente",
+          "slug": "cambio-dianteiro",
+          "id": 26
+        }
+      ]
+    },
+    {
+      "id": "mtb/artigo_orfao_sag_mtb",
+      "vertical": "mtb",
+      "titulo": "SAG certo na suspensão da MTB para ganhar controle na trilha",
+      "slug": "sag-certo-na-suspensão-da-mtb-para-ganhar-controle-na-trilha",
+      "tipo_artigo": "Orfão",
+      "meta_description": "Ajuste de SAG passo a passo na mountain bike: conforto e tração nas trilhas.",
+      "outlines": [
+        "Por que o SAG é tão importante?",
+        "O que você vai precisar",
+        "Passo a Passo: Ajustando o SAG",
+        "Dicas Finais"
+      ],
+      "markdown": "scripts/blog/mtb/artigo_orfao_sag_mtb.md",
+      "capa": "scripts/blog/mtb/artigo_orfao_sag_mtb.png",
+      "taxonomias": [
+        {
+          "tipo": "modalidade",
+          "slug": "mountain-bike-mtb",
+          "id": 13371
+        },
+        {
+          "tipo": "componente",
+          "slug": "suspensao",
+          "id": 22
+        }
+      ]
+    },
+    {
+      "id": "speed/artigo_orfao_pneus_speed",
+      "vertical": "speed",
+      "titulo": "Além do mito dos 120 PSI na speed com largura de pneu e calibragem",
+      "slug": "além-do-mito-dos-120-psi-na-speed-com-largura-de-pneu-e-calibragem",
+      "tipo_artigo": "Orfão",
+      "meta_description": "Pneus mais largos (por exemplo 28c) e pressões moderadas podem ganhar rolagem e conforto na estrada. Guia de largura e calibragem.",
+      "outlines": [
+        "A Revolução da Largura: 25c vs. 28c vs. 32c",
+        "A Pressão Correta: Esqueça o que está escrito na lateral",
+        "Calculadoras de Pressão",
+        "Veredito"
+      ],
+      "markdown": "scripts/blog/speed/artigo_orfao_pneus_speed.md",
+      "capa": "scripts/blog/speed/artigo_orfao_pneus_speed.webp",
+      "taxonomias": [
+        {
+          "tipo": "modalidade",
+          "slug": "speed",
+          "id": 14
+        },
+        {
+          "tipo": "componente",
+          "slug": "pneu",
+          "id": 17
+        }
+      ]
+    },
+    {
+      "id": "eletrica/artigo_pilar_eletrica",
+      "vertical": "eletrica",
+      "titulo": "E-bike usada checando bateria motor e segurança",
+      "slug": "e-bike-usada-checando-bateria-motor-e-segurança",
+      "tipo_artigo": "Pilar",
+      "meta_description": "Antes de comprar e-bike usada: testar bateria e motor, ler sinais de desgaste e evitar pegadinhas comuns no seminovo.",
+      "outlines": [
+        "Entenda os Tipos de Motor (Cubo vs. Central)",
+        "O Coração da e-Bike: Como Testar a Bateria",
+        "Checklist de Inspeção Mecânica e Elétrica",
+        "A Regra de Ouro: Marcas Reconhecidas vs. Genéricas"
+      ],
+      "markdown": "scripts/blog/eletrica/artigo_pilar_eletrica.md",
+      "capa": "scripts/blog/eletrica/artigo_pilar_eletrica.webp",
+      "taxonomias": [
+        {
+          "tipo": "modalidade",
+          "slug": "eletrica",
+          "id": 8
+        }
+      ]
+    },
+    {
+      "id": "gravel/artigo_orfao_converter_speed_gravel",
+      "vertical": "gravel",
+      "titulo": "Da bike de estrada speed ao gravel em conversão limpa e segura",
+      "slug": "da-bike-de-estrada-speed-ao-gravel-em-conversão-limpa-e-segura",
+      "tipo_artigo": "Orfão",
+      "meta_description": "Transformar uma speed em gravel: folga para pneu, escolha de borrachas e upgrades que mais valem a pena.",
+      "outlines": [
+        "O Fator Limitante: Tire Clearance (Espaço para Pneus)",
+        "O Problema dos Freios",
+        "Upgrades Essenciais para a Conversão",
+        "Conclusão"
+      ],
+      "markdown": "scripts/blog/gravel/artigo_orfao_converter_speed_gravel.md",
+      "capa": "scripts/blog/gravel/artigo_orfao_converter_speed_gravel.png",
+      "taxonomias": [
+        {
+          "tipo": "modalidade",
+          "slug": "gravel",
+          "id": 13368
+        }
+      ]
+    },
+    {
+      "id": "eletrica/artigo_cluster_bateria_eletrica",
+      "vertical": "eletrica",
+      "titulo": "Bateria de e-bike integrada ou externa com prós e contras",
+      "slug": "bateria-de-e-bike-integrada-ou-externa-com-prós-e-contras",
+      "tipo_artigo": "Cluster",
+      "meta_description": "Baterias integradas e externas em e-bikes: praticidade, segurança e custo de manutenção no mercado de usadas.",
+      "outlines": [
+        "Bateria Externa (Montada no Quadro ou Bagageiro)",
+        "Bateria Integrada (In-Tube)",
+        "O Que Verificar ao Comprar Usada",
+        "Conclusão bateria integrada ou externa na usada"
+      ],
+      "markdown": "scripts/blog/eletrica/artigo_cluster_bateria_eletrica.md",
+      "capa": "scripts/blog/eletrica/artigo_cluster_bateria_eletrica.webp",
+      "taxonomias": [
+        {
+          "tipo": "modalidade",
+          "slug": "eletrica",
+          "id": 8
+        },
+        {
+          "tipo": "componente",
+          "slug": "quadro",
+          "id": 26
+        }
+      ]
+    }
+  ]
+}

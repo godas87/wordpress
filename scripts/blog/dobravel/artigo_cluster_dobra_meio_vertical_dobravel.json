@@ -1,0 +1,26 @@
+[
+  {
+    "tag": "Dobrável Usada",
+    "blog": [
+      {
+        "titulo": "Bi-fold contra tri-fold na dobrável segunda mão: casa, metrô e mala brigando por volume até a paciência acabar",
+        "descricao": "Dobra ao meio (Dahon/Tern) versus dobra vertical (Brompton): portabilidade, espaço em casa e encaixe no transporte.",
+        "outline 1": "A Dobra ao Meio (Bi-Fold / Mid-Fold)",
+        "outline 2": "A Dobra Vertical (Tri-Fold / Estilo Brompton)",
+        "outline 3": "O Dilema na Compra de Usadas",
+        "taxonomias": [
+          {
+            "id": 13363,
+            "slug": "dobravel",
+            "tipo": "modalidade"
+          },
+          {
+            "id": 26,
+            "slug": "quadro",
+            "tipo": "componente"
+          }
+        ]
+      }
+    ]
+  }
+]

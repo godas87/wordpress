@@ -1,0 +1,1850 @@
+[
+  {
+    "taxonomy": "componente",
+    "term_id": 13393,
+    "name": "Quadro 17",
+    "date": "2026-03-10T17:55:09",
+    "pwigo_tag": "ciclismo"
+  },
+  {
+    "taxonomy": "componente",
+    "term_id": 13394,
+    "name": "Quadro 19",
+    "date": "2026-03-11T14:22:16",
+    "pwigo_tag": "ciclismo"
+  },
+  {
+    "taxonomy": "componente",
+    "term_id": 13381,
+    "name": "Aro 20",
+    "date": "2026-03-12T19:40:11",
+    "pwigo_tag": "ciclismo"
+  },
+  {
+    "taxonomy": "componente",
+    "term_id": 13395,
+    "name": "Quadro 21",
+    "date": "2026-03-13T14:27:31",
+    "pwigo_tag": "ciclismo"
+  },
+  {
+    "taxonomy": "componente",
+    "term_id": 13396,
+    "name": "Quadro 23",
+    "date": "2026-03-14T08:11:58",
+    "pwigo_tag": "ciclismo"
+  },
+  {
+    "taxonomy": "componente",
+    "term_id": 13382,
+    "name": "Aro 24",
+    "date": "2026-03-15T13:09:21",
+    "pwigo_tag": "ciclismo"
+  },
+  {
+    "taxonomy": "componente",
+    "term_id": 13383,
+    "name": "Aro 26",
+    "date": "2026-03-16T16:23:54",
+    "pwigo_tag": "ciclismo"
+  },
+  {
+    "taxonomy": "componente",
+    "term_id": 13384,
+    "name": "Aro 27.5",
+    "date": "2026-03-17T19:59:19",
+    "pwigo_tag": "ciclismo"
+  },
+  {
+    "taxonomy": "componente",
+    "term_id": 13385,
+    "name": "Aro 29",
+    "date": "2026-03-18T16:43:06",
+    "pwigo_tag": "atleta"
+  },
+  {
+    "taxonomy": "componente",
+    "term_id": 13388,
+    "name": "Aro 700c",
+    "date": "2026-03-19T12:49:09",
+    "pwigo_tag": "ciclismo"
+  },
+  {
+    "taxonomy": "componente",
+    "term_id": 14079,
+    "name": "Freio Hidraulico",
+    "date": "2026-03-20T10:41:00",
+    "pwigo_tag": "ciclismo"
+  },
+  {
+    "taxonomy": "componente",
+    "term_id": 14080,
+    "name": "Freio Mec\u00e2nico",
+    "date": "2026-03-21T15:32:34",
+    "pwigo_tag": "ciclismo"
+  },
+  {
+    "taxonomy": "marca-modelo",
+    "term_id": 12555,
+    "name": "Bicicletas Absolute novas e usadas",
+    "date": "2026-03-22T15:25:51",
+    "pwigo_tag": "atleta"
+  },
+  {
+    "taxonomy": "marca-modelo",
+    "term_id": 12604,
+    "name": "Bicicletas Alfameq novas e usadas",
+    "date": "2026-03-23T19:43:41",
+    "pwigo_tag": "ciclismo"
+  },
+  {
+    "taxonomy": "marca-modelo",
+    "term_id": 12349,
+    "name": "Bicicletas Audax novas e usadas",
+    "date": "2026-03-24T14:52:38",
+    "pwigo_tag": "atleta"
+  },
+  {
+    "taxonomy": "marca-modelo",
+    "term_id": 12260,
+    "name": "Bicicletas Caloi novas e usadas",
+    "date": "2026-03-25T17:33:09",
+    "pwigo_tag": "mtb"
+  },
+  {
+    "taxonomy": "marca-modelo",
+    "term_id": 12176,
+    "name": "Bicicletas Cannondale novas e usadas",
+    "date": "2026-03-26T13:36:27",
+    "pwigo_tag": "atleta"
+  },
+  {
+    "taxonomy": "marca-modelo",
+    "term_id": 12405,
+    "name": "Bicicletas Groove novas e usadas",
+    "date": "2026-03-27T15:09:11",
+    "pwigo_tag": "ciclismo"
+  },
+  {
+    "taxonomy": "marca-modelo",
+    "term_id": 12370,
+    "name": "Bicicletas GT novas e usadas",
+    "date": "2026-03-28T12:32:20",
+    "pwigo_tag": "atleta"
+  },
+  {
+    "taxonomy": "marca-modelo",
+    "term_id": 12392,
+    "name": "Bicicletas GTS M1 novas e usadas",
+    "date": "2026-03-29T12:58:14",
+    "pwigo_tag": "atleta"
+  },
+  {
+    "taxonomy": "marca-modelo",
+    "term_id": 12592,
+    "name": "Bicicletas Houston novas e usadas",
+    "date": "2026-03-30T19:19:12",
+    "pwigo_tag": "ciclismo"
+  },
+  {
+    "taxonomy": "marca-modelo",
+    "term_id": 12377,
+    "name": "Bicicletas KSW novas e usadas",
+    "date": "2026-03-31T18:58:50",
+    "pwigo_tag": "atleta"
+  },
+  {
+    "taxonomy": "marca-modelo",
+    "term_id": 12414,
+    "name": "Bicicletas Oggi novas e usadas",
+    "date": "2026-04-01T09:02:23",
+    "pwigo_tag": "atleta"
+  },
+  {
+    "taxonomy": "marca-modelo",
+    "term_id": 12337,
+    "name": "Bicicletas Rava novas e usadas",
+    "date": "2026-04-02T16:23:47",
+    "pwigo_tag": "ciclismo"
+  },
+  {
+    "taxonomy": "marca-modelo",
+    "term_id": 12576,
+    "name": "Bicicletas RockRider novas e usadas",
+    "date": "2026-04-03T12:43:52",
+    "pwigo_tag": "atleta"
+  },
+  {
+    "taxonomy": "marca-modelo",
+    "term_id": 12668,
+    "name": "Bicicletas Scott novas e usadas",
+    "date": "2026-04-04T14:28:51",
+    "pwigo_tag": "atleta"
+  },
+  {
+    "taxonomy": "marca-modelo",
+    "term_id": 12383,
+    "name": "Bicicletas Sense novas e usadas",
+    "date": "2026-04-05T18:18:14",
+    "pwigo_tag": "atleta"
+  },
+  {
+    "taxonomy": "marca-modelo",
+    "term_id": 12199,
+    "name": "Bicicletas Shimano novas e usadas",
+    "date": "2026-04-06T13:10:37",
+    "pwigo_tag": "atleta"
+  },
+  {
+    "taxonomy": "marca-modelo",
+    "term_id": 12344,
+    "name": "Bicicletas Soul novas e usadas",
+    "date": "2026-04-07T11:15:23",
+    "pwigo_tag": "atleta"
+  },
+  {
+    "taxonomy": "marca-modelo",
+    "term_id": 12507,
+    "name": "Bicicletas South novas e usadas",
+    "date": "2026-04-08T17:59:43",
+    "pwigo_tag": "ciclismo"
+  },
+  {
+    "taxonomy": "marca-modelo",
+    "term_id": 12172,
+    "name": "Bicicletas Specialized novas e usadas",
+    "date": "2026-04-09T16:50:58",
+    "pwigo_tag": "atleta"
+  },
+  {
+    "taxonomy": "marca-modelo",
+    "term_id": 12355,
+    "name": "Bicicletas Trek novas e usadas",
+    "date": "2026-04-10T15:13:12",
+    "pwigo_tag": "atleta"
+  },
+  {
+    "taxonomy": "marca-modelo",
+    "term_id": 12570,
+    "name": "Bicicletas TSW novas e usadas",
+    "date": "2026-04-11T19:22:25",
+    "pwigo_tag": "atleta"
+  },
+  {
+    "taxonomy": "cidade",
+    "term_id": 12152,
+    "name": "Bicicletas usadas em Belo Horizonte Minas Gerais",
+    "date": "2026-04-12T11:52:12",
+    "pwigo_tag": "atleta"
+  },
+  {
+    "taxonomy": "cidade",
+    "term_id": 13034,
+    "name": "Bicicletas usadas em Blumenau Santa Catarina",
+    "date": "2026-04-13T12:20:56",
+    "pwigo_tag": "ciclismo"
+  },
+  {
+    "taxonomy": "cidade",
+    "term_id": 12363,
+    "name": "Bicicletas usadas em Bras\u00edlia Distrito Federal",
+    "date": "2026-04-14T13:48:59",
+    "pwigo_tag": "atleta"
+  },
+  {
+    "taxonomy": "cidade",
+    "term_id": 12354,
+    "name": "Bicicletas usadas em Campinas S\u00e3o Paulo",
+    "date": "2026-04-15T18:42:53",
+    "pwigo_tag": "atleta"
+  },
+  {
+    "taxonomy": "cidade",
+    "term_id": 12413,
+    "name": "Bicicletas usadas em Curitiba Paran\u00e1",
+    "date": "2026-04-16T18:27:41",
+    "pwigo_tag": "atleta"
+  },
+  {
+    "taxonomy": "cidade",
+    "term_id": 12588,
+    "name": "Bicicletas usadas em Osasco S\u00e3o Paulo",
+    "date": "2026-04-17T15:11:41",
+    "pwigo_tag": "atleta"
+  },
+  {
+    "taxonomy": "cidade",
+    "term_id": 12458,
+    "name": "Bicicletas usadas em Porto Alegre Rio Grande do Sul",
+    "date": "2026-04-18T10:10:22",
+    "pwigo_tag": "atleta"
+  },
+  {
+    "taxonomy": "cidade",
+    "term_id": 12422,
+    "name": "Bicicletas usadas em Rio de Janeiro Rio de Janeiro",
+    "date": "2026-04-19T14:49:48",
+    "pwigo_tag": "ciclismo"
+  },
+  {
+    "taxonomy": "cidade",
+    "term_id": 12488,
+    "name": "Bicicletas usadas em S\u00e3o Bernardo do Campo S\u00e3o Paulo",
+    "date": "2026-04-20T10:14:51",
+    "pwigo_tag": "atleta"
+  },
+  {
+    "taxonomy": "cidade",
+    "term_id": 12849,
+    "name": "Bicicletas usadas em S\u00e3o Jos\u00e9 dos Campos S\u00e3o Paulo",
+    "date": "2026-04-21T13:14:08",
+    "pwigo_tag": "atleta"
+  },
+  {
+    "taxonomy": "cidade",
+    "term_id": 12358,
+    "name": "Bicicletas usadas em S\u00e3o Paulo S\u00e3o Paulo",
+    "date": "2026-04-22T13:42:22",
+    "pwigo_tag": "atleta"
+  },
+  {
+    "taxonomy": "componente",
+    "term_id": 13393,
+    "name": "Quadro 17",
+    "date": "2026-04-23T19:59:47",
+    "pwigo_tag": "ciclismo"
+  },
+  {
+    "taxonomy": "componente",
+    "term_id": 13394,
+    "name": "Quadro 19",
+    "date": "2026-04-24T17:14:51",
+    "pwigo_tag": "ciclismo"
+  },
+  {
+    "taxonomy": "componente",
+    "term_id": 13381,
+    "name": "Aro 20",
+    "date": "2026-04-25T18:21:05",
+    "pwigo_tag": "ciclismo"
+  },
+  {
+    "taxonomy": "componente",
+    "term_id": 13395,
+    "name": "Quadro 21",
+    "date": "2026-04-26T19:14:48",
+    "pwigo_tag": "ciclismo"
+  },
+  {
+    "taxonomy": "componente",
+    "term_id": 13396,
+    "name": "Quadro 23",
+    "date": "2026-04-27T09:16:17",
+    "pwigo_tag": "ciclismo"
+  },
+  {
+    "taxonomy": "componente",
+    "term_id": 13382,
+    "name": "Aro 24",
+    "date": "2026-04-28T11:48:14",
+    "pwigo_tag": "ciclismo"
+  },
+  {
+    "taxonomy": "componente",
+    "term_id": 13383,
+    "name": "Aro 26",
+    "date": "2026-04-29T14:06:33",
+    "pwigo_tag": "ciclismo"
+  },
+  {
+    "taxonomy": "componente",
+    "term_id": 13384,
+    "name": "Aro 27.5",
+    "date": "2026-04-30T09:03:33",
+    "pwigo_tag": "ciclismo"
+  },
+  {
+    "taxonomy": "componente",
+    "term_id": 13385,
+    "name": "Aro 29",
+    "date": "2026-05-01T18:53:30",
+    "pwigo_tag": "atleta"
+  },
+  {
+    "taxonomy": "componente",
+    "term_id": 13388,
+    "name": "Aro 700c",
+    "date": "2026-05-02T09:24:25",
+    "pwigo_tag": "ciclismo"
+  },
+  {
+    "taxonomy": "componente",
+    "term_id": 14079,
+    "name": "Freio Hidraulico",
+    "date": "2026-05-03T10:38:20",
+    "pwigo_tag": "ciclismo"
+  },
+  {
+    "taxonomy": "componente",
+    "term_id": 14080,
+    "name": "Freio Mec\u00e2nico",
+    "date": "2026-05-04T11:35:06",
+    "pwigo_tag": "ciclismo"
+  },
+  {
+    "taxonomy": "marca-modelo",
+    "term_id": 12555,
+    "name": "Bicicletas Absolute novas e usadas",
+    "date": "2026-05-05T11:23:29",
+    "pwigo_tag": "atleta"
+  },
+  {
+    "taxonomy": "marca-modelo",
+    "term_id": 12604,
+    "name": "Bicicletas Alfameq novas e usadas",
+    "date": "2026-05-06T09:17:00",
+    "pwigo_tag": "ciclismo"
+  },
+  {
+    "taxonomy": "marca-modelo",
+    "term_id": 12349,
+    "name": "Bicicletas Audax novas e usadas",
+    "date": "2026-05-07T13:33:22",
+    "pwigo_tag": "atleta"
+  },
+  {
+    "taxonomy": "marca-modelo",
+    "term_id": 12260,
+    "name": "Bicicletas Caloi novas e usadas",
+    "date": "2026-05-08T13:49:29",
+    "pwigo_tag": "mtb"
+  },
+  {
+    "taxonomy": "marca-modelo",
+    "term_id": 12176,
+    "name": "Bicicletas Cannondale novas e usadas",
+    "date": "2026-05-09T15:03:09",
+    "pwigo_tag": "atleta"
+  },
+  {
+    "taxonomy": "marca-modelo",
+    "term_id": 12405,
+    "name": "Bicicletas Groove novas e usadas",
+    "date": "2026-05-10T10:02:28",
+    "pwigo_tag": "ciclismo"
+  },
+  {
+    "taxonomy": "marca-modelo",
+    "term_id": 12370,
+    "name": "Bicicletas GT novas e usadas",
+    "date": "2026-05-11T11:33:43",
+    "pwigo_tag": "atleta"
+  },
+  {
+    "taxonomy": "marca-modelo",
+    "term_id": 12392,
+    "name": "Bicicletas GTS M1 novas e usadas",
+    "date": "2026-05-12T12:06:54",
+    "pwigo_tag": "atleta"
+  },
+  {
+    "taxonomy": "marca-modelo",
+    "term_id": 12592,
+    "name": "Bicicletas Houston novas e usadas",
+    "date": "2026-05-13T08:16:14",
+    "pwigo_tag": "ciclismo"
+  },
+  {
+    "taxonomy": "marca-modelo",
+    "term_id": 12377,
+    "name": "Bicicletas KSW novas e usadas",
+    "date": "2026-05-14T10:47:34",
+    "pwigo_tag": "atleta"
+  },
+  {
+    "taxonomy": "marca-modelo",
+    "term_id": 12414,
+    "name": "Bicicletas Oggi novas e usadas",
+    "date": "2026-05-15T16:38:18",
+    "pwigo_tag": "atleta"
+  },
+  {
+    "taxonomy": "marca-modelo",
+    "term_id": 12337,
+    "name": "Bicicletas Rava novas e usadas",
+    "date": "2026-05-16T19:35:41",
+    "pwigo_tag": "ciclismo"
+  },
+  {
+    "taxonomy": "marca-modelo",
+    "term_id": 12576,
+    "name": "Bicicletas RockRider novas e usadas",
+    "date": "2026-05-17T10:53:06",
+    "pwigo_tag": "atleta"
+  },
+  {
+    "taxonomy": "marca-modelo",
+    "term_id": 12668,
+    "name": "Bicicletas Scott novas e usadas",
+    "date": "2026-05-18T12:45:37",
+    "pwigo_tag": "atleta"
+  },
+  {
+    "taxonomy": "marca-modelo",
+    "term_id": 12383,
+    "name": "Bicicletas Sense novas e usadas",
+    "date": "2026-05-19T10:07:12",
+    "pwigo_tag": "atleta"
+  },
+  {
+    "taxonomy": "marca-modelo",
+    "term_id": 12199,
+    "name": "Bicicletas Shimano novas e usadas",
+    "date": "2026-05-20T15:24:51",
+    "pwigo_tag": "atleta"
+  },
+  {
+    "taxonomy": "marca-modelo",
+    "term_id": 12344,
+    "name": "Bicicletas Soul novas e usadas",
+    "date": "2026-05-21T10:06:13",
+    "pwigo_tag": "atleta"
+  },
+  {
+    "taxonomy": "marca-modelo",
+    "term_id": 12507,
+    "name": "Bicicletas South novas e usadas",
+    "date": "2026-05-22T16:03:57",
+    "pwigo_tag": "ciclismo"
+  },
+  {
+    "taxonomy": "marca-modelo",
+    "term_id": 12172,
+    "name": "Bicicletas Specialized novas e usadas",
+    "date": "2026-05-23T17:59:12",
+    "pwigo_tag": "atleta"
+  },
+  {
+    "taxonomy": "marca-modelo",
+    "term_id": 12355,
+    "name": "Bicicletas Trek novas e usadas",
+    "date": "2026-05-24T13:29:31",
+    "pwigo_tag": "atleta"
+  },
+  {
+    "taxonomy": "marca-modelo",
+    "term_id": 12570,
+    "name": "Bicicletas TSW novas e usadas",
+    "date": "2026-05-25T11:29:06",
+    "pwigo_tag": "atleta"
+  },
+  {
+    "taxonomy": "cidade",
+    "term_id": 12152,
+    "name": "Bicicletas usadas em Belo Horizonte Minas Gerais",
+    "date": "2026-05-26T09:32:40",
+    "pwigo_tag": "atleta"
+  },
+  {
+    "taxonomy": "cidade",
+    "term_id": 13034,
+    "name": "Bicicletas usadas em Blumenau Santa Catarina",
+    "date": "2026-05-27T14:34:13",
+    "pwigo_tag": "ciclismo"
+  },
+  {
+    "taxonomy": "cidade",
+    "term_id": 12363,
+    "name": "Bicicletas usadas em Bras\u00edlia Distrito Federal",
+    "date": "2026-05-28T16:09:45",
+    "pwigo_tag": "atleta"
+  },
+  {
+    "taxonomy": "cidade",
+    "term_id": 12354,
+    "name": "Bicicletas usadas em Campinas S\u00e3o Paulo",
+    "date": "2026-05-29T18:35:56",
+    "pwigo_tag": "atleta"
+  },
+  {
+    "taxonomy": "cidade",
+    "term_id": 12413,
+    "name": "Bicicletas usadas em Curitiba Paran\u00e1",
+    "date": "2026-05-30T13:26:26",
+    "pwigo_tag": "atleta"
+  },
+  {
+    "taxonomy": "cidade",
+    "term_id": 12588,
+    "name": "Bicicletas usadas em Osasco S\u00e3o Paulo",
+    "date": "2026-05-31T18:41:58",
+    "pwigo_tag": "atleta"
+  },
+  {
+    "taxonomy": "cidade",
+    "term_id": 12458,
+    "name": "Bicicletas usadas em Porto Alegre Rio Grande do Sul",
+    "date": "2026-06-01T15:41:08",
+    "pwigo_tag": "atleta"
+  },
+  {
+    "taxonomy": "cidade",
+    "term_id": 12422,
+    "name": "Bicicletas usadas em Rio de Janeiro Rio de Janeiro",
+    "date": "2026-06-02T16:41:37",
+    "pwigo_tag": "ciclismo"
+  },
+  {
+    "taxonomy": "cidade",
+    "term_id": 12488,
+    "name": "Bicicletas usadas em S\u00e3o Bernardo do Campo S\u00e3o Paulo",
+    "date": "2026-06-03T14:29:39",
+    "pwigo_tag": "atleta"
+  },
+  {
+    "taxonomy": "cidade",
+    "term_id": 12849,
+    "name": "Bicicletas usadas em S\u00e3o Jos\u00e9 dos Campos S\u00e3o Paulo",
+    "date": "2026-06-04T19:22:09",
+    "pwigo_tag": "atleta"
+  },
+  {
+    "taxonomy": "cidade",
+    "term_id": 12358,
+    "name": "Bicicletas usadas em S\u00e3o Paulo S\u00e3o Paulo",
+    "date": "2026-06-05T19:01:28",
+    "pwigo_tag": "atleta"
+  },
+  {
+    "taxonomy": "componente",
+    "term_id": 13393,
+    "name": "Quadro 17",
+    "date": "2026-06-06T13:15:54",
+    "pwigo_tag": "ciclismo"
+  },
+  {
+    "taxonomy": "componente",
+    "term_id": 13394,
+    "name": "Quadro 19",
+    "date": "2026-06-07T16:41:04",
+    "pwigo_tag": "ciclismo"
+  },
+  {
+    "taxonomy": "componente",
+    "term_id": 13381,
+    "name": "Aro 20",
+    "date": "2026-06-08T15:47:33",
+    "pwigo_tag": "ciclismo"
+  },
+  {
+    "taxonomy": "componente",
+    "term_id": 13395,
+    "name": "Quadro 21",
+    "date": "2026-06-09T17:37:13",
+    "pwigo_tag": "ciclismo"
+  },
+  {
+    "taxonomy": "componente",
+    "term_id": 13396,
+    "name": "Quadro 23",
+    "date": "2026-06-10T15:41:28",
+    "pwigo_tag": "ciclismo"
+  },
+  {
+    "taxonomy": "componente",
+    "term_id": 13382,
+    "name": "Aro 24",
+    "date": "2026-06-11T12:31:48",
+    "pwigo_tag": "ciclismo"
+  },
+  {
+    "taxonomy": "componente",
+    "term_id": 13383,
+    "name": "Aro 26",
+    "date": "2026-06-12T11:32:10",
+    "pwigo_tag": "ciclismo"
+  },
+  {
+    "taxonomy": "componente",
+    "term_id": 13384,
+    "name": "Aro 27.5",
+    "date": "2026-06-13T09:23:15",
+    "pwigo_tag": "ciclismo"
+  },
+  {
+    "taxonomy": "componente",
+    "term_id": 13385,
+    "name": "Aro 29",
+    "date": "2026-06-14T15:50:56",
+    "pwigo_tag": "atleta"
+  },
+  {
+    "taxonomy": "componente",
+    "term_id": 13388,
+    "name": "Aro 700c",
+    "date": "2026-06-15T12:33:55",
+    "pwigo_tag": "ciclismo"
+  },
+  {
+    "taxonomy": "componente",
+    "term_id": 14079,
+    "name": "Freio Hidraulico",
+    "date": "2026-06-16T18:06:33",
+    "pwigo_tag": "ciclismo"
+  },
+  {
+    "taxonomy": "componente",
+    "term_id": 14080,
+    "name": "Freio Mec\u00e2nico",
+    "date": "2026-06-17T18:20:08",
+    "pwigo_tag": "ciclismo"
+  },
+  {
+    "taxonomy": "marca-modelo",
+    "term_id": 12555,
+    "name": "Bicicletas Absolute novas e usadas",
+    "date": "2026-06-18T17:33:32",
+    "pwigo_tag": "atleta"
+  },
+  {
+    "taxonomy": "marca-modelo",
+    "term_id": 12604,
+    "name": "Bicicletas Alfameq novas e usadas",
+    "date": "2026-06-19T17:01:00",
+    "pwigo_tag": "ciclismo"
+  },
+  {
+    "taxonomy": "marca-modelo",
+    "term_id": 12349,
+    "name": "Bicicletas Audax novas e usadas",
+    "date": "2026-06-20T19:00:52",
+    "pwigo_tag": "atleta"
+  },
+  {
+    "taxonomy": "marca-modelo",
+    "term_id": 12260,
+    "name": "Bicicletas Caloi novas e usadas",
+    "date": "2026-06-21T19:06:51",
+    "pwigo_tag": "mtb"
+  },
+  {
+    "taxonomy": "marca-modelo",
+    "term_id": 12176,
+    "name": "Bicicletas Cannondale novas e usadas",
+    "date": "2026-06-22T17:39:11",
+    "pwigo_tag": "atleta"
+  },
+  {
+    "taxonomy": "marca-modelo",
+    "term_id": 12405,
+    "name": "Bicicletas Groove novas e usadas",
+    "date": "2026-06-23T19:52:34",
+    "pwigo_tag": "ciclismo"
+  },
+  {
+    "taxonomy": "marca-modelo",
+    "term_id": 12370,
+    "name": "Bicicletas GT novas e usadas",
+    "date": "2026-06-24T13:00:33",
+    "pwigo_tag": "atleta"
+  },
+  {
+    "taxonomy": "marca-modelo",
+    "term_id": 12392,
+    "name": "Bicicletas GTS M1 novas e usadas",
+    "date": "2026-06-25T14:12:04",
+    "pwigo_tag": "atleta"
+  },
+  {
+    "taxonomy": "marca-modelo",
+    "term_id": 12592,
+    "name": "Bicicletas Houston novas e usadas",
+    "date": "2026-06-26T19:57:33",
+    "pwigo_tag": "ciclismo"
+  },
+  {
+    "taxonomy": "marca-modelo",
+    "term_id": 12377,
+    "name": "Bicicletas KSW novas e usadas",
+    "date": "2026-06-27T11:20:50",
+    "pwigo_tag": "atleta"
+  },
+  {
+    "taxonomy": "marca-modelo",
+    "term_id": 12414,
+    "name": "Bicicletas Oggi novas e usadas",
+    "date": "2026-06-28T16:32:19",
+    "pwigo_tag": "atleta"
+  },
+  {
+    "taxonomy": "marca-modelo",
+    "term_id": 12337,
+    "name": "Bicicletas Rava novas e usadas",
+    "date": "2026-06-29T09:53:26",
+    "pwigo_tag": "ciclismo"
+  },
+  {
+    "taxonomy": "marca-modelo",
+    "term_id": 12576,
+    "name": "Bicicletas RockRider novas e usadas",
+    "date": "2026-06-30T16:15:07",
+    "pwigo_tag": "atleta"
+  },
+  {
+    "taxonomy": "marca-modelo",
+    "term_id": 12668,
+    "name": "Bicicletas Scott novas e usadas",
+    "date": "2026-07-01T18:30:40",
+    "pwigo_tag": "atleta"
+  },
+  {
+    "taxonomy": "marca-modelo",
+    "term_id": 12383,
+    "name": "Bicicletas Sense novas e usadas",
+    "date": "2026-07-02T18:13:27",
+    "pwigo_tag": "atleta"
+  },
+  {
+    "taxonomy": "marca-modelo",
+    "term_id": 12199,
+    "name": "Bicicletas Shimano novas e usadas",
+    "date": "2026-07-03T09:26:27",
+    "pwigo_tag": "atleta"
+  },
+  {
+    "taxonomy": "marca-modelo",
+    "term_id": 12344,
+    "name": "Bicicletas Soul novas e usadas",
+    "date": "2026-07-04T17:00:24",
+    "pwigo_tag": "atleta"
+  },
+  {
+    "taxonomy": "marca-modelo",
+    "term_id": 12507,
+    "name": "Bicicletas South novas e usadas",
+    "date": "2026-07-05T17:43:56",
+    "pwigo_tag": "ciclismo"
+  },
+  {
+    "taxonomy": "marca-modelo",
+    "term_id": 12172,
+    "name": "Bicicletas Specialized novas e usadas",
+    "date": "2026-07-06T08:40:05",
+    "pwigo_tag": "atleta"
+  },
+  {
+    "taxonomy": "marca-modelo",
+    "term_id": 12355,
+    "name": "Bicicletas Trek novas e usadas",
+    "date": "2026-07-07T12:32:23",
+    "pwigo_tag": "atleta"
+  },
+  {
+    "taxonomy": "marca-modelo",
+    "term_id": 12570,
+    "name": "Bicicletas TSW novas e usadas",
+    "date": "2026-07-08T15:02:06",
+    "pwigo_tag": "atleta"
+  },
+  {
+    "taxonomy": "cidade",
+    "term_id": 12152,
+    "name": "Bicicletas usadas em Belo Horizonte Minas Gerais",
+    "date": "2026-07-09T09:40:36",
+    "pwigo_tag": "atleta"
+  },
+  {
+    "taxonomy": "cidade",
+    "term_id": 13034,
+    "name": "Bicicletas usadas em Blumenau Santa Catarina",
+    "date": "2026-07-10T08:14:42",
+    "pwigo_tag": "ciclismo"
+  },
+  {
+    "taxonomy": "cidade",
+    "term_id": 12363,
+    "name": "Bicicletas usadas em Bras\u00edlia Distrito Federal",
+    "date": "2026-07-11T15:38:49",
+    "pwigo_tag": "atleta"
+  },
+  {
+    "taxonomy": "cidade",
+    "term_id": 12354,
+    "name": "Bicicletas usadas em Campinas S\u00e3o Paulo",
+    "date": "2026-07-12T14:11:26",
+    "pwigo_tag": "atleta"
+  },
+  {
+    "taxonomy": "cidade",
+    "term_id": 12413,
+    "name": "Bicicletas usadas em Curitiba Paran\u00e1",
+    "date": "2026-07-13T16:11:59",
+    "pwigo_tag": "atleta"
+  },
+  {
+    "taxonomy": "cidade",
+    "term_id": 12588,
+    "name": "Bicicletas usadas em Osasco S\u00e3o Paulo",
+    "date": "2026-07-14T09:55:05",
+    "pwigo_tag": "atleta"
+  },
+  {
+    "taxonomy": "cidade",
+    "term_id": 12458,
+    "name": "Bicicletas usadas em Porto Alegre Rio Grande do Sul",
+    "date": "2026-07-15T15:30:35",
+    "pwigo_tag": "atleta"
+  },
+  {
+    "taxonomy": "cidade",
+    "term_id": 12422,
+    "name": "Bicicletas usadas em Rio de Janeiro Rio de Janeiro",
+    "date": "2026-07-16T15:24:47",
+    "pwigo_tag": "ciclismo"
+  },
+  {
+    "taxonomy": "cidade",
+    "term_id": 12488,
+    "name": "Bicicletas usadas em S\u00e3o Bernardo do Campo S\u00e3o Paulo",
+    "date": "2026-07-17T14:48:10",
+    "pwigo_tag": "atleta"
+  },
+  {
+    "taxonomy": "cidade",
+    "term_id": 12849,
+    "name": "Bicicletas usadas em S\u00e3o Jos\u00e9 dos Campos S\u00e3o Paulo",
+    "date": "2026-07-18T08:37:11",
+    "pwigo_tag": "atleta"
+  },
+  {
+    "taxonomy": "cidade",
+    "term_id": 12358,
+    "name": "Bicicletas usadas em S\u00e3o Paulo S\u00e3o Paulo",
+    "date": "2026-07-19T15:21:36",
+    "pwigo_tag": "atleta"
+  },
+  {
+    "taxonomy": "componente",
+    "term_id": 13393,
+    "name": "Quadro 17",
+    "date": "2026-07-20T15:26:54",
+    "pwigo_tag": "ciclismo"
+  },
+  {
+    "taxonomy": "componente",
+    "term_id": 13394,
+    "name": "Quadro 19",
+    "date": "2026-07-21T11:34:37",
+    "pwigo_tag": "ciclismo"
+  },
+  {
+    "taxonomy": "componente",
+    "term_id": 13381,
+    "name": "Aro 20",
+    "date": "2026-07-22T10:25:43",
+    "pwigo_tag": "ciclismo"
+  },
+  {
+    "taxonomy": "componente",
+    "term_id": 13395,
+    "name": "Quadro 21",
+    "date": "2026-07-23T09:52:23",
+    "pwigo_tag": "ciclismo"
+  },
+  {
+    "taxonomy": "componente",
+    "term_id": 13396,
+    "name": "Quadro 23",
+    "date": "2026-07-24T11:36:09",
+    "pwigo_tag": "ciclismo"
+  },
+  {
+    "taxonomy": "componente",
+    "term_id": 13382,
+    "name": "Aro 24",
+    "date": "2026-07-25T14:04:11",
+    "pwigo_tag": "ciclismo"
+  },
+  {
+    "taxonomy": "componente",
+    "term_id": 13383,
+    "name": "Aro 26",
+    "date": "2026-07-26T11:04:17",
+    "pwigo_tag": "ciclismo"
+  },
+  {
+    "taxonomy": "componente",
+    "term_id": 13384,
+    "name": "Aro 27.5",
+    "date": "2026-07-27T13:06:15",
+    "pwigo_tag": "ciclismo"
+  },
+  {
+    "taxonomy": "componente",
+    "term_id": 13385,
+    "name": "Aro 29",
+    "date": "2026-07-28T19:22:06",
+    "pwigo_tag": "atleta"
+  },
+  {
+    "taxonomy": "componente",
+    "term_id": 13388,
+    "name": "Aro 700c",
+    "date": "2026-07-29T11:47:57",
+    "pwigo_tag": "ciclismo"
+  },
+  {
+    "taxonomy": "componente",
+    "term_id": 14079,
+    "name": "Freio Hidraulico",
+    "date": "2026-07-30T16:25:45",
+    "pwigo_tag": "ciclismo"
+  },
+  {
+    "taxonomy": "componente",
+    "term_id": 14080,
+    "name": "Freio Mec\u00e2nico",
+    "date": "2026-07-31T15:33:05",
+    "pwigo_tag": "ciclismo"
+  },
+  {
+    "taxonomy": "marca-modelo",
+    "term_id": 12555,
+    "name": "Bicicletas Absolute novas e usadas",
+    "date": "2026-08-01T09:51:26",
+    "pwigo_tag": "atleta"
+  },
+  {
+    "taxonomy": "marca-modelo",
+    "term_id": 12604,
+    "name": "Bicicletas Alfameq novas e usadas",
+    "date": "2026-08-02T08:17:22",
+    "pwigo_tag": "ciclismo"
+  },
+  {
+    "taxonomy": "marca-modelo",
+    "term_id": 12349,
+    "name": "Bicicletas Audax novas e usadas",
+    "date": "2026-08-03T13:50:34",
+    "pwigo_tag": "atleta"
+  },
+  {
+    "taxonomy": "marca-modelo",
+    "term_id": 12260,
+    "name": "Bicicletas Caloi novas e usadas",
+    "date": "2026-08-04T14:44:59",
+    "pwigo_tag": "mtb"
+  },
+  {
+    "taxonomy": "marca-modelo",
+    "term_id": 12176,
+    "name": "Bicicletas Cannondale novas e usadas",
+    "date": "2026-08-05T08:38:07",
+    "pwigo_tag": "atleta"
+  },
+  {
+    "taxonomy": "marca-modelo",
+    "term_id": 12405,
+    "name": "Bicicletas Groove novas e usadas",
+    "date": "2026-08-06T16:48:16",
+    "pwigo_tag": "ciclismo"
+  },
+  {
+    "taxonomy": "marca-modelo",
+    "term_id": 12370,
+    "name": "Bicicletas GT novas e usadas",
+    "date": "2026-08-07T08:46:18",
+    "pwigo_tag": "atleta"
+  },
+  {
+    "taxonomy": "marca-modelo",
+    "term_id": 12392,
+    "name": "Bicicletas GTS M1 novas e usadas",
+    "date": "2026-08-08T19:43:53",
+    "pwigo_tag": "atleta"
+  },
+  {
+    "taxonomy": "marca-modelo",
+    "term_id": 12592,
+    "name": "Bicicletas Houston novas e usadas",
+    "date": "2026-08-09T13:59:00",
+    "pwigo_tag": "ciclismo"
+  },
+  {
+    "taxonomy": "marca-modelo",
+    "term_id": 12377,
+    "name": "Bicicletas KSW novas e usadas",
+    "date": "2026-08-10T09:37:20",
+    "pwigo_tag": "atleta"
+  },
+  {
+    "taxonomy": "marca-modelo",
+    "term_id": 12414,
+    "name": "Bicicletas Oggi novas e usadas",
+    "date": "2026-08-11T14:43:25",
+    "pwigo_tag": "atleta"
+  },
+  {
+    "taxonomy": "marca-modelo",
+    "term_id": 12337,
+    "name": "Bicicletas Rava novas e usadas",
+    "date": "2026-08-12T10:19:26",
+    "pwigo_tag": "ciclismo"
+  },
+  {
+    "taxonomy": "marca-modelo",
+    "term_id": 12576,
+    "name": "Bicicletas RockRider novas e usadas",
+    "date": "2026-08-13T10:24:00",
+    "pwigo_tag": "atleta"
+  },
+  {
+    "taxonomy": "marca-modelo",
+    "term_id": 12668,
+    "name": "Bicicletas Scott novas e usadas",
+    "date": "2026-08-14T14:39:15",
+    "pwigo_tag": "atleta"
+  },
+  {
+    "taxonomy": "marca-modelo",
+    "term_id": 12383,
+    "name": "Bicicletas Sense novas e usadas",
+    "date": "2026-08-15T08:42:33",
+    "pwigo_tag": "atleta"
+  },
+  {
+    "taxonomy": "marca-modelo",
+    "term_id": 12199,
+    "name": "Bicicletas Shimano novas e usadas",
+    "date": "2026-08-16T13:13:39",
+    "pwigo_tag": "atleta"
+  },
+  {
+    "taxonomy": "marca-modelo",
+    "term_id": 12344,
+    "name": "Bicicletas Soul novas e usadas",
+    "date": "2026-08-17T16:23:30",
+    "pwigo_tag": "atleta"
+  },
+  {
+    "taxonomy": "marca-modelo",
+    "term_id": 12507,
+    "name": "Bicicletas South novas e usadas",
+    "date": "2026-08-18T12:16:54",
+    "pwigo_tag": "ciclismo"
+  },
+  {
+    "taxonomy": "marca-modelo",
+    "term_id": 12172,
+    "name": "Bicicletas Specialized novas e usadas",
+    "date": "2026-08-19T16:15:28",
+    "pwigo_tag": "atleta"
+  },
+  {
+    "taxonomy": "marca-modelo",
+    "term_id": 12355,
+    "name": "Bicicletas Trek novas e usadas",
+    "date": "2026-08-20T09:02:07",
+    "pwigo_tag": "atleta"
+  },
+  {
+    "taxonomy": "marca-modelo",
+    "term_id": 12570,
+    "name": "Bicicletas TSW novas e usadas",
+    "date": "2026-08-21T11:58:23",
+    "pwigo_tag": "atleta"
+  },
+  {
+    "taxonomy": "cidade",
+    "term_id": 12152,
+    "name": "Bicicletas usadas em Belo Horizonte Minas Gerais",
+    "date": "2026-08-22T19:54:08",
+    "pwigo_tag": "atleta"
+  },
+  {
+    "taxonomy": "cidade",
+    "term_id": 13034,
+    "name": "Bicicletas usadas em Blumenau Santa Catarina",
+    "date": "2026-08-23T10:31:31",
+    "pwigo_tag": "ciclismo"
+  },
+  {
+    "taxonomy": "cidade",
+    "term_id": 12363,
+    "name": "Bicicletas usadas em Bras\u00edlia Distrito Federal",
+    "date": "2026-08-24T09:44:05",
+    "pwigo_tag": "atleta"
+  },
+  {
+    "taxonomy": "cidade",
+    "term_id": 12354,
+    "name": "Bicicletas usadas em Campinas S\u00e3o Paulo",
+    "date": "2026-08-25T13:19:08",
+    "pwigo_tag": "atleta"
+  },
+  {
+    "taxonomy": "cidade",
+    "term_id": 12413,
+    "name": "Bicicletas usadas em Curitiba Paran\u00e1",
+    "date": "2026-08-26T14:34:03",
+    "pwigo_tag": "atleta"
+  },
+  {
+    "taxonomy": "cidade",
+    "term_id": 12588,
+    "name": "Bicicletas usadas em Osasco S\u00e3o Paulo",
+    "date": "2026-08-27T10:42:01",
+    "pwigo_tag": "atleta"
+  },
+  {
+    "taxonomy": "cidade",
+    "term_id": 12458,
+    "name": "Bicicletas usadas em Porto Alegre Rio Grande do Sul",
+    "date": "2026-08-28T14:18:16",
+    "pwigo_tag": "atleta"
+  },
+  {
+    "taxonomy": "cidade",
+    "term_id": 12422,
+    "name": "Bicicletas usadas em Rio de Janeiro Rio de Janeiro",
+    "date": "2026-08-29T19:36:53",
+    "pwigo_tag": "ciclismo"
+  },
+  {
+    "taxonomy": "cidade",
+    "term_id": 12488,
+    "name": "Bicicletas usadas em S\u00e3o Bernardo do Campo S\u00e3o Paulo",
+    "date": "2026-08-30T14:06:25",
+    "pwigo_tag": "atleta"
+  },
+  {
+    "taxonomy": "cidade",
+    "term_id": 12849,
+    "name": "Bicicletas usadas em S\u00e3o Jos\u00e9 dos Campos S\u00e3o Paulo",
+    "date": "2026-08-31T16:00:04",
+    "pwigo_tag": "atleta"
+  },
+  {
+    "taxonomy": "cidade",
+    "term_id": 12358,
+    "name": "Bicicletas usadas em S\u00e3o Paulo S\u00e3o Paulo",
+    "date": "2026-09-01T15:36:07",
+    "pwigo_tag": "atleta"
+  },
+  {
+    "taxonomy": "componente",
+    "term_id": 13393,
+    "name": "Quadro 17",
+    "date": "2026-09-02T09:25:03",
+    "pwigo_tag": "ciclismo"
+  },
+  {
+    "taxonomy": "componente",
+    "term_id": 13394,
+    "name": "Quadro 19",
+    "date": "2026-09-03T15:29:18",
+    "pwigo_tag": "ciclismo"
+  },
+  {
+    "taxonomy": "componente",
+    "term_id": 13381,
+    "name": "Aro 20",
+    "date": "2026-09-04T14:12:23",
+    "pwigo_tag": "ciclismo"
+  },
+  {
+    "taxonomy": "componente",
+    "term_id": 13395,
+    "name": "Quadro 21",
+    "date": "2026-09-05T18:49:53",
+    "pwigo_tag": "ciclismo"
+  },
+  {
+    "taxonomy": "componente",
+    "term_id": 13396,
+    "name": "Quadro 23",
+    "date": "2026-09-06T14:19:06",
+    "pwigo_tag": "ciclismo"
+  },
+  {
+    "taxonomy": "componente",
+    "term_id": 13382,
+    "name": "Aro 24",
+    "date": "2026-09-07T14:58:45",
+    "pwigo_tag": "ciclismo"
+  },
+  {
+    "taxonomy": "componente",
+    "term_id": 13383,
+    "name": "Aro 26",
+    "date": "2026-09-08T17:22:56",
+    "pwigo_tag": "ciclismo"
+  },
+  {
+    "taxonomy": "componente",
+    "term_id": 13384,
+    "name": "Aro 27.5",
+    "date": "2026-09-09T14:52:35",
+    "pwigo_tag": "ciclismo"
+  },
+  {
+    "taxonomy": "componente",
+    "term_id": 13385,
+    "name": "Aro 29",
+    "date": "2026-09-10T10:13:19",
+    "pwigo_tag": "atleta"
+  },
+  {
+    "taxonomy": "componente",
+    "term_id": 13388,
+    "name": "Aro 700c",
+    "date": "2026-09-11T09:38:45",
+    "pwigo_tag": "ciclismo"
+  },
+  {
+    "taxonomy": "componente",
+    "term_id": 14079,
+    "name": "Freio Hidraulico",
+    "date": "2026-09-12T11:42:51",
+    "pwigo_tag": "ciclismo"
+  },
+  {
+    "taxonomy": "componente",
+    "term_id": 14080,
+    "name": "Freio Mec\u00e2nico",
+    "date": "2026-09-13T17:09:55",
+    "pwigo_tag": "ciclismo"
+  },
+  {
+    "taxonomy": "marca-modelo",
+    "term_id": 12555,
+    "name": "Bicicletas Absolute novas e usadas",
+    "date": "2026-09-14T13:43:45",
+    "pwigo_tag": "atleta"
+  },
+  {
+    "taxonomy": "marca-modelo",
+    "term_id": 12604,
+    "name": "Bicicletas Alfameq novas e usadas",
+    "date": "2026-09-15T16:18:33",
+    "pwigo_tag": "ciclismo"
+  },
+  {
+    "taxonomy": "marca-modelo",
+    "term_id": 12349,
+    "name": "Bicicletas Audax novas e usadas",
+    "date": "2026-09-16T14:59:22",
+    "pwigo_tag": "atleta"
+  },
+  {
+    "taxonomy": "marca-modelo",
+    "term_id": 12260,
+    "name": "Bicicletas Caloi novas e usadas",
+    "date": "2026-09-17T18:31:01",
+    "pwigo_tag": "mtb"
+  },
+  {
+    "taxonomy": "marca-modelo",
+    "term_id": 12176,
+    "name": "Bicicletas Cannondale novas e usadas",
+    "date": "2026-09-18T09:55:09",
+    "pwigo_tag": "atleta"
+  },
+  {
+    "taxonomy": "marca-modelo",
+    "term_id": 12405,
+    "name": "Bicicletas Groove novas e usadas",
+    "date": "2026-09-19T18:32:14",
+    "pwigo_tag": "ciclismo"
+  },
+  {
+    "taxonomy": "marca-modelo",
+    "term_id": 12370,
+    "name": "Bicicletas GT novas e usadas",
+    "date": "2026-09-20T12:54:49",
+    "pwigo_tag": "atleta"
+  },
+  {
+    "taxonomy": "marca-modelo",
+    "term_id": 12392,
+    "name": "Bicicletas GTS M1 novas e usadas",
+    "date": "2026-09-21T14:07:10",
+    "pwigo_tag": "atleta"
+  },
+  {
+    "taxonomy": "marca-modelo",
+    "term_id": 12592,
+    "name": "Bicicletas Houston novas e usadas",
+    "date": "2026-09-22T12:00:48",
+    "pwigo_tag": "ciclismo"
+  },
+  {
+    "taxonomy": "marca-modelo",
+    "term_id": 12377,
+    "name": "Bicicletas KSW novas e usadas",
+    "date": "2026-09-23T14:51:48",
+    "pwigo_tag": "atleta"
+  },
+  {
+    "taxonomy": "marca-modelo",
+    "term_id": 12414,
+    "name": "Bicicletas Oggi novas e usadas",
+    "date": "2026-09-24T19:36:41",
+    "pwigo_tag": "atleta"
+  },
+  {
+    "taxonomy": "marca-modelo",
+    "term_id": 12337,
+    "name": "Bicicletas Rava novas e usadas",
+    "date": "2026-09-25T15:26:32",
+    "pwigo_tag": "ciclismo"
+  },
+  {
+    "taxonomy": "marca-modelo",
+    "term_id": 12576,
+    "name": "Bicicletas RockRider novas e usadas",
+    "date": "2026-09-26T19:40:18",
+    "pwigo_tag": "atleta"
+  },
+  {
+    "taxonomy": "marca-modelo",
+    "term_id": 12668,
+    "name": "Bicicletas Scott novas e usadas",
+    "date": "2026-09-27T16:53:11",
+    "pwigo_tag": "atleta"
+  },
+  {
+    "taxonomy": "marca-modelo",
+    "term_id": 12383,
+    "name": "Bicicletas Sense novas e usadas",
+    "date": "2026-09-28T16:41:26",
+    "pwigo_tag": "atleta"
+  },
+  {
+    "taxonomy": "marca-modelo",
+    "term_id": 12199,
+    "name": "Bicicletas Shimano novas e usadas",
+    "date": "2026-09-29T11:19:55",
+    "pwigo_tag": "atleta"
+  },
+  {
+    "taxonomy": "marca-modelo",
+    "term_id": 12344,
+    "name": "Bicicletas Soul novas e usadas",
+    "date": "2026-09-30T09:53:31",
+    "pwigo_tag": "atleta"
+  },
+  {
+    "taxonomy": "marca-modelo",
+    "term_id": 12507,
+    "name": "Bicicletas South novas e usadas",
+    "date": "2026-10-01T11:23:53",
+    "pwigo_tag": "ciclismo"
+  },
+  {
+    "taxonomy": "marca-modelo",
+    "term_id": 12172,
+    "name": "Bicicletas Specialized novas e usadas",
+    "date": "2026-10-02T09:58:50",
+    "pwigo_tag": "atleta"
+  },
+  {
+    "taxonomy": "marca-modelo",
+    "term_id": 12355,
+    "name": "Bicicletas Trek novas e usadas",
+    "date": "2026-10-03T08:34:25",
+    "pwigo_tag": "atleta"
+  },
+  {
+    "taxonomy": "marca-modelo",
+    "term_id": 12570,
+    "name": "Bicicletas TSW novas e usadas",
+    "date": "2026-10-04T15:21:31",
+    "pwigo_tag": "atleta"
+  },
+  {
+    "taxonomy": "cidade",
+    "term_id": 12152,
+    "name": "Bicicletas usadas em Belo Horizonte Minas Gerais",
+    "date": "2026-10-05T08:07:53",
+    "pwigo_tag": "atleta"
+  },
+  {
+    "taxonomy": "cidade",
+    "term_id": 13034,
+    "name": "Bicicletas usadas em Blumenau Santa Catarina",
+    "date": "2026-10-06T12:05:29",
+    "pwigo_tag": "ciclismo"
+  },
+  {
+    "taxonomy": "cidade",
+    "term_id": 12363,
+    "name": "Bicicletas usadas em Bras\u00edlia Distrito Federal",
+    "date": "2026-10-07T16:17:36",
+    "pwigo_tag": "atleta"
+  },
+  {
+    "taxonomy": "cidade",
+    "term_id": 12354,
+    "name": "Bicicletas usadas em Campinas S\u00e3o Paulo",
+    "date": "2026-10-08T19:08:00",
+    "pwigo_tag": "atleta"
+  },
+  {
+    "taxonomy": "cidade",
+    "term_id": 12413,
+    "name": "Bicicletas usadas em Curitiba Paran\u00e1",
+    "date": "2026-10-09T12:09:04",
+    "pwigo_tag": "atleta"
+  },
+  {
+    "taxonomy": "cidade",
+    "term_id": 12588,
+    "name": "Bicicletas usadas em Osasco S\u00e3o Paulo",
+    "date": "2026-10-10T12:48:42",
+    "pwigo_tag": "atleta"
+  },
+  {
+    "taxonomy": "cidade",
+    "term_id": 12458,
+    "name": "Bicicletas usadas em Porto Alegre Rio Grande do Sul",
+    "date": "2026-10-11T18:59:13",
+    "pwigo_tag": "atleta"
+  },
+  {
+    "taxonomy": "cidade",
+    "term_id": 12422,
+    "name": "Bicicletas usadas em Rio de Janeiro Rio de Janeiro",
+    "date": "2026-10-12T15:39:45",
+    "pwigo_tag": "ciclismo"
+  },
+  {
+    "taxonomy": "cidade",
+    "term_id": 12488,
+    "name": "Bicicletas usadas em S\u00e3o Bernardo do Campo S\u00e3o Paulo",
+    "date": "2026-10-13T16:32:46",
+    "pwigo_tag": "atleta"
+  },
+  {
+    "taxonomy": "cidade",
+    "term_id": 12849,
+    "name": "Bicicletas usadas em S\u00e3o Jos\u00e9 dos Campos S\u00e3o Paulo",
+    "date": "2026-10-14T18:21:25",
+    "pwigo_tag": "atleta"
+  },
+  {
+    "taxonomy": "cidade",
+    "term_id": 12358,
+    "name": "Bicicletas usadas em S\u00e3o Paulo S\u00e3o Paulo",
+    "date": "2026-10-15T13:35:30",
+    "pwigo_tag": "atleta"
+  },
+  {
+    "taxonomy": "componente",
+    "term_id": 13393,
+    "name": "Quadro 17",
+    "date": "2026-10-16T12:03:29",
+    "pwigo_tag": "ciclismo"
+  },
+  {
+    "taxonomy": "componente",
+    "term_id": 13394,
+    "name": "Quadro 19",
+    "date": "2026-10-17T09:19:54",
+    "pwigo_tag": "ciclismo"
+  },
+  {
+    "taxonomy": "componente",
+    "term_id": 13381,
+    "name": "Aro 20",
+    "date": "2026-10-18T18:09:57",
+    "pwigo_tag": "ciclismo"
+  },
+  {
+    "taxonomy": "componente",
+    "term_id": 13395,
+    "name": "Quadro 21",
+    "date": "2026-10-19T13:52:24",
+    "pwigo_tag": "ciclismo"
+  },
+  {
+    "taxonomy": "componente",
+    "term_id": 13396,
+    "name": "Quadro 23",
+    "date": "2026-10-20T18:09:27",
+    "pwigo_tag": "ciclismo"
+  },
+  {
+    "taxonomy": "componente",
+    "term_id": 13382,
+    "name": "Aro 24",
+    "date": "2026-10-21T09:24:58",
+    "pwigo_tag": "ciclismo"
+  },
+  {
+    "taxonomy": "componente",
+    "term_id": 13383,
+    "name": "Aro 26",
+    "date": "2026-10-22T09:29:39",
+    "pwigo_tag": "ciclismo"
+  },
+  {
+    "taxonomy": "componente",
+    "term_id": 13384,
+    "name": "Aro 27.5",
+    "date": "2026-10-23T08:42:23",
+    "pwigo_tag": "ciclismo"
+  },
+  {
+    "taxonomy": "componente",
+    "term_id": 13385,
+    "name": "Aro 29",
+    "date": "2026-10-24T11:22:48",
+    "pwigo_tag": "atleta"
+  },
+  {
+    "taxonomy": "componente",
+    "term_id": 13388,
+    "name": "Aro 700c",
+    "date": "2026-10-25T16:39:05",
+    "pwigo_tag": "ciclismo"
+  },
+  {
+    "taxonomy": "componente",
+    "term_id": 14079,
+    "name": "Freio Hidraulico",
+    "date": "2026-10-26T12:50:56",
+    "pwigo_tag": "ciclismo"
+  },
+  {
+    "taxonomy": "componente",
+    "term_id": 14080,
+    "name": "Freio Mec\u00e2nico",
+    "date": "2026-10-27T13:11:39",
+    "pwigo_tag": "ciclismo"
+  },
+  {
+    "taxonomy": "marca-modelo",
+    "term_id": 12555,
+    "name": "Bicicletas Absolute novas e usadas",
+    "date": "2026-10-28T18:56:54",
+    "pwigo_tag": "atleta"
+  },
+  {
+    "taxonomy": "marca-modelo",
+    "term_id": 12604,
+    "name": "Bicicletas Alfameq novas e usadas",
+    "date": "2026-10-29T17:45:25",
+    "pwigo_tag": "ciclismo"
+  },
+  {
+    "taxonomy": "marca-modelo",
+    "term_id": 12349,
+    "name": "Bicicletas Audax novas e usadas",
+    "date": "2026-10-30T08:14:24",
+    "pwigo_tag": "atleta"
+  },
+  {
+    "taxonomy": "marca-modelo",
+    "term_id": 12260,
+    "name": "Bicicletas Caloi novas e usadas",
+    "date": "2026-10-31T14:17:31",
+    "pwigo_tag": "mtb"
+  },
+  {
+    "taxonomy": "marca-modelo",
+    "term_id": 12176,
+    "name": "Bicicletas Cannondale novas e usadas",
+    "date": "2026-11-01T09:44:35",
+    "pwigo_tag": "atleta"
+  },
+  {
+    "taxonomy": "marca-modelo",
+    "term_id": 12405,
+    "name": "Bicicletas Groove novas e usadas",
+    "date": "2026-11-02T14:05:57",
+    "pwigo_tag": "ciclismo"
+  },
+  {
+    "taxonomy": "marca-modelo",
+    "term_id": 12370,
+    "name": "Bicicletas GT novas e usadas",
+    "date": "2026-11-03T18:33:29",
+    "pwigo_tag": "atleta"
+  },
+  {
+    "taxonomy": "marca-modelo",
+    "term_id": 12392,
+    "name": "Bicicletas GTS M1 novas e usadas",
+    "date": "2026-11-04T09:16:39",
+    "pwigo_tag": "atleta"
+  },
+  {
+    "taxonomy": "marca-modelo",
+    "term_id": 12592,
+    "name": "Bicicletas Houston novas e usadas",
+    "date": "2026-11-05T10:36:43",
+    "pwigo_tag": "ciclismo"
+  },
+  {
+    "taxonomy": "marca-modelo",
+    "term_id": 12377,
+    "name": "Bicicletas KSW novas e usadas",
+    "date": "2026-11-06T18:41:50",
+    "pwigo_tag": "atleta"
+  },
+  {
+    "taxonomy": "marca-modelo",
+    "term_id": 12414,
+    "name": "Bicicletas Oggi novas e usadas",
+    "date": "2026-11-07T17:51:23",
+    "pwigo_tag": "atleta"
+  },
+  {
+    "taxonomy": "marca-modelo",
+    "term_id": 12337,
+    "name": "Bicicletas Rava novas e usadas",
+    "date": "2026-11-08T14:26:03",
+    "pwigo_tag": "ciclismo"
+  },
+  {
+    "taxonomy": "marca-modelo",
+    "term_id": 12576,
+    "name": "Bicicletas RockRider novas e usadas",
+    "date": "2026-11-09T11:16:38",
+    "pwigo_tag": "atleta"
+  },
+  {
+    "taxonomy": "marca-modelo",
+    "term_id": 12668,
+    "name": "Bicicletas Scott novas e usadas",
+    "date": "2026-11-10T11:18:31",
+    "pwigo_tag": "atleta"
+  },
+  {
+    "taxonomy": "marca-modelo",
+    "term_id": 12383,
+    "name": "Bicicletas Sense novas e usadas",
+    "date": "2026-11-11T18:06:04",
+    "pwigo_tag": "atleta"
+  },
+  {
+    "taxonomy": "marca-modelo",
+    "term_id": 12199,
+    "name": "Bicicletas Shimano novas e usadas",
+    "date": "2026-11-12T16:36:13",
+    "pwigo_tag": "atleta"
+  },
+  {
+    "taxonomy": "marca-modelo",
+    "term_id": 12344,
+    "name": "Bicicletas Soul novas e usadas",
+    "date": "2026-11-13T17:57:42",
+    "pwigo_tag": "atleta"
+  },
+  {
+    "taxonomy": "marca-modelo",
+    "term_id": 12507,
+    "name": "Bicicletas South novas e usadas",
+    "date": "2026-11-14T19:06:25",
+    "pwigo_tag": "ciclismo"
+  },
+  {
+    "taxonomy": "marca-modelo",
+    "term_id": 12172,
+    "name": "Bicicletas Specialized novas e usadas",
+    "date": "2026-11-15T11:49:37",
+    "pwigo_tag": "atleta"
+  },
+  {
+    "taxonomy": "marca-modelo",
+    "term_id": 12355,
+    "name": "Bicicletas Trek novas e usadas",
+    "date": "2026-11-16T08:31:31",
+    "pwigo_tag": "atleta"
+  },
+  {
+    "taxonomy": "marca-modelo",
+    "term_id": 12570,
+    "name": "Bicicletas TSW novas e usadas",
+    "date": "2026-11-17T09:51:41",
+    "pwigo_tag": "atleta"
+  },
+  {
+    "taxonomy": "cidade",
+    "term_id": 12152,
+    "name": "Bicicletas usadas em Belo Horizonte Minas Gerais",
+    "date": "2026-11-18T14:50:34",
+    "pwigo_tag": "atleta"
+  },
+  {
+    "taxonomy": "cidade",
+    "term_id": 13034,
+    "name": "Bicicletas usadas em Blumenau Santa Catarina",
+    "date": "2026-11-19T17:16:03",
+    "pwigo_tag": "ciclismo"
+  },
+  {
+    "taxonomy": "cidade",
+    "term_id": 12363,
+    "name": "Bicicletas usadas em Bras\u00edlia Distrito Federal",
+    "date": "2026-11-20T17:26:30",
+    "pwigo_tag": "atleta"
+  },
+  {
+    "taxonomy": "cidade",
+    "term_id": 12354,
+    "name": "Bicicletas usadas em Campinas S\u00e3o Paulo",
+    "date": "2026-11-21T19:44:55",
+    "pwigo_tag": "atleta"
+  },
+  {
+    "taxonomy": "cidade",
+    "term_id": 12413,
+    "name": "Bicicletas usadas em Curitiba Paran\u00e1",
+    "date": "2026-11-22T19:36:31",
+    "pwigo_tag": "atleta"
+  },
+  {
+    "taxonomy": "cidade",
+    "term_id": 12588,
+    "name": "Bicicletas usadas em Osasco S\u00e3o Paulo",
+    "date": "2026-11-23T17:08:27",
+    "pwigo_tag": "atleta"
+  },
+  {
+    "taxonomy": "cidade",
+    "term_id": 12458,
+    "name": "Bicicletas usadas em Porto Alegre Rio Grande do Sul",
+    "date": "2026-11-24T08:08:57",
+    "pwigo_tag": "atleta"
+  },
+  {
+    "taxonomy": "cidade",
+    "term_id": 12422,
+    "name": "Bicicletas usadas em Rio de Janeiro Rio de Janeiro",
+    "date": "2026-11-25T12:15:27",
+    "pwigo_tag": "ciclismo"
+  },
+  {
+    "taxonomy": "cidade",
+    "term_id": 12488,
+    "name": "Bicicletas usadas em S\u00e3o Bernardo do Campo S\u00e3o Paulo",
+    "date": "2026-11-26T11:36:38",
+    "pwigo_tag": "atleta"
+  },
+  {
+    "taxonomy": "cidade",
+    "term_id": 12849,
+    "name": "Bicicletas usadas em S\u00e3o Jos\u00e9 dos Campos S\u00e3o Paulo",
+    "date": "2026-11-27T19:18:23",
+    "pwigo_tag": "atleta"
+  },
+  {
+    "taxonomy": "cidade",
+    "term_id": 12358,
+    "name": "Bicicletas usadas em S\u00e3o Paulo S\u00e3o Paulo",
+    "date": "2026-11-28T19:13:51",
+    "pwigo_tag": "atleta"
+  }
+]

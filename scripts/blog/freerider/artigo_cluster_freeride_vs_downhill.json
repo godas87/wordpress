@@ -1,0 +1,27 @@
+[
+  {
+    "tag": "Freeride Usada",
+    "blog": [
+      {
+        "titulo": "Freeride e downhill na mesma montanha: bike, geometria e linha em conversas que parecem parecidas até não serem",
+        "descricao": "Freeride e Downhill: geometria, suspensão e intenção de uso em saltos versus pista íngreme. Leitura prática das diferenças.",
+        "outline 1": "O Propósito: Velocidade vs. Estilo",
+        "outline 2": "A Geometria do Quadro",
+        "outline 3": "A Suspensão: Curso e Ajuste",
+        "outline 4": "O Dilema na Compra de Usadas",
+        "taxonomias": [
+          {
+            "id": 13367,
+            "slug": "freerider",
+            "tipo": "modalidade"
+          },
+          {
+            "id": 13364,
+            "slug": "downhill",
+            "tipo": "modalidade"
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "tag": "Equilíbrio Usada",
+    "blog": [
+      {
+        "titulo": "Madeira, alumínio ou aço na balance bike: braço de quem carrega e vida útil no playground que aparece rápido",
+        "descricao": "Madeira, alumínio ou aço no quadro da balance bike: durabilidade, peso e ajuste ao tamanho da criança.",
+        "outline 1": "Quadros de Madeira",
+        "outline 2": "Quadros de Aço (Aço Carbono)",
+        "outline 3": "Quadros de Alumínio",
+        "outline 4": "O Dilema na Compra de Usadas",
+        "taxonomias": [
+          {
+            "id": 13366,
+            "slug": "equilibrio",
+            "tipo": "modalidade"
+          },
+          {
+            "id": 26,
+            "slug": "quadro",
+            "tipo": "componente"
+          }
+        ]
+      }
+    ]
+  }
+]

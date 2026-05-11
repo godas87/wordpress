@@ -1,0 +1,27 @@
+[
+  {
+    "tag": "Downhill Usada",
+    "blog": [
+      {
+        "titulo": "Ar contra mola no DH na segunda mão: pancada na trilha encontrando conta de oficina e paciência bem no bolso",
+        "descricao": "Amortecedores a ar e de mola (coil) no Downhill: prós, contras e o que validar numa suspensão usada.",
+        "outline 1": "Amortecedor de Mola (Coil Shock)",
+        "outline 2": "Amortecedor a Ar (Air Shock)",
+        "outline 3": "O Dilema na Compra de Usadas",
+        "outline 4": "Conclusão desempenho sensorial ou manutenção na descida",
+        "taxonomias": [
+          {
+            "id": 7,
+            "slug": "downhill",
+            "tipo": "modalidade"
+          },
+          {
+            "id": 30,
+            "slug": "suspensao-traseira",
+            "tipo": "componente"
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "tag": "Geometria Speed",
+    "blog": [
+      {
+        "titulo": "Aero endurance ou subida na speed mudando pescoço ritmo e medo quando pelotão fecha em cima e corpo avisa se encaixe cabe",
+        "descricao": "Geometrias aero, climbing e endurance na speed usada: o que muda na postura e na inspeção do quadro.",
+        "outline 1": "Speed Endurance (Gran Fondo)",
+        "outline 2": "Speed Climbing (Lightweight / Race)",
+        "outline 3": "Speed Aero",
+        "outline 4": "O Dilema na Compra de Usadas",
+        "taxonomias": [
+          {
+            "id": 14,
+            "slug": "speed",
+            "tipo": "modalidade"
+          },
+          {
+            "id": 2,
+            "slug": "quadro",
+            "tipo": "componente"
+          }
+        ]
+      }
+    ]
+  }
+]

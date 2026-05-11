@@ -1,0 +1,42 @@
+[
+  {
+    "tag": "Shimano vs SRAM Speed",
+    "blog": [
+      {
+        "titulo": "Shimano contra SRAM no asfalto segunda mão onde clique sensação e desgaste decidem se usado fecha bem sem drama",
+        "descricao": "Grupos Di2 (Shimano) e eTap AXS (SRAM) na speed usada: ergonomia, baterias e checklist de desgaste.",
+        "outline 1": "A Filosofia das Marcas: Suavidade vs. Inovação",
+        "outline 2": "A Batalha do Custo-Benefício: 105 Di2 vs. Rival AXS",
+        "outline 3": "O Que Verificar ao Comprar uma Usada",
+        "outline 4": "Conclusão perfil de pedal e rota na speed",
+        "taxonomias": [
+          {
+            "id": 14,
+            "slug": "speed",
+            "tipo": "modalidade"
+          },
+          {
+            "id": 11,
+            "slug": "cambio-traseiro",
+            "tipo": "componente"
+          },
+          {
+            "id": 10,
+            "slug": "cambio-dianteiro",
+            "tipo": "componente"
+          },
+          {
+            "id": 12,
+            "slug": "cassete",
+            "tipo": "componente"
+          },
+          {
+            "id": 13,
+            "slug": "corrente",
+            "tipo": "componente"
+          }
+        ]
+      }
+    ]
+  }
+]

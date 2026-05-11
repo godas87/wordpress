@@ -1,0 +1,32 @@
+[
+  {
+    "tag": "Rodas Gravel",
+    "blog": [
+      {
+        "titulo": "700c contra 650b na gravel de verdade não só planilha postura pegada em terra e coragem de furar atalho duvidoso",
+        "descricao": "Rodas 700c e 650b no gravel: velocidade rolante, conforto e tração — critérios para combinar com o seu terreno.",
+        "outline 1": "O Básico: O que são 700c e 650b?",
+        "outline 2": "Rodas 700c: A Escolha da Velocidade",
+        "outline 3": "Rodas 650b: A Escolha da Aventura",
+        "outline 4": "O Que Verificar ao Comprar Usada",
+        "taxonomias": [
+          {
+            "id": 10,
+            "slug": "gravel",
+            "tipo": "modalidade"
+          },
+          {
+            "id": 16,
+            "slug": "roda",
+            "tipo": "componente"
+          },
+          {
+            "id": 17,
+            "slug": "pneu",
+            "tipo": "componente"
+          }
+        ]
+      }
+    ]
+  }
+]

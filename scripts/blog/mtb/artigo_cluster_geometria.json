@@ -1,0 +1,44 @@
+[
+  {
+    "tipo": "cluster",
+    "cluster_pai": "mountain-bike-mtb",
+    "titulo": "Reach stack e ângulos na ficha da MTB tirando glamour da planilha e virando postura real no pedal",
+    "slug_sugerido": "geometria-mtb-o-que-os-numeros-do-quadro-dizem",
+    "descricao_seo": "Reach, stack, ângulo de direção, chainstay e outras medidas: como usar a ficha técnica na escolha de uma MTB usada.",
+    "taxonomias": [
+      {
+        "tipo": "modalidade",
+        "id": 7,
+        "slug": "mountain-bike-mtb",
+        "nome": "Mountain Bike (MTB)"
+      },
+      {
+        "tipo": "componente",
+        "id": 52,
+        "slug": "quadro",
+        "nome": "Quadro"
+      },
+      {
+        "tipo": "componente",
+        "id": 46,
+        "slug": "suspensao-dianteira",
+        "nome": "Suspensão Dianteira"
+      }
+    ],
+    "links_internos_sugeridos": [
+      {
+        "texto_ancora": "Hardtail ou Full Suspension",
+        "url_destino": "/blog/hardtail-vs-full-suspension-qual-mtb-escolher/"
+      },
+      {
+        "texto_ancora": "guia completo para comprar uma MTB usada",
+        "url_destino": "/blog/guia-definitivo-mountain-bike-usada/"
+      },
+      {
+        "texto_ancora": "aro 29",
+        "url_destino": "/blog/aro-29-e-para-mim-te-ajudamos-a-fazer-a-melhor-escolha/"
+      }
+    ],
+    "imagem_capa": "capa_geometria_mtb.jpg"
+  }
+]

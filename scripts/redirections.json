@@ -1,0 +1,536 @@
+{
+  "plugin": {
+    "version": "5.7.3",
+    "date": "Sun, 22 Feb 2026 17:37:28 +0000"
+  },
+  "groups": [
+    {
+      "id": 1,
+      "name": "Redirecionamentos",
+      "redirects": 31,
+      "module_id": 1,
+      "moduleName": "WordPress",
+      "enabled": true
+    },
+    {
+      "id": 2,
+      "name": "Posts modificados",
+      "redirects": 0,
+      "module_id": 1,
+      "moduleName": "WordPress",
+      "enabled": true
+    }
+  ],
+  "redirects": [
+    {
+      "id": 1,
+      "url": "/imgs/bazar-bikes-capa.png",
+      "match_url": "/imgs/bazar-bikes-capa.png",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": true,
+          "flag_trailing": true,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/src/imgs/bazar-bikes-capa.png"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 385,
+      "regex": false,
+      "group_id": 1,
+      "position": 0,
+      "last_access": "22 de fevereiro de 2026",
+      "enabled": true
+    },
+    {
+      "id": 2,
+      "url": "/bike/bicicleta/(.+)",
+      "match_url": "^/bike/bicicleta/([^/]+)(/.*)?$",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": true
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": { "url": "/bicicleta-modalidade/$1$2" },
+      "match_type": "url",
+      "title": "Regex category->modalidade",
+      "hits": 0,
+      "regex": true,
+      "group_id": 1,
+      "position": 1,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 3,
+      "url": "/bike/peca/(.+)",
+      "match_url": "^/bike/pecas/([^/]+)(/.*)?$",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": true
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": { "url": "/bicicleta-pecas/$1/$2" },
+      "match_type": "url",
+      "title": "Regex category->peca",
+      "hits": 0,
+      "regex": true,
+      "group_id": 1,
+      "position": 2,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 4,
+      "url": "/bike/pneu/(.+)",
+      "match_url": "^/bike/pneu/([^/]+)(/.*)?$",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": true
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": { "url": "/bicicleta-pecas/pneu/$1/$2" },
+      "match_type": "url",
+      "title": "Regex category->peca->pneu",
+      "hits": 0,
+      "regex": true,
+      "group_id": 1,
+      "position": 3,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 5,
+      "url": "/pneu/",
+      "match_url": "/pneu/",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": true,
+          "flag_trailing": true,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/bicicleta-pecas/pneu/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 9,
+      "regex": false,
+      "group_id": 1,
+      "position": 4,
+      "last_access": "2 de fevereiro de 2026",
+      "enabled": true
+    },
+    {
+      "id": 6,
+      "url": "/especificacoes/(.+)",
+      "match_url": "^/especificacoes/([^/]+)(/.*)?$",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": true
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": { "url": "/bicicleta-pecas/$1/$2" },
+      "match_type": "url",
+      "title": "Regex especificacoes->pecas",
+      "hits": 0,
+      "regex": true,
+      "group_id": 1,
+      "position": 5,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 7,
+      "url": "/marca-modelo/(.+)",
+      "match_url": "^/marca-modelo/([^/]+)(/.*)?$",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": false,
+          "flag_trailing": false,
+          "flag_regex": true
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": { "url": "/bicicleta-marca-modelo/$1/$2" },
+      "match_type": "url",
+      "title": "Regex marca-modelo->marca-modelo",
+      "hits": 0,
+      "regex": true,
+      "group_id": 1,
+      "position": 6,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 8,
+      "url": "/shimano/",
+      "match_url": "/shimano/",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": true,
+          "flag_trailing": true,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/bicicleta-marca-modelo/shimano/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 26,
+      "regex": false,
+      "group_id": 1,
+      "position": 7,
+      "last_access": "21 de fevereiro de 2026",
+      "enabled": true
+    },
+    {
+      "id": 9,
+      "url": "/bicicleta-infantil-track-tk3-dino-aro-16/",
+      "match_url": "/bicicleta-infantil-track-tk3-dino-aro-16/",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": true,
+          "flag_trailing": true,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/bicicleta-infantil-tk3-track-dino-aro-16/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 448,
+      "regex": false,
+      "group_id": 1,
+      "position": 8,
+      "last_access": "22 de fevereiro de 2026",
+      "enabled": true
+    },
+    {
+      "id": 10,
+      "url": "/bicicleta-downhill-kode-active-new-aro-27-5/",
+      "match_url": "/bicicleta-downhill-kode-active-new-aro-27-5/",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": true,
+          "flag_trailing": true,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/bicicleta-moutain-bike-mtb-kode-active-new-aro-27-5/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 408,
+      "regex": false,
+      "group_id": 1,
+      "position": 9,
+      "last_access": "22 de fevereiro de 2026",
+      "enabled": true
+    },
+    {
+      "id": 11,
+      "url": "/bicicleta-urbana-caloi-10-aro-27/",
+      "match_url": "/bicicleta-urbana-caloi-10-aro-27/",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": true,
+          "flag_trailing": true,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/bicicleta-urbana-caloi-10-aro-700/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 33,
+      "regex": false,
+      "group_id": 1,
+      "position": 10,
+      "last_access": "21 de fevereiro de 2026",
+      "enabled": true
+    },
+    {
+      "id": 12,
+      "url": "/bicicleta-speed-sense-criterium-comp-aro-28/",
+      "match_url": "/bicicleta-speed-sense-criterium-comp-aro-28/",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": true,
+          "flag_trailing": true,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/bicicleta-speed-sense-criterium-comp-aro-700/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 24,
+      "regex": false,
+      "group_id": 1,
+      "position": 11,
+      "last_access": "20 de fevereiro de 2026",
+      "enabled": true
+    },
+    {
+      "id": 13,
+      "url": "/bicicleta-urbana-absolute-nero-aro-28/",
+      "match_url": "/bicicleta-urbana-absolute-nero-aro-28/",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": true,
+          "flag_trailing": true,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/bicicleta-urbana-absolute-nero-aro-26/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 22,
+      "regex": false,
+      "group_id": 1,
+      "position": 12,
+      "last_access": "20 de fevereiro de 2026",
+      "enabled": true
+    },
+    {
+      "id": 14,
+      "url": "/bicicleta-urbana-monark-monareta-aro-27/",
+      "match_url": "/bicicleta-urbana-monark-monareta-aro-27/",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": true,
+          "flag_trailing": true,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/bicicleta-urbana-monark-monareta-aro-26/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 12,
+      "regex": false,
+      "group_id": 1,
+      "position": 13,
+      "last_access": "13 de fevereiro de 2026",
+      "enabled": true
+    },
+    {
+      "id": 15,
+      "url": "/bicicleta-speed-specialized-vita-aro-27/",
+      "match_url": "/bicicleta-speed-specialized-vita-aro-27/",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": true,
+          "flag_trailing": true,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/bicicleta-speed-specialized-vita-aro-700/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 9,
+      "regex": false,
+      "group_id": 1,
+      "position": 14,
+      "last_access": "17 de fevereiro de 2026",
+      "enabled": true
+    },
+    {
+      "id": 16,
+      "url": "/bicicleta-mountain-bike-mtb-caloi-400-aro-29/",
+      "match_url": "/bicicleta-mountain-bike-mtb-caloi-400-aro-29/",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": true,
+          "flag_trailing": true,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/bicicleta-urbana-caloi-400-aro-29/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 9,
+      "regex": false,
+      "group_id": 1,
+      "position": 15,
+      "last_access": "26 de julho de 2025",
+      "enabled": true
+    },
+    {
+      "id": 17,
+      "url": "/bicicleta-gavel-sense-versa-aro-700/",
+      "match_url": "/bicicleta-gavel-sense-versa-aro-700/",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": true,
+          "flag_trailing": true,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/bicicleta-gravel-sense-versa-aro-700/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 6,
+      "regex": false,
+      "group_id": 1,
+      "position": 16,
+      "last_access": "21 de fevereiro de 2026",
+      "enabled": true
+    },
+    {
+      "id": 18,
+      "url": "/bicicleta-endorphine-freio/",
+      "match_url": "/bicicleta-endorphine-freio/",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": true,
+          "flag_trailing": true,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/bicicleta-urbana-endorphine-aro-24/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 3,
+      "regex": false,
+      "group_id": 1,
+      "position": 17,
+      "last_access": "9 de dezembro de 2024",
+      "enabled": true
+    },
+    {
+      "id": 19,
+      "url": "/bicicleta-eletrica-cannondale-adventure-aro-16/",
+      "match_url": "/bicicleta-eletrica-cannondale-adventure-aro-16/",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": true,
+          "flag_trailing": true,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/bicicleta-eletrica-mormaii-adventure-aro-16/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 18,
+      "last_access": "-",
+      "enabled": true
+    },
+    {
+      "id": 20,
+      "url": "/bicicleta-bmx-caloi-velox-aro-29/",
+      "match_url": "/bicicleta-bmx-caloi-velox-aro-29/",
+      "match_data": {
+        "source": {
+          "flag_query": "exact",
+          "flag_case": true,
+          "flag_trailing": true,
+          "flag_regex": false
+        }
+      },
+      "action_code": 301,
+      "action_type": "url",
+      "action_data": {
+        "url": "/bicicleta-urbana-caloi-velox-aro-29/"
+      },
+      "match_type": "url",
+      "title": "",
+      "hits": 0,
+      "regex": false,
+      "group_id": 1,
+      "position": 19,
+      "last_access": "-",
+      "enabled": true
+    }
+  ]
+}

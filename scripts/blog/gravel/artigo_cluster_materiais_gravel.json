@@ -1,0 +1,27 @@
+[
+  {
+    "tag": "Quadros Gravel",
+    "blog": [
+      {
+        "titulo": "Quadro alumínio carbono ou aço na gravel segunda mão: cara de passeio, cara de trampo e medo de segunda vida batida",
+        "descricao": "Alumínio, carbono e aço em quadros gravel: prós, contras e inspeção no usado.",
+        "outline 1": "Alumínio: O Custo-Benefício Imbatível",
+        "outline 2": "Fibra de Carbono: A Máquina de Performance",
+        "outline 3": "Aço (Cromo-Molibdênio): A Alma da Aventura",
+        "outline 4": "Conclusão material do quadro na gravel usada",
+        "taxonomias": [
+          {
+            "id": 10,
+            "slug": "gravel",
+            "tipo": "modalidade"
+          },
+          {
+            "id": 2,
+            "slug": "quadro",
+            "tipo": "componente"
+          }
+        ]
+      }
+    ]
+  }
+]

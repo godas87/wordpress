@@ -1,0 +1,23 @@
+[
+  {
+    "tag": "Infantil Usada",
+    "blog": [
+      {
+        "titulo": "Bike infantil seminova que não vira peso morto: altura freio e ergonomia em volta honesta só no quarteirão mesmo",
+        "descricao": "Checklist para bike infantil usada: peso, freios, transmissão e pontos de contato.",
+        "outline 1": "O Fator Mais Importante: O Peso",
+        "outline 2": "Inspeção de Segurança: Freios",
+        "outline 3": "Transmissão e Movimento Central",
+        "outline 4": "Rodas e Pneus",
+        "outline 5": "Pontos de Contato e Ajustes",
+        "taxonomias": [
+          {
+            "id": 13369,
+            "slug": "infantil",
+            "tipo": "modalidade"
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "titulo": "Mountain bike segunda mão no Brasil onde modalidade redefine quadro e segundo dono conta dor típica no bolso rápido assim",
+    "descricao_seo": "Mountain bike no Brasil: modalidades (XC, trail, enduro, DH), hardtail versus full, materiais de quadro e checklist de compra segura no usado.",
+    "tipo_artigo": "Pilar",
+    "taxonomias": [
+      {
+        "id": 13371,
+        "slug": "mountain-bike-mtb",
+        "tipo": "modalidade"
+      },
+      {
+        "id": 12170,
+        "slug": "bicicleta",
+        "tipo": "category"
+      }
+    ],
+    "links_internos_sugeridos": [
+      {
+        "ancora": "aro 29",
+        "url": "/blog/aro-29-e-para-mim-te-ajudamos-a-fazer-a-melhor-escolha/"
+      },
+      {
+        "ancora": "aro 27.5 ou aro 29",
+        "url": "/blog/aro-275-ou-aro-29-qual-devo-escolher/"
+      },
+      {
+        "ancora": "freios Shimano",
+        "url": "/blog/freios-shimano-desempenho-superior-para-sua-bicicleta/"
+      },
+      {
+        "ancora": "comprar bicicleta usada",
+        "url": "/blog/bicicleta-usada-guia-completo-para-comprar-com-seguranca/"
+      }
+    ]
+  }
+]

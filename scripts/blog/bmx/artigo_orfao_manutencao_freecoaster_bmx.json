@@ -1,0 +1,29 @@
+[
+  {
+    "tag": "BMX Usada",
+    "blog": [
+      {
+        "titulo": "Cubo freecoaster falhando na manobra antes de trocar cubo inteiro: slack, sujeira e lubrificação fechando conta sem drama",
+        "descricao": "Passo a passo para desmontar, limpar, ajustar o slack e lubrificar o freecoaster da BMX usada, evitando falhas nas manobras.",
+        "outline 1": "Ferramentas Necessárias",
+        "outline 2": "Passo 1: Desmontagem e Acesso ao Coração do Cubo",
+        "outline 3": "Passo 2: Limpeza Extrema",
+        "outline 4": "Passo 3: Ajuste do Slack (Folga)",
+        "outline 5": "Passo 4: Lubrificação (O Segredo do Sucesso)",
+        "outline 6": "Passo 5: Remontagem",
+        "taxonomias": [
+          {
+            "id": 13359,
+            "slug": "bmx",
+            "tipo": "modalidade"
+          },
+          {
+            "id": 28,
+            "slug": "rodas",
+            "tipo": "componente"
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "tag": "Dobrável Usada",
+    "blog": [
+      {
+        "titulo": "Dobrável no metrô e no trem: pequenas regras de vizinhança que salvam passeio e reputação no vagão inteiro",
+        "descricao": "Dicas e etiqueta para levar o dobrável no transporte público sem sujeira nem transtorno aos outros passageiros.",
+        "outline 1": "A Regra de Ouro: Dobre ANTES da Catraca",
+        "outline 2": "Como Carregar nas Escadas",
+        "outline 3": "O \"Modo Carrinho\" (Trolley Mode)",
+        "outline 4": "Etiqueta Dentro do Vagão",
+        "outline 5": "O Desembarque",
+        "taxonomias": [
+          {
+            "id": 13363,
+            "slug": "dobravel",
+            "tipo": "modalidade"
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "tag": "Gravel Usada",
+    "blog": [
+      {
+        "titulo": "Carbono contra alumínio na gravel seminova: conforto cobrando ingresso e bolso tentando manter pé no chão na terra",
+        "descricao": "Carbono e alumínio no gravel: conforto, peso e preço frente à robustez do alumínio no mercado de usadas.",
+        "outline 1": "O Quadro de Alumínio: O Cavalo de Batalha",
+        "outline 2": "O Quadro de Fibra de Carbono: O Tapete Voador",
+        "outline 3": "O Fator \"Pneu\": O Grande Equalizador",
+        "outline 4": "O Dilema na Compra de Usadas",
+        "taxonomias": [
+          {
+            "id": 13368,
+            "slug": "gravel",
+            "tipo": "modalidade"
+          },
+          {
+            "id": 2,
+            "slug": "quadro",
+            "tipo": "componente"
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "tag": "Pneus Speed",
+    "blog": [
+      {
+        "titulo": "Pressão bem alta truque velho na speed largura nova abraçando asfalto com rolagem confortável de verdade",
+        "descricao": "Pneus mais largos (por exemplo 28c) e pressões moderadas podem ganhar rolagem e conforto na estrada. Guia de largura e calibragem.",
+        "outline 1": "A Revolução da Largura: 25c vs. 28c vs. 32c",
+        "outline 2": "A Pressão Correta: Esqueça o que está escrito na lateral",
+        "outline 3": "Calculadoras de Pressão",
+        "outline 4": "Veredito",
+        "taxonomias": [
+          {
+            "id": 14,
+            "slug": "speed",
+            "tipo": "modalidade"
+          },
+          {
+            "id": 17,
+            "slug": "pneu",
+            "tipo": "componente"
+          }
+        ]
+      }
+    ]
+  }
+]

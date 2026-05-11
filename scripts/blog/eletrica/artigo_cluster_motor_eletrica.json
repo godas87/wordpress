@@ -1,0 +1,32 @@
+[
+  {
+    "tag": "Motor e-Bike",
+    "blog": [
+      {
+        "titulo": "Motor central contra cubo na e-bike usada: sensação no pedal e desgaste contando história bem escondida",
+        "descricao": "Motores de cubo e mid-drive: como cada um entrega torque e o que checar ao comprar e-bike usada.",
+        "outline 1": "Motor de Cubo (Hub Motor): Vantagens e Desvantagens",
+        "outline 2": "Motor Central (Mid-Drive): Vantagens e Desvantagens",
+        "outline 3": "O Que Verificar ao Comprar Usada",
+        "outline 4": "Conclusão o que pesar ao fechar na usada",
+        "taxonomias": [
+          {
+            "id": 8,
+            "slug": "eletrica",
+            "tipo": "modalidade"
+          },
+          {
+            "id": 16,
+            "slug": "roda",
+            "tipo": "componente"
+          },
+          {
+            "id": 26,
+            "slug": "quadro",
+            "tipo": "componente"
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "tag": "Elétrica Usada",
+    "blog": [
+      {
+        "titulo": "Sensor de cadência versus torque na e-bike: ajuda educada ou empurrão forte demais sem pedir licença no corpo",
+        "descricao": "Sensores de cadência e de torque mudam a entrega de potência. Perfil de pedal e sensação em cada sistema.",
+        "outline 1": "O Sensor de Cadência (O Sistema \"Liga/Desliga\")",
+        "outline 2": "O Sensor de Torque (A Sensação Biônica)",
+        "outline 3": "O Dilema na Compra de Usadas",
+        "taxonomias": [
+          {
+            "id": 13365,
+            "slug": "eletrica",
+            "tipo": "modalidade"
+          },
+          {
+            "id": 26,
+            "slug": "quadro",
+            "tipo": "componente"
+          }
+        ]
+      }
+    ]
+  }
+]

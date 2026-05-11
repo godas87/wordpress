@@ -1,0 +1,27 @@
+[
+  {
+    "tag": "Guidão Gravel",
+    "blog": [
+      {
+        "titulo": "Guidão flare meio torto na gravel onde ângulo importa quando cascalho puxa linha pra fora sem pedir desculpa mesmo",
+        "descricao": "Guidão flare no gravel: função, largura e ângulo, com olho no usado.",
+        "outline 1": "O Que é o 'Flare'?",
+        "outline 2": "Por Que Abrir as Pontas? As 3 Vantagens do Flare",
+        "outline 3": "Os Diferentes Ângulos de Flare",
+        "outline 4": "O Que Verificar ao Comprar Usada",
+        "taxonomias": [
+          {
+            "id": 10,
+            "slug": "gravel",
+            "tipo": "modalidade"
+          },
+          {
+            "id": 4,
+            "slug": "guidao",
+            "tipo": "componente"
+          }
+        ]
+      }
+    ]
+  }
+]

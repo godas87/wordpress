@@ -1,0 +1,31 @@
+[
+  {
+    "tag": "Tubeless Gravel",
+    "blog": [
+      {
+        "titulo": "Tubeless na gravel sem drama antes do passeio longo fita selante e teste rápido veda sem te deixar na mão",
+        "descricao": "Converter rodas gravel para tubeless: materiais, passo a passo resumido e manutenção do selante.",
+        "outline 1": "O Que Você Vai Precisar (Checklist)",
+        "outline 2": "Passo a Passo da Conversão",
+        "outline 3": "Manutenção do Sistema",
+        "taxonomias": [
+          {
+            "id": 10,
+            "slug": "gravel",
+            "tipo": "modalidade"
+          },
+          {
+            "id": 16,
+            "slug": "roda",
+            "tipo": "componente"
+          },
+          {
+            "id": 17,
+            "slug": "pneu",
+            "tipo": "componente"
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "tag": "Downhill Usada",
+    "blog": [
+      {
+        "titulo": "Suspensão de DH batendo demais ou afundando estranho: rebound e compressão no feeling que a mão percebe rápido mesmo",
+        "descricao": "SAG, rebound e compressão (alta e baixa velocidade) na suspensão de DH: ajustes para extrair performance da bike usada.",
+        "outline 1": "Passo 1: O Ponto de Partida (SAG)",
+        "outline 2": "Passo 2: Entendendo o Retorno (Rebound)",
+        "outline 3": "Passo 3: Entendendo a Compressão (Compression)",
+        "outline 4": "A Regra de Ouro do Setup",
+        "taxonomias": [
+          {
+            "id": 7,
+            "slug": "downhill",
+            "tipo": "modalidade"
+          },
+          {
+            "id": 29,
+            "slug": "suspensao-dianteira",
+            "tipo": "componente"
+          },
+          {
+            "id": 30,
+            "slug": "suspensao-traseira",
+            "tipo": "componente"
+          }
+        ]
+      }
+    ]
+  }
+]

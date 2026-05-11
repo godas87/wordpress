@@ -1,0 +1,27 @@
+[
+  {
+    "tag": "Bicicleta Speed Usada",
+    "blog": [
+      {
+        "titulo": "Speed segunda mão bonita demais na vitrine onde quadro grupo e desgaste escondido aparecem antes da caneta assinar",
+        "descricao": "Comprar speed usada: inspeção de carbono, estado do grupo e encaixe do modelo ao seu treino.",
+        "outline 1": "Entenda os Perfis de Bicicleta Speed (Aero, Climbing, Endurance)",
+        "outline 2": "O Checklist de Inspeção da Speed Usada (Quadro, Transmissão, Rodas, Freios)",
+        "outline 3": "Tamanho do Quadro: O Detalhe que Não Pode Ser Ignorado",
+        "outline 4": "Onde Comprar sua Speed Usada com Segurança (XXXXXX)",
+        "taxonomias": [
+          {
+            "id": 14,
+            "slug": "speed",
+            "tipo": "modalidade"
+          },
+          {
+            "id": 1,
+            "slug": "bicicleta",
+            "tipo": "category"
+          }
+        ]
+      }
+    ]
+  }
+]

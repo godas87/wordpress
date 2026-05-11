@@ -1,0 +1,27 @@
+[
+  {
+    "tag": "BMX Usada",
+    "blog": [
+      {
+        "titulo": "Quadro Hi-Ten versus Chromoly na BMX segunda mão: onde aguenta forte e onde já cansa rápido no uso pesado",
+        "descricao": "Numa BMX usada, o quadro pesa na decisão. Comparativo entre aço Hi-Ten e Chromoly 4130 e pontos de inspeção.",
+        "outline 1": "Aço Hi-Ten (High Tensile Steel)",
+        "outline 2": "Aço Chromoly (4130 CrMo)",
+        "outline 3": "A Armadilha do \"Triângulo Principal\" (Tri-Moly)",
+        "outline 4": "O Dilema na Compra de Usadas",
+        "taxonomias": [
+          {
+            "id": 13359,
+            "slug": "bmx",
+            "tipo": "modalidade"
+          },
+          {
+            "id": 26,
+            "slug": "quadro",
+            "tipo": "componente"
+          }
+        ]
+      }
+    ]
+  }
+]

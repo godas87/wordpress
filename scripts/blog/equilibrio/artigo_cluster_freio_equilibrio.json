@@ -1,0 +1,26 @@
+[
+  {
+    "tag": "Equilíbrio Usada",
+    "blog": [
+      {
+        "titulo": "Balance bike com ou sem freio manual: segurança de verdade sem travar a confiança da criança no primeiro medo",
+        "descricao": "A bike de equilíbrio precisa de freio manual? Momento para introduzir e como isso ajuda na passagem para o pedal.",
+        "outline 1": "A Natureza da Balance Bike: Freando com os Pés",
+        "outline 2": "Quando o Freio Manual se Torna Útil?",
+        "outline 3": "O Dilema na Compra de Usadas",
+        "taxonomias": [
+          {
+            "id": 13366,
+            "slug": "equilibrio",
+            "tipo": "modalidade"
+          },
+          {
+            "id": 24,
+            "slug": "freio",
+            "tipo": "componente"
+          }
+        ]
+      }
+    ]
+  }
+]

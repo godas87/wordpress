@@ -1,0 +1,27 @@
+[
+  {
+    "tag": "BMX Usada",
+    "blog": [
+      {
+        "titulo": "BMX roda 20 ou cruiser 24 na usada: por que esse tamanho redefine manobra, pista e passeio no dia a dia",
+        "descricao": "BMX aro 20 e Cruiser aro 24: diferenças de geometria e uso. Como alinhar o tamanho da roda a manobras, pista ou cidade.",
+        "outline 1": "A Clássica BMX Aro 20\"",
+        "outline 2": "A BMX Cruiser Aro 24\"",
+        "outline 3": "O Dilema na Compra de Usadas",
+        "outline 4": "Veredito",
+        "taxonomias": [
+          {
+            "id": 13359,
+            "slug": "bmx",
+            "tipo": "modalidade"
+          },
+          {
+            "id": 28,
+            "slug": "rodas",
+            "tipo": "componente"
+          }
+        ]
+      }
+    ]
+  }
+]

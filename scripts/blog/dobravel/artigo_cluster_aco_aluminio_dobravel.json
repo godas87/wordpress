@@ -1,0 +1,27 @@
+[
+  {
+    "tag": "Dobrável Usada",
+    "blog": [
+      {
+        "titulo": "Aço contra alumínio na dobrável usada: conforto aparece, bolso chora e cada subida conta o resto honesto",
+        "descricao": "Aço ou alumínio no dobrável: conforto, peso e desgaste no dia a dia. Comparativo prático para decidir com calma.",
+        "outline 1": "O Quadro de Alumínio (A Escolha Moderna)",
+        "outline 2": "O Quadro de Aço (A Escolha Clássica)",
+        "outline 3": "O Dilema na Compra de Usadas",
+        "outline 4": "Veredito",
+        "taxonomias": [
+          {
+            "id": 13363,
+            "slug": "dobravel",
+            "tipo": "modalidade"
+          },
+          {
+            "id": 26,
+            "slug": "quadro",
+            "tipo": "componente"
+          }
+        ]
+      }
+    ]
+  }
+]

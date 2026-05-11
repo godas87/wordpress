@@ -1,0 +1,27 @@
+[
+  {
+    "tag": "Rodas Speed",
+    "blog": [
+      {
+        "titulo": "Carbono contra alumínio nas rodas na speed segunda mão peso some risco aumenta história conta no PIX",
+        "descricao": "Rodas de carbono ou alumínio na speed: quando o investimento compensa e o que inspecionar no par usado.",
+        "outline 1": "Rodas de Alumínio: O Padrão Confiável",
+        "outline 2": "Rodas de Carbono: Performance Pura",
+        "outline 3": "O Que Verificar ao Comprar Rodas Usadas",
+        "outline 4": "Veredito",
+        "taxonomias": [
+          {
+            "id": 14,
+            "slug": "speed",
+            "tipo": "modalidade"
+          },
+          {
+            "id": 20,
+            "slug": "roda",
+            "tipo": "componente"
+          }
+        ]
+      }
+    ]
+  }
+]

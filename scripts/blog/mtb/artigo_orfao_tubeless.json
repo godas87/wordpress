@@ -1,0 +1,46 @@
+[
+  {
+    "tipo": "orfao",
+    "cluster": "mountain-bike-mtb",
+    "titulo": "Tubeless na MTB em casa fita até estouro seco firme sem você perder fim de semana inteiro refazendo",
+    "slug": "como-converter-mtb-tubeless-passo-a-passo",
+    "descricao_seo": "Tubeless na mountain bike em sete etapas: materiais, quantidade de selante e manutenção.",
+    "imagem_capa": "capa_tubeless_mtb.jpg",
+    "taxonomias": [
+      {
+        "tipo": "modalidade",
+        "id": 3,
+        "slug": "mountain-bike-mtb",
+        "nome": "Mountain Bike (MTB)"
+      },
+      {
+        "tipo": "componente",
+        "id": 119,
+        "slug": "pneu-tubeless-mtb",
+        "nome": "Tubeless MTB"
+      },
+      {
+        "tipo": "componente",
+        "id": 120,
+        "slug": "selante",
+        "nome": "Selante"
+      },
+      {
+        "tipo": "componente",
+        "id": 97,
+        "slug": "roda",
+        "nome": "Roda"
+      }
+    ],
+    "links_internos": [
+      {
+        "ancora": "Guia Definitivo da MTB Usada",
+        "url": "/blog/guia-definitivo-mountain-bike-mtb-usada/"
+      },
+      {
+        "ancora": "5 dicas para escolher o melhor pneu para sua bicicleta aro 29",
+        "url": "/blog/5-dicas-para-escolher-o-melhor-pneu-para-sua-bicicleta-aro-29-2/"
+      }
+    ]
+  }
+]

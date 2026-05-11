@@ -1,0 +1,37 @@
+[
+  {
+    "tag": "Downhill Usada",
+    "blog": [
+      {
+        "titulo": "Downhill seminovo com história forte: quadro, freio e coroa relatando se já viu abuso demais ou se ainda tem vida",
+        "descricao": "Checklist para comprar bike de Downhill usada com segurança: quadro, suspensão double crown e freios de quatro pistões.",
+        "outline 1": "Entendendo a Máquina de Downhill",
+        "outline 2": "O Checklist de Inspeção do Quadro",
+        "outline 3": "Inspeção das Suspensões (O Coração do DH)",
+        "outline 4": "Rodas, Pneus e Freios",
+        "taxonomias": [
+          {
+            "id": 7,
+            "slug": "downhill",
+            "tipo": "modalidade"
+          },
+          {
+            "id": 26,
+            "slug": "quadro",
+            "tipo": "componente"
+          },
+          {
+            "id": 29,
+            "slug": "suspensao-dianteira",
+            "tipo": "componente"
+          },
+          {
+            "id": 30,
+            "slug": "suspensao-traseira",
+            "tipo": "componente"
+          }
+        ]
+      }
+    ]
+  }
+]

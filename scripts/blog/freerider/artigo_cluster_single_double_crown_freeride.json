@@ -1,0 +1,26 @@
+[
+  {
+    "tag": "Freeride Usada",
+    "blog": [
+      {
+        "titulo": "Garfo simples versus coroa dupla no freeride: rigidez acalma quando a frente treme antes mesmo do lip aparecer",
+        "descricao": "Suspensão de coroa simples ou dupla no freeride: rigidez, agilidade e o que buscar na usada conforme o estilo.",
+        "outline 1": "O Garfo Double Crown (Coroa Dupla)",
+        "outline 2": "O Garfo Single Crown (Coroa Simples)",
+        "outline 3": "O Dilema na Compra de Usadas",
+        "taxonomias": [
+          {
+            "id": 13367,
+            "slug": "freerider",
+            "tipo": "modalidade"
+          },
+          {
+            "id": 25,
+            "slug": "garfo",
+            "tipo": "componente"
+          }
+        ]
+      }
+    ]
+  }
+]

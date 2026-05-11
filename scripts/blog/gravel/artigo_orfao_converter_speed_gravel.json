@@ -1,0 +1,22 @@
+[
+  {
+    "tag": "Gravel Usada",
+    "blog": [
+      {
+        "titulo": "Da speed reta pra gravel de fim de semana onde folga pra pneu conta mais que foto bonita no feed parado",
+        "descricao": "Transformar uma speed em gravel: folga para pneu, escolha de borrachas e upgrades que mais valem a pena.",
+        "outline 1": "O Fator Limitante: Tire Clearance (Espaço para Pneus)",
+        "outline 2": "O Problema dos Freios",
+        "outline 3": "Upgrades Essenciais para a Conversão",
+        "outline 4": "Conclusão",
+        "taxonomias": [
+          {
+            "id": 13368,
+            "slug": "gravel",
+            "tipo": "modalidade"
+          }
+        ]
+      }
+    ]
+  }
+]

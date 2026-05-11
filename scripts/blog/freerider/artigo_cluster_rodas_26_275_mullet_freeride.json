@@ -1,0 +1,27 @@
+[
+  {
+    "tag": "Freeride Usada",
+    "blog": [
+      {
+        "titulo": "Por que o aro 26 ainda aparece no freeride e onde mullet com 27,5 na frente salva salto torto na hora H",
+        "descricao": "Aro 26 no freeride e setup mullet (27,5 na frente, 26 atrás): por que a combinação ainda faz sentido em saltos e manobras.",
+        "outline 1": "A Resistência do Aro 26\" no Freeride",
+        "outline 2": "O Padrão Atual: Aro 27.5\"",
+        "outline 3": "O Setup \"Mullet\" (27.5\" na Frente, 26\" Atrás)",
+        "outline 4": "O Dilema na Compra de Usadas",
+        "taxonomias": [
+          {
+            "id": 13367,
+            "slug": "freerider",
+            "tipo": "modalidade"
+          },
+          {
+            "id": 28,
+            "slug": "roda",
+            "tipo": "componente"
+          }
+        ]
+      }
+    ]
+  }
+]

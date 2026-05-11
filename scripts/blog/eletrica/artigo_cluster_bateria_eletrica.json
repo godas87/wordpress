@@ -1,0 +1,27 @@
+[
+  {
+    "tag": "Bateria e-Bike",
+    "blog": [
+      {
+        "titulo": "Bateria embutida versus bateria de fora na e-bike segunda mão: rotina de recarga, furto e oficina entrando na conta",
+        "descricao": "Baterias integradas e externas em e-bikes: praticidade, segurança e custo de manutenção no mercado de usadas.",
+        "outline 1": "Bateria Externa (Montada no Quadro ou Bagageiro)",
+        "outline 2": "Bateria Integrada (In-Tube)",
+        "outline 3": "O Que Verificar ao Comprar Usada",
+        "outline 4": "Conclusão bateria integrada ou externa na usada",
+        "taxonomias": [
+          {
+            "id": 8,
+            "slug": "eletrica",
+            "tipo": "modalidade"
+          },
+          {
+            "id": 26,
+            "slug": "quadro",
+            "tipo": "componente"
+          }
+        ]
+      }
+    ]
+  }
+]

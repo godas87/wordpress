@@ -1,0 +1,32 @@
+[
+  {
+    "tag": "e-MTB vs e-Urbana",
+    "blog": [
+      {
+        "titulo": "E-MTB fingindo bike urbana no asfalto: geometria cansando antes até a autonomia jurar que bateria aguenta até o fim",
+        "descricao": "Usar e-MTB no asfalto frente a uma e-bike urbana: geometria, pneus e autonomia no dia a dia.",
+        "outline 1": "A e-Bike Urbana (Commuter)",
+        "outline 2": "A e-MTB (Mountain Bike Elétrica)",
+        "outline 3": "O Custo de Usar uma e-MTB na Cidade",
+        "outline 4": "O Que Verificar ao Comprar Usada",
+        "taxonomias": [
+          {
+            "id": 8,
+            "slug": "eletrica",
+            "tipo": "modalidade"
+          },
+          {
+            "id": 11,
+            "slug": "mountain-bike-mtb",
+            "tipo": "modalidade"
+          },
+          {
+            "id": 13,
+            "slug": "urbana",
+            "tipo": "modalidade"
+          }
+        ]
+      }
+    ]
+  }
+]

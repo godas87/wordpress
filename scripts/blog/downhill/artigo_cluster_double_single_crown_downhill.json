@@ -1,0 +1,27 @@
+[
+  {
+    "tag": "Downhill Usada",
+    "blog": [
+      {
+        "titulo": "Double crown contra single crown no DH usada: frente rígida demais pro traço ou solta demais pro medo aparecer",
+        "descricao": "Garfos double crown e single crown para DH e Enduro: prós, contras e compra de suspensão usada com segurança.",
+        "outline 1": "O Que é um Garfo Double Crown?",
+        "outline 2": "O Que é um Garfo Single Crown?",
+        "outline 3": "O Dilema na Compra de Usadas",
+        "outline 4": "Conclusão garfo na bike usada de DH",
+        "taxonomias": [
+          {
+            "id": 7,
+            "slug": "downhill",
+            "tipo": "modalidade"
+          },
+          {
+            "id": 29,
+            "slug": "suspensao-dianteira",
+            "tipo": "componente"
+          }
+        ]
+      }
+    ]
+  }
+]

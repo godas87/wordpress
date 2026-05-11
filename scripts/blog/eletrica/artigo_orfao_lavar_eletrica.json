@@ -1,0 +1,22 @@
+[
+  {
+    "tag": "Lavar e-Bike",
+    "blog": [
+      {
+        "titulo": "Água perto de motor e bateria: lavar e-bike sem transformar passeio em chamado técnico cara demais depois",
+        "descricao": "Lavar a bicicleta elétrica sem arriscar motor e bateria: sequência segura para quem acabou de comprar uma e-bike usada.",
+        "outline 1": "O Que Você NUNCA Deve Fazer",
+        "outline 2": "Passo a Passo: Como Lavar sua e-Bike",
+        "outline 3": "Limpeza dos Contatos Elétricos",
+        "outline 4": "Resumo para Compradores de Usadas",
+        "taxonomias": [
+          {
+            "id": 8,
+            "slug": "eletrica",
+            "tipo": "modalidade"
+          }
+        ]
+      }
+    ]
+  }
+]

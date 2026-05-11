@@ -1,0 +1,531 @@
+{
+  "cidade": [
+      {
+          "nome": "BA",
+          "filhos": [
+              {
+                  "nome": "Bom Jesus da Lapa"
+              },
+              {
+                  "nome": "Entre Rios"
+              },
+              {
+                  "nome": "Guanambi"
+              },
+              {
+                  "nome": "Lauro de Freitas"
+              },
+              {
+                  "nome": "Paulo Afonso"
+              },
+              {
+                  "nome": "Salvador"
+              }
+          ]
+      },
+      {
+          "nome": "CE",
+          "filhos": [
+              {
+                  "nome": "Fortaleza"
+              }
+          ]
+      },
+      {
+          "nome": "DF",
+          "filhos": [
+              {
+                  "nome": "Brasília"
+              }
+          ]
+      },
+      {
+          "nome": "ES",
+          "filhos": [
+              {
+                  "nome": "Cariacica"
+              },
+              {
+                  "nome": "Colatina"
+              },
+              {
+                  "nome": "Nova Venécia"
+              },
+              {
+                  "nome": "Serra"
+              },
+              {
+                  "nome": "Vitória"
+              }
+          ]
+      },
+      {
+          "nome": "GO",
+          "filhos": [
+              {
+                  "nome": "Aparecida de Goiânia"
+              },
+              {
+                  "nome": "Cachoeira Alta"
+              },
+              {
+                  "nome": "Goiânia"
+              },
+              {
+                  "nome": "Valparaíso de Goiás"
+              }
+          ]
+      },
+      {
+          "nome": "MG",
+          "filhos": [
+              {
+                  "nome": "Arinos"
+              },
+              {
+                  "nome": "Bambuí"
+              },
+              {
+                  "nome": "Belo Horizonte"
+              },
+              {
+                  "nome": "Betim"
+              },
+              {
+                  "nome": "Conceição do Mato Dentro"
+              },
+              {
+                  "nome": "Contagem"
+              },
+              {
+                  "nome": "Esmeraldas"
+              },
+              {
+                  "nome": "Ibirité"
+              },
+              {
+                  "nome": "Igarapé"
+              },
+              {
+                  "nome": "Itabira"
+              },
+              {
+                  "nome": "Itabirito"
+              },
+              {
+                  "nome": "Itaúna"
+              },
+              {
+                  "nome": "João Monlevade"
+              },
+              {
+                  "nome": "Juiz de Fora"
+              },
+              {
+                  "nome": "Lagoa Santa"
+              },
+              {
+                  "nome": "Leopoldina"
+              },
+              {
+                  "nome": "Nova Lima"
+              },
+              {
+                  "nome": "Ouro Branco"
+              },
+              {
+                  "nome": "Ouro Preto"
+              },
+              {
+                  "nome": "Pará de Minas"
+              },
+              {
+                  "nome": "Passos"
+              },
+              {
+                  "nome": "Patos de Minas"
+              },
+              {
+                  "nome": "Pedro Leopoldo"
+              },
+              {
+                  "nome": "Poços de Caldas"
+              },
+              {
+                  "nome": "Sabará"
+              },
+              {
+                  "nome": "Santa Luzia"
+              },
+              {
+                  "nome": "Santo Antônio do Amparo"
+              },
+              {
+                  "nome": "São Gonçalo do Rio Abaixo"
+              },
+              {
+                  "nome": "São João del Rei"
+              },
+              {
+                  "nome": "Sete Lagoas"
+              },
+              {
+                  "nome": "Teófilo Otoni"
+              },
+              {
+                  "nome": "Uberlândia"
+              },
+              {
+                  "nome": "Vespasiano"
+              }
+          ]
+      },
+      {
+          "nome": "MS",
+          "filhos": [
+              {
+                  "nome": "Campo Grande"
+              }
+          ]
+      },
+      {
+          "nome": "PA",
+          "filhos": [
+              {
+                  "nome": "Belém"
+              },
+              {
+                  "nome": "Canaã dos Carajás"
+              }
+          ]
+      },
+      {
+          "nome": "PE",
+          "filhos": [
+              {
+                  "nome": "Panelas"
+              },
+              {
+                  "nome": "Recife"
+              }
+          ]
+      },
+      {
+          "nome": "PI",
+          "filhos": [
+              {
+                  "nome": "Parnaíba"
+              },
+              {
+                  "nome": "Picos"
+              },
+              {
+                  "nome": "Teresina"
+              }
+          ]
+      },
+      {
+          "nome": "PR",
+          "filhos": [
+              {
+                  "nome": "Campo Largo"
+              },
+              {
+                  "nome": "Cascavel"
+              },
+              {
+                  "nome": "Curitiba"
+              },
+              {
+                  "nome": "Fazenda Rio Grande"
+              },
+              {
+                  "nome": "Floresta"
+              },
+              {
+                  "nome": "Itaperuçu"
+              },
+              {
+                  "nome": "Maringá"
+              },
+              {
+                  "nome": "Pinhais"
+              },
+              {
+                  "nome": "Quatro Barras"
+              }
+          ]
+      },
+      {
+          "nome": "RJ",
+          "filhos": [
+              {
+                  "nome": "Angra dos Reis"
+              },
+              {
+                  "nome": "Barra Mansa"
+              },
+              {
+                  "nome": "Magé"
+              },
+              {
+                  "nome": "Niterói"
+              },
+              {
+                  "nome": "Nova Friburgo"
+              },
+              {
+                  "nome": "Nova Iguaçu"
+              },
+              {
+                  "nome": "Petrópolis"
+              },
+              {
+                  "nome": "Resende"
+              },
+              {
+                  "nome": "Rio de Janeiro"
+              },
+              {
+                  "nome": "Teresópolis"
+              }
+          ]
+      },
+      {
+          "nome": "RS",
+          "filhos": [
+              {
+                  "nome": "Canela"
+              },
+              {
+                  "nome": "Caxias do Sul"
+              },
+              {
+                  "nome": "Estação"
+              },
+              {
+                  "nome": "Ivoti"
+              },
+              {
+                  "nome": "Porto Alegre"
+              },
+              {
+                  "nome": "Santa Maria"
+              },
+              {
+                  "nome": "Taquara"
+              }
+          ]
+      },
+      {
+          "nome": "SC",
+          "filhos": [
+              {
+                  "nome": "Araranguá"
+              },
+              {
+                  "nome": "Balneário Camboriú"
+              },
+              {
+                  "nome": "Barra Velha"
+              },
+              {
+                  "nome": "Blumenau"
+              },
+              {
+                  "nome": "Chapecó"
+              },
+              {
+                  "nome": "Criciúma"
+              },
+              {
+                  "nome": "Florianópolis"
+              },
+              {
+                  "nome": "Morro da Fumaça"
+              },
+              {
+                  "nome": "Nova Veneza"
+              },
+              {
+                  "nome": "Santo Amaro da Imperatriz"
+              },
+              {
+                  "nome": "São Bento do Sul"
+              },
+              {
+                  "nome": "São José"
+              },
+              {
+                  "nome": "Tijucas"
+              }
+          ]
+      },
+      {
+          "nome": "SE",
+          "filhos": [
+              {
+                  "nome": "Aracaju"
+              }
+          ]
+      },
+      {
+          "nome": "SP",
+          "filhos": [
+              {
+                  "nome": "Adamantina"
+              },
+              {
+                  "nome": "Amparo"
+              },
+              {
+                  "nome": "Analândia"
+              },
+              {
+                  "nome": "Andradina"
+              },
+              {
+                  "nome": "Araraquara"
+              },
+              {
+                  "nome": "Atibaia"
+              },
+              {
+                  "nome": "Barretos"
+              },
+              {
+                  "nome": "Barueri"
+              },
+              {
+                  "nome": "Botucatu"
+              },
+              {
+                  "nome": "Campinas"
+              },
+              {
+                  "nome": "Cotia"
+              },
+              {
+                  "nome": "Diadema"
+              },
+              {
+                  "nome": "Franca"
+              },
+              {
+                  "nome": "Francisco Morato"
+              },
+              {
+                  "nome": "Franco da Rocha"
+              },
+              {
+                  "nome": "Guarujá"
+              },
+              {
+                  "nome": "Guarulhos"
+              },
+              {
+                  "nome": "Hortolândia"
+              },
+              {
+                  "nome": "Indaiatuba"
+              },
+              {
+                  "nome": "Itapecerica da Serra"
+              },
+              {
+                  "nome": "Itaquaquecetuba"
+              },
+              {
+                  "nome": "Itatiba"
+              },
+              {
+                  "nome": "Jacareí"
+              },
+              {
+                  "nome": "Jaú"
+              },
+              {
+                  "nome": "Jundiaí"
+              },
+              {
+                  "nome": "Leme"
+              },
+              {
+                  "nome": "Marília"
+              },
+              {
+                  "nome": "Mogi das Cruzes"
+              },
+              {
+                  "nome": "Orlândia"
+              },
+              {
+                  "nome": "Osasco"
+              },
+              {
+                  "nome": "Paulínia"
+              },
+              {
+                  "nome": "Pedreira"
+              },
+              {
+                  "nome": "Piracicaba"
+              },
+              {
+                  "nome": "Praia Grande"
+              },
+              {
+                  "nome": "Presidente Prudente"
+              },
+              {
+                  "nome": "Registro"
+              },
+              {
+                  "nome": "Ribeirão Preto"
+              },
+              {
+                  "nome": "Rio Claro"
+              },
+              {
+                  "nome": "Santo André"
+              },
+              {
+                  "nome": "Santos"
+              },
+              {
+                  "nome": "São Bernardo do Campo"
+              },
+              {
+                  "nome": "São Caetano do Sul"
+              },
+              {
+                  "nome": "São José dos Campos"
+              },
+              {
+                  "nome": "São Paulo"
+              },
+              {
+                  "nome": "Sorocaba"
+              },
+              {
+                  "nome": "Sumaré"
+              },
+              {
+                  "nome": "Taboão da Serra"
+              },
+              {
+                  "nome": "Taubaté"
+              },
+              {
+                  "nome": "Valinhos"
+              },
+              {
+                  "nome": "Vinhedo"
+              },
+              {
+                  "nome": "Votorantim"
+              }
+          ]
+      }
+  ]
+}

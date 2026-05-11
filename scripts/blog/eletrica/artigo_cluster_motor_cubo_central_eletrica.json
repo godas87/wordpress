@@ -1,0 +1,26 @@
+[
+  {
+    "tag": "Elétrica Usada",
+    "blog": [
+      {
+        "titulo": "Motor no cubo contra motor central segunda mão: subida, consumo e oficina aparecendo diferentes no carnê do mês",
+        "descricao": "Motor no cubo versus motor central: desempenho em subida, consumo e manutenção numa e-bike usada.",
+        "outline 1": "O Motor de Cubo (Hub Motor)",
+        "outline 2": "O Motor Central (Mid-Drive)",
+        "outline 3": "O Dilema na Compra de Usadas",
+        "taxonomias": [
+          {
+            "id": 13365,
+            "slug": "eletrica",
+            "tipo": "modalidade"
+          },
+          {
+            "id": 26,
+            "slug": "quadro",
+            "tipo": "componente"
+          }
+        ]
+      }
+    ]
+  }
+]
