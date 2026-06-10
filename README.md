@@ -14,12 +14,6 @@ Pastas com **funcionalidades isoladas** de um tema WordPress customizado: hooks,
 | `geo-api/` | CEP / localização |
 | `seo/` | Meta, schema, Pinterest |
 
-## Como “mostrar” isto num emprego
-
-1. Descreva no README do **repositório pinado** o papel de cada bloco (1–2 frases por pasta relevante).
-2. Indique que **credenciais e domínios** foram removidos ou substituídos por placeholders.
-3. Se tiver **demo** ou screenshots, ligue aqui.
-
 ## Instalação
 
 Estes ficheiros pressupõem um **WordPress** com tema activo e dependências (ACF, rotas, etc.) configuradas no projecto original. Para um leitor externo, o valor está na **leitura do código** e na **estrutura**, não num `wp core download` isolado.
